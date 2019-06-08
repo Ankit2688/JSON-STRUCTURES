@@ -1,0 +1,24 @@
+{ 
+	"Views": [{
+		"id": "pendingRequirements",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "pendingRequirements",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Requirement Name\",\"map\":\"requirementName\",\"translateId\":\"proposalSearch.requirementNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Requirement Status\",\"map\":\"requirementStatus\",\"translateId\":\"proposalSearch.requirementStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Ordered Date\",\"map\":\"orderedDate\",\"translateId\":\"proposalSearch.orderedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"}]",
+						"ngrepeat": "item.requirements",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+	]
+	
+
+}

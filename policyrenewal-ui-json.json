@@ -1,0 +1,22 @@
+{ 
+	"Views": [{
+		"id": "policyRenewal",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "PolicySOS",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Client Name\",\"map\":\"lob\",\"translateId\":\"policyRenewal.headerLOB\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/lobData.html\"},{\"label\":\"Policy Holder\",\"map\":\"customerName\",\"translateId\":\"policyRenewal.headerCustomerName\",\"cellTemplateUrl\":\"modules/common/partials/tableDataEllipsis.html\",\"translateIdMbl\":\"policyRenewal.mblHeaderCustomerName\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Policy Vehicle Number\",\"map\":\"vehicleNumber\",\"translateId\":\"policyRenewal.headerVehiclePolicyNumber\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"showHide\":\"showInWeb\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableDataPolicyVehicleNumberCell.html\"},{\"label\":\"Sum Insured\",\"map\":\"totalSumAssured\",\"translateId\":\"policyRenewal.headerSumInsured\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"showHide\":\"showInWeb\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableDataSumInsuredCell.html\"},{\"label\":\"SumInsuredVehiclePolNo\",\"map\":\"totalSumAssured\",\"translateId\":\"policyRenewal.headerSumInsuredPolicyVehicleNumber\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"showHide\":\"showInTab\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableDataSumInsuredVehiclePolicyCell.html\"},{\"label\":\"Expiry Date\",\"map\":\"expiryDate\",\"translateId\":\"policyRenewal.headerExpiryDate\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Renewal Status\",\"map\":\"comment\",\"translateId\":\"policyRenewal.renewalStatus\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableRenewalStatusChecboxCell.html\"}]",
+						"ngrepeat": "policyRenewalDetails",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+              ]
+}

@@ -1,0 +1,61 @@
+{ 
+	"Views": [{
+		"id": "Premium Due",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "All",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Policy Number\",\"map\":\"policyNumber\",\"translateId\":\"policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyNumber.html\"},{\"label\":\"Product Name\",\"map\":\"productName\",\"translateId\":\"productHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"},{\"label\":\"First Name of Life Assured\",\"map\":\"firstNameOfLA\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Last Name of Life Assured\",\"map\":\"lastNameOfLA\",\"translateId\":\"lastNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Renewal Date\",\"map\":\"renewalDate\",\"translateId\":\"appliedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Renewal Amount\",\"map\":\"premiumAmount\",\"translateId\":\"renewalAmount\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Earning Amount\",\"map\":\"earnings\",\"translateId\":\"commissionEarnedHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNo.\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Email\",\"map\":\"email\",\"translateId\":\"alerts.emailIdHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableHeadCellEmail.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"}]",
+						"ngrepeat": "item",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "NoFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}	,
+			{
+				"id": "Cheque Bounce",
+		        "enableCache" : true,
+				"templateID": "SmartaTable",
+				"controls": [{
+								"control": "smartTable",
+								"name": "All",
+								"caption": "",						
+								"translate-id": "",
+								"headers":"[{\"label\":\"Application Number\",\"map\":\"applicationNumber\",\"translateId\":\"applicationNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Product Name\",\"map\":\"productName\",\"translateId\":\"alerts.productNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"},{\"label\":\"First Name of Life Assured\",\"map\":\"firstNameOfLA\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Last Name of Life Assured\",\"map\":\"lastNameOfLA\",\"translateId\":\"lastNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Contact Number\",\"map\":\"mobileNumOfLA\",\"translateId\":\"alerts.contactNo.\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Login Date\",\"map\":\"loginDate\",\"translateId\":\"loginDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Instrument Amount\",\"map\":\"ifyp\",\"translateId\":\"instrumentAmtHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Requested Date\",\"map\":\"requestedDate\",\"translateId\":\"requestedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Received Date\",\"map\":\"receivedDate\",\"translateId\":\"recievedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Aging Duration\",\"map\":\"agingDuration\",\"translateId\":\"agingDurationHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Reason for Cheque Bounce\",\"map\":\"reason\",\"translateId\":\"reasonFoorChequeBounce\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"}]",
+								"ngrepeat": "item",
+								"sortable":true,
+								"pagination":true,
+								"itemsPerPage" :10,
+								"filterAlgorithm": "NoFilter"
+							}],
+							"title": "",
+							"translate-id": ""				
+					},
+					{
+						"id": "Issuance Pending",
+		                "enableCache" : true,
+						"templateID": "SmartaTable",
+						"controls": [{
+										"control": "smartTable",
+										"name": "All",
+										"caption": "",						
+										"translate-id": "",
+										"headers":"[{\"label\":\"Application Number\",\"map\":\"applicationNumber\",\"translateId\":\"applicationNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Product Name\",\"map\":\"productName\",\"translateId\":\"productHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"},{\"label\":\"First Name of Life Assured\",\"map\":\"firstNameOfLA\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Last Name of Life Assured\",\"map\":\"lastNameOfLA\",\"translateId\":\"lastNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Contact Number of LA\",\"map\":\"mobileNumOfLA\",\"translateId\":\"alerts.contactNo.\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCellMedium.html\"},{\"label\":\"Login Date\",\"map\":\"loginDate\",\"translateId\":\"loginDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Instrument Amount\",\"map\":\"ifyp\",\"translateId\":\"mfypAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Discrepancy/Medical Date\",\"map\":\"medicalDiscrepancyDetails.date\",\"translateId\":\"discrepancyDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Discrepancy/Medical Code\",\"map\":\"medicalDiscrepancyDetails.code\",\"translateId\":\"discOrMedicalCode\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Discrepancy/Medical Descripion\",\"map\":\"medicalDiscrepancyDetails.description\",\"translateId\":\"descriptionHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"},{\"label\":\"Discrepancy Status\",\"map\":\"discrepancyStatus\",\"translateId\":\"potentialToEarn.discrepancyStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Aging Duration\",\"map\":\"agingDuration\",\"translateId\":\"potentialToEarn.agingDuration\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+										"ngrepeat": "item",
+										"sortable":true,
+										"pagination":true,
+										"itemsPerPage" :10,
+										"filterAlgorithm": "NoFilter"
+									}],
+									"title": "",
+									"translate-id": ""				
+							}	
+	]
+
+}

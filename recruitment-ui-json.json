@@ -1,0 +1,99 @@
+{
+    "Views": [{
+		"id": "cscischeduled",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "cscischeduled",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Disposition\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"},{\"label\":\"CS/CI Scheduled Date\",\"map\":\"csciScheduleDate\",\"translateId\":\"CSCICategory\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"}]",
+						"ngrepeat": "item",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+		"title": "",
+		"translate-id": ""				
+	   },
+	   {
+		"id": "leadSource",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "leadSource",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Disposition\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"}]",
+						"ngrepeat": "leadData",						
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "timePeriodFilter"
+					}],
+		"title": "",
+		"translate-id": ""
+	   },
+	   {
+		"id": "leadFunnel",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "leadFunnel",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Disposition\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"}]",
+						"ngrepeat": "item",						
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+		"title": "",
+		"translate-id": ""
+	   },
+	   {
+		"id": "careerSeminar",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "careerSeminar",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Lead Source\",\"map\":\"leadSource\",\"translateId\":\"recruitment.leadSource\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Contact No\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"CS Scheduled Date\",\"map\":\"csScheduleDate\",\"translateId\":\"recruitment.csScheduledHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"CS Done Date\",\"map\":\"csDoneDate\",\"translateId\":\"recruitment.csDoneHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Disposition\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"}]",
+						"ngrepeat": "item",						
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+		"title": "",
+		"translate-id": ""
+	   },
+	   {
+		"id": "careerInterview",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "careerInterview",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Lead Source\",\"map\":\"leadSource\",\"translateId\":\"recruitment.leadSource\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Contact No\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"CI Scheduled Date\",\"map\":\"ciScheduleDate\",\"translateId\":\"recruitment.ciScheduledHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"CI Done Date\",\"map\":\"ciDoneDate\",\"translateId\":\"recruitment.ciDoneHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Disposition\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"}]",
+						"ngrepeat": "item",						
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+		"title": "",
+		"translate-id": ""
+	    }
+			
+]
+}

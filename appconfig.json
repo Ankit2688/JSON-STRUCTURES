@@ -1,0 +1,20 @@
+{
+	"themeList": {
+		"Theme1": {
+			"theme": "ABCTHEME"
+		},
+		"Theme2": {
+			"theme": "MainTheme"
+		}
+	},
+  	"defaultDayCountRelationship" : 7,
+	"defaultDayCountAlerts" : "7",
+	"dayCountAlerts" : "60",
+	"defaultDayCount" : 7,
+	"default30DayCount" : 30,
+    "resultPerPage":10,
+	"majorVersion" : "2",
+	"minorVersion" : "0",
+	"updateDownloadUrl":"https://omniuat.mpigenerali.com/AgentServiceUAT/default.htm",
+  	"autoSignOff": 7200000
+}

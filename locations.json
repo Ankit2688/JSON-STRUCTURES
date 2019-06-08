@@ -1,0 +1,718 @@
+{
+"Version": "1",
+"PANNEL_HOSPITALS" : [{
+                         	"marker": "ALPHA SPECIALIST CENTRE",
+                         	"latitude": "N 3° 9' 11.09''",
+                         	"longitude": "E 101° 35' 44.097''"
+                         },
+                         {
+                         	"marker": "AMANJAYA SPECIALIST CENTRE",
+                         	"latitude": "N 5° 40' 23.111''",
+                         	"longitude": "E 100° 30' 38.372''"
+                         },
+                         {
+                         	"marker": "AN-NUR SPECIALIST HOSPITAL",
+                         	"latitude": "N 2° 57' 36.475''",
+                         	"longitude": "E 101° 45' 13.37''"
+                         },
+                         {
+                         	"marker": "ANSON BAY MEDICAL CENTRE",
+                         	"latitude": "N 3° 59' 37.004''",
+                         	"longitude": "E 100° 59' 45.211''"
+                         },
+                         {
+                         	"marker": "APOLLO MEDICAL CENTRE",
+                         	"latitude": "N 4° 50' 57.919''",
+                         	"longitude": "E 100° 44' 10.584'"
+                         },
+                         {
+                         	"marker": "ARA DAMANSARA MEDICAL CENTRE",
+                         	"latitude": "N 3° 6' 53.549''",
+                         	"longitude": "E 101° 33' 54.629''"
+                         },
+                         {
+                         	"marker": "ASSUNTA HOSPITAL",
+                         	"latitude": "N 3° 5' 36.027''",
+                         	"longitude": "E 101° 38' 44.08'"
+                         },
+                         {
+                         	"marker": "BAGAN SPECIALIST CENTRE",
+                         	"latitude": "N 5° 24' 37.692''",
+                         	"longitude": "E 100° 23' 9.599''"
+                         },
+                         {
+                         	"marker": "BEACON INTERNATIONAL SPECIALIST CENTRE",
+                         	"latitude": "N 3° 5' 29.26''",
+                         	"longitude": "E 101° 38' 16.825''"
+                         },
+                         {
+                         	"marker": "BINTULU MEDICAL CENTRE",
+                         	"latitude": "N 3° 12' 1.933''",
+                         	"longitude": "E 113° 3' 23.889''"
+                         },
+                         {
+                         	"marker": "BORNEO MEDICAL CENTRE",
+                         	"latitude": "N 1° 31' 45.304''",
+                         	"longitude": "E 110° 21' 27.655''"
+                         },
+                         {
+                         	"marker": "CARL CORRYNTON MEDICAL CENTRE [FORMERLY KNOWN AS TROPICANA MEDICAL CENTRE]",
+                         	"latitude": "N 5° 24' 8.986''",
+                         	"longitude": "E 100° 18' 13.165''"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - BINTULU",
+                         	"latitude": "N 3° 13' 59.44''",
+                         	"longitude": "E 113° 5' 9.855''"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - BUKIT RIMAU",
+                         	"latitude": "N 2° 59' 49.628''",
+                         	"longitude": "E 101° 31' 44.7''"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - CHERAS",
+                         	"latitude": "N 3° 1' 53.469''",
+                         	"longitude": "E 101° 45' 46.565'"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - ISKANDAR PUTERI",
+                         	"latitude": "N 1° 28' 43.957''",
+                         	"longitude": "E 103° 38' 14.209"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - MIRI",
+                         	"latitude": "N 4° 24' 41.023''",
+                         	"longitude": "E 114° 0' 6.837''"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - PETALING JAYA",
+                         	"latitude": "N 3° 7' 5.851''",
+                         	"longitude": "E 101° 38' 14.69''"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - PUCHONG",
+                         	"latitude": "N 3° 1' 25.854''",
+                         	"longitude": "E 101° 37' 20.612''"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - SEREMBAN",
+                         	"latitude": "N 2° 42' 37.644''",
+                         	"longitude": "E 101° 55' 3.498''"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - SETAPAK",
+                         	"latitude": "N 3° 12' 2.775''",
+                         	"longitude": "E 101° 43' 5.591''"
+                         },
+                         {
+                         	"marker": "COLUMBIA ASIA HOSPITAL - TAIPING",
+                         	"latitude": "N 4° 51' 56.223''",
+                         	"longitude": "E 100° 44' 3.663''"
+                         },
+                         {
+                         	"marker": "DAMAI MEDICAL AMBULATORY CLINIC SDN BHD",
+                         	"latitude": "N 2° 11' 58.843''",
+                         	"longitude": "E 102° 14' 31.129''"
+                         },
+                         {
+                         	"marker": "DAMAI SERVICE HOSPITAL (HQ) SDN. BHD.",
+                         	"latitude": "N 3° 10' 12.454''",
+                         	"longitude": "E 101° 41' 42.687''"
+                         },
+                         {
+                         	"marker": "DAMAI SERVICE HOSPITAL (MELAWATI) SDN. BHD.",
+                         	"latitude": "N 3° 12' 37.764''",
+                         	"longitude": "E 101° 45' 7.596''"
+                         },
+                         {
+                         	"marker": "DAMAI SPECIALIST HOSPITAL",
+                         	"latitude": "N 5° 58' 13.354''",
+                         	"longitude": "E 116° 5' 34.609''"
+                         },
+                         {
+                         	"marker": "DARUL MAKMUR MEDICAL CENTRE",
+                         	"latitude": "N 3° 44' 51.823''",
+                         	"longitude": "E 103° 18' 42.509''"
+                         },
+                         {
+                         	"marker": "DEMC SPECIALIST HOSPITAL SHAH ALAM",
+                         	"latitude": "N 3° 4' 18.684''",
+                         	"longitude": "E 101° 31' 26.093''"
+                         },
+                         {
+                         	"marker": "GLENEAGLES MEDICAL CENTRE, PENANG",
+                         	"latitude": "N 5° 25' 36.747''",
+                         	"longitude": "E 100° 19' 11.66''"
+                         },
+                         {
+                         	"marker": "HOPE CHILDREN HOSPITAL - GOTTLIEB",
+                         	"latitude": "N 5° 24' 39.195''",
+                         	"longitude": "E 100° 18' 57.604'"
+                         },
+                         {
+                         	"marker": "HOSPITAL AMAN - JALAN IPOH",
+                         	"latitude": "N 3° 10' 17.539''",
+                         	"longitude": "E 101° 41' 35.815''"
+                         },
+                         {
+                         	"marker": "HOSPITAL FATIMAH",
+                         	"latitude": "N 4° 38' 43.066''",
+                         	"longitude": "E 101° 6' 6.814''"
+                         },
+                         {
+                         	"marker": "HOSPITAL ISLAM AZ-ZAHRAH",
+                         	"latitude": "N 2° 57' 35.607''",
+                         	"longitude": "E 101° 45' 15.111''"
+                         },
+                         {
+                         	"marker": "HOSPITAL LAM WAH EE",
+                         	"latitude": "N 5° 23' 30.75''",
+                         	"longitude": "E 100° 18' 15.112''"
+                         },
+                         {
+                         	"marker": "HOSPITAL PAKAR PRKMUIP",
+                         	"latitude": "N 3° 48' 29.211''",
+                         	"longitude": "E 103° 19' 27.948''"
+                         },
+                         {
+                         	"marker": "HOSPITAL PENAWAR PANDAN CITY",
+                         	"latitude": "N 1° 31' 31.444''",
+                         	"longitude": "E 103° 45' 44.528''"
+                         },
+                         {
+                         	"marker": "HOSPITAL PENAWAR SDN. BHD.",
+                         	"latitude": "N 1° 28' 6.506''",
+                         	"longitude": "E 103° 54' 14.785''"
+                         },
+                         {
+                         	"marker": "HOSPITAL PUSRAWI SDN. BHD.",
+                         	"latitude": "N 3° 10' 16.45''",
+                         	"longitude": "E 101° 42' 36.615"
+                         },
+                         {
+                         	"marker": "INSTITUT JANTUNG NEGARA",
+                         	"latitude": "N 3° 10' 16.023''",
+                         	"longitude": "E 101° 42' 30.946''"
+                         },
+                         {
+                         	"marker": "INTERNATIONAL SPECIALIST EYE CENTRE (DAY CARE)",
+                         	"latitude": "N 3° 7' 3.554''",
+                         	"longitude": "E 101° 40' 35.911''"
+                         },
+                         {
+                         	"marker": "ISLAND HOSPITAL",
+                         	"latitude": "N 5° 25' 19.74''",
+                         	"longitude": "E 100° 18' 51.152''"
+                         },
+                         {
+                         	"marker": "KAJANG PLAZA MEDICAL CENTRE",
+                         	"latitude": "N 2° 59' 44.128''",
+                         	"longitude": "E 101° 47' 16.904''"
+                         },
+                         {
+                         	"marker": "KCDC HOSPITAL ",
+                         	"latitude": "N 3° 49' 23.778''",
+                         	"longitude": "E 103° 19' 33.533''"
+                         },
+                         {
+                         	"marker": "KEDAH MEDICAL CENTRE",
+                         	"latitude": "N 6° 8' 56.524''",
+                         	"longitude": "E 100° 22' 9.863''"
+                         },
+                         {
+                         	"marker": "KELANA JAYA MEDICAL CENTRE SDN. BHD.",
+                         	"latitude": "N 3° 5' 50.388''",
+                         	"longitude": "E 101° 35' 49.991''"
+                         },
+                         {
+                         	"marker": "KEMPAS MEDICAL CENTRE",
+                         	"latitude": "N 1° 31' 18.433''",
+                         	"longitude": "E 103° 43' 28.62''"
+                         },
+                         {
+                         	"marker": "KLUANG UTAMA SPECIALIST HOSPITAL",
+                         	"latitude": "N 2° 1' 39.557''",
+                         	"longitude": "E 103° 19' 56.042''"
+                         },
+                         {
+                         	"marker": "KMC Medical Centre  (KINTA MEDICAL CENTRE)",
+                         	"latitude": "N 4° 35' 19.402''",
+                         	"longitude": "E 101° 5' 15.097''"
+                         },
+                         {
+                         	"marker": "KOTA BHARU MEDICAL CENTRE",
+                         	"latitude": "N 6° 6' 18.095''",
+                         	"longitude": "E 102° 15' 34.815''"
+                         },
+                         {
+                         	"marker": "KPJ AMPANG PUTERI SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 9' 36.048''",
+                         	"longitude": "E 101° 45' 7.696''"
+                         },
+                         {
+                         	"marker": "KPJ BANDAR MAHARANI SPECIALIST HOSPITAL",
+                         	"latitude": "N 2° 2' 8.684''",
+                         	"longitude": "E 102° 34' 2.188''"
+                         },
+                         {
+                         	"marker": "KPJ DAMANSARA SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 8' 14.629''",
+                         	"longitude": "E 101° 37' 39.208''"
+                         },
+                         {
+                         	"marker": "KPJ IPOH SPECIALIST HOSPITAL",
+                         	"latitude": "N 4° 35' 41.535''",
+                         	"longitude": "E 101° 5' 46.437''"
+                         },
+                         {
+                         	"marker": "KPJ JOHOR SPECIALIST HOSPITAL",
+                         	"latitude": "N 1° 28' 33.698''",
+                         	"longitude": "E 103° 44' 28.046'"
+                         },
+                         {
+                         	"marker": "KPJ KAJANG SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 0' 46.174''",
+                         	"longitude": "E 101° 46' 42.329''"
+                         },
+                         {
+                         	"marker": "KPJ KLANG SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 3' 44.1''",
+                         	"longitude": "E 101° 27' 47.629''"
+                         },
+                         {
+                         	"marker": "KPJ PAHANG SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 48' 0.036''",
+                         	"longitude": "E 103° 20' 12.106''"
+                         },
+                         {
+                         	"marker": "KPJ PASIR GUDANG SPECIALIST HOSPITAL",
+                         	"latitude": "N 1° 28' 36.942''",
+                         	"longitude": "E 103° 53' 44.584''"
+                         },
+                         {
+                         	"marker": "KPJ PENANG SPECIALIST HOSPITAL",
+                         	"latitude": "N 5° 22' 8.868''",
+                         	"longitude": "E 100° 26' 3.454''"
+                         },
+                         {
+                         	"marker": "KPJ PERDANA SPECIALIST HOSPITAL",
+                         	"latitude": "N 6° 7' 17.054''",
+                         	"longitude": "E 102° 14' 37.449''"
+                         },
+                         {
+                         	"marker": "KPJ PUSAT PAKAR MATA CENTRE FOR SIGHT",
+                         	"latitude": "N 3° 19' 26.08'' ",
+                         	"longitude": "E 101° 34' 45.891''"
+                         },
+                         {
+                         	"marker": "KPJ PUTERI SPECIALIST HOSPITAL",
+                         	"latitude": "N 1° 29' 26.544''",
+                         	"longitude": "E 103° 44' 31.357''"
+                         },
+                         {
+                         	"marker": "KPJ RAWANG SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 19' 14.295''",
+                         	"longitude": "E 101° 34' 44.225''"
+                         },
+                         {
+                         	"marker": "KPJ SABAH SPECIALIST HOSPITAL",
+                         	"latitude": "N 5° 58' 0.751''",
+                         	"longitude": "E 116° 5' 34.447''"
+                         },
+                         {
+                         	"marker": "KPJ SELANGOR SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 3' 26.453''",
+                         	"longitude": "E 101° 32' 26.707''"
+                         },
+                         {
+                         	"marker": "KPJ SEREMBAN SPECIALIST HOSPITAL",
+                         	"latitude": "N 2° 43' 7.075''",
+                         	"longitude": "E 101° 55' 18.622''"
+                         },
+                         {
+                         	"marker": "KPJ SERI MANJUNG SPECIALIST CENTRE ",
+                         	"latitude": "N 4° 12' 27.785''",
+                         	"longitude": "E 100° 40' 30.652''"
+                         },
+                         {
+                         	"marker": "KPJ TAWAKKAL SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 10' 38.029''",
+                         	"longitude": "E 101° 41' 59.247''"
+                         },
+                         {
+                         	"marker": "KPMC PUCHONG MEDICAL CENTRE",
+                         	"latitude": "N 3° 1' 28.758''",
+                         	"longitude": "E 101° 36' 56.72''"
+                         },
+                         {
+                         	"marker": "KUALA LUMPUR SPORTS MEDICINE CENTRE",
+                         	"latitude": "N 3° 9' 8.32''",
+                         	"longitude": "E 101° 39' 55.699''"
+                         },
+                         {
+                         	"marker": "KUALA TERENGGANU SPECIALIST HOSPITAL SDN. BHD.",
+                         	"latitude": "N 5° 18' 56.564''",
+                         	"longitude": "E 103° 8' 57.2''"
+                         },
+                         {
+                         	"marker": "KUANTAN MEDICAL CENTRE",
+                         	"latitude": "N 3° 49' 45.588''",
+                         	"longitude": "E 103° 17' 56.965''"
+                         },
+                         {
+                         	"marker": "KUCHING SPECIALIST HOSPITAL",
+                         	"latitude": "N 1° 31' 4.098''",
+                         	"longitude": "E 110° 22' 42.422''"
+                         },
+                         {
+                         	"marker": "LARUT MEDICAL CENTRE",
+                         	"latitude": "N 4° 50' 51.905''",
+                         	"longitude": "E 100° 43' 57.706''"
+                         },
+                         {
+                         	"marker": "LOH GUAN LYE SPECIALISTS CENTRE",
+                         	"latitude": "N 5° 25' 9.93''",
+                         	"longitude": "E 100° 19' 4.555''"
+                         },
+                         {
+                         	"marker": "LOURDES MEDICAL CENTRE",
+                         	"latitude": "N 3° 10' 22.779''",
+                         	"longitude": "E 101° 41' 28.385''"
+                         },
+                         {
+                         	"marker": "MAHKOTA MEDICAL CENTRE SDN. BHD.",
+                         	"latitude": "N 2° 11' 15.43''",
+                         	"longitude": "E 102° 15' 5.851''"
+                         },
+                         {
+                         	"marker": "MANIPAL HOSPITAL KLANG",
+                         	"latitude": "N 3° 0' 35.851''",
+                         	"longitude": "E 101° 25' 54.254"
+                         },
+                         {
+                         	"marker": "MAWAR MEDICAL CENTRE",
+                         	"latitude": "N 2° 42' 42.384''",
+                         	"longitude": "E 101° 56' 32.24''"
+                         },
+                         {
+                         	"marker": "MEDICAL SPECIALIST CENTRE (JB)",
+                         	"latitude": "N 1° 27' 57.755''",
+                         	"longitude": "E 103° 45' 34.513''"
+                         },
+                         {
+                         	"marker": "METRO SPECIALIST HOSPITAL",
+                         	"latitude": "N 5° 37' 44.59''",
+                         	"longitude": "E 100° 30' 35.95''"
+                         },
+                         {
+                         	"marker": "MIRI CITY MEDICAL CENTRE",
+                         	"latitude": "N 4° 23' 40.502''",
+                         	"longitude": "E 113° 59' 25.393''"
+                         },
+                         {
+                         	"marker": "MOUNT MIRIAM HOSPITAL ",
+                         	"latitude": "N 5° 27' 33.322''",
+                         	"longitude": "E 100° 18' 2.501''"
+                         },
+                         {
+                         	"marker": "NILAI MEDICAL CENTRE",
+                         	"latitude": "N 2° 48' 41.821''",
+                         	"longitude": "E 101° 46' 23.642''"
+                         },
+                         {
+                         	"marker": "NORMAH MEDICAL SPECIALIST CENTRE",
+                         	"latitude": "N 1° 34' 41.826''",
+                         	"longitude": "E 110° 19' 44.306''"
+                         },
+                         {
+                         	"marker": "NSCMH MEDICAL CENTRE",
+                         	"latitude": "N 2° 44' 15.719''",
+                         	"longitude": "E 101° 55' 53.212''"
+                         },
+                         {
+                         	"marker": "ORIENTAL MELAKA STRAITS MEDICAL CENTRE",
+                         	"latitude": "N 2° 12' 29.694''",
+                         	"longitude": "E 102° 12' 50.22''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL AMPANG",
+                         	"latitude": "N 3° 7' 40.501''",
+                         	"longitude": "E 101° 45' 8.424''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL AYER KEROH",
+                         	"latitude": "N 2° 14' 15.733''",
+                         	"longitude": "E 102° 17' 12.68''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL BATU PAHAT",
+                         	"latitude": "N 1° 51' 40.536''",
+                         	"longitude": "E 102° 57' 3.6''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL CHERAS",
+                         	"latitude": "N 3° 6' 9.323''",
+                         	"longitude": "E 101° 44' 26.516''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL IPOH",
+                         	"latitude": "N 4° 36' 12.049''",
+                         	"longitude": "E 101° 7' 10.509''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL KLANG",
+                         	"latitude": "N 3° 1' 35.219''",
+                         	"longitude": "E 101° 25' 34.602''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL KUALA LUMPUR",
+                         	"latitude": "N 3° 7' 12.409''",
+                         	"longitude": "E 101° 39' 58.536''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL MANJUNG",
+                         	"latitude": "N 4° 12' 56.988''",
+                         	"longitude": "E 100° 40' 12.634''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL PENANG",
+                         	"latitude": "N 5° 19' 15.77''",
+                         	"longitude": "E 100° 16' 56.325''"
+                         },
+                         {
+                         	"marker": "PANTAI HOSPITAL SUNGAI PETANI",
+                         	"latitude": "N 5° 40' 20.766''",
+                         	"longitude": "E 100° 30' 47.63''"
+                         },
+                         {
+                         	"marker": "PARKCITY MEDICAL CENTRE",
+                         	"latitude": "N 3° 11' 21.25''",
+                         	"longitude": "E 101° 38' 17.368''"
+                         },
+                         {
+                         	"marker": "PENANG ADVENTIST HOSPITAL",
+                         	"latitude": "N 5° 25' 56.5''",
+                         	"longitude": "E 100° 18' 18.196''"
+                         },
+                         {
+                         	"marker": "PERAK COMMUNITY SPECIALIST HOSPITAL",
+                         	"latitude": "N 4° 34' 53.687''",
+                         	"longitude": "E 101° 6' 1.168''"
+                         },
+                         {
+                         	"marker": "PRINCE COURT MEDICAL CENTRE SDN. BHD.",
+                         	"latitude": "N 3° 8' 56.286''",
+                         	"longitude": "E 101° 43' 18.592''"
+                         },
+                         {
+                         	"marker": "PUTRA MEDICAL CENTRE",
+                         	"latitude": "N 6° 7' 25.406''",
+                         	"longitude": "E 100° 21' 56.502''"
+                         },
+                         {
+                         	"marker": "PUTRA MEDICAL CENTRE (SG BULOH)",
+                         	"latitude": "N 3° 12' 33.974''",
+                         	"longitude": "E 101° 33' 43.681''"
+                         },
+                         {
+                         	"marker": "PUTRA SPECIALIST HOSPITAL (BATU PAHAT) SDN. BHD.",
+                         	"latitude": "N 1° 51' 28.627''",
+                         	"longitude": "E 102° 55' 20.564''"
+                         },
+                         {
+                         	"marker": "PUTRA SPECIALIST HOSPITAL (MELAKA) SDN. BHD.",
+                         	"latitude": "N 2° 12' 7.719''",
+                         	"longitude": "E 102° 15' 8.82''"
+                         },
+                         {
+                         	"marker": "QHC MEDICAL CENTRE",
+                         	"latitude": "N 3° 2' 51.302''",
+                         	"longitude": "E 101° 35' 14.337''"
+                         },
+                         {
+                         	"marker": "QUILL ORTHOPAEDIC SPECIALIST CENTRE SDN. BHD.",
+                         	"latitude": "N 3° 9' 9.485''",
+                         	"longitude": "E 101° 37' 13.037''"
+                         },
+                         {
+                         	"marker": "RAFFLESIA MEDICAL CENTRE SDN. BHD.",
+                         	"latitude": "N 5° 55' 9.027''",
+                         	"longitude": "E 116° 3' 27.052''"
+                         },
+                         {
+                         	"marker": "REGENCY SPECIALIST HOSPITAL",
+                         	"latitude": "N 1° 29' 53.035''",
+                         	"longitude": "E 103° 52' 21.391''"
+                         },
+                         {
+                         	"marker": "REJANG MEDICAL CENTRE",
+                         	"latitude": "N 2° 17' 32.932''",
+                         	"longitude": "E 111° 50' 12.696''"
+                         },
+                         {
+                         	"marker": "SALAM SENAWANG SPECIALIST HOSPITAL",
+                         	"latitude": "N 2° 42' 44.83''",
+                         	"longitude": "E 102° 0' 2.783''"
+                         },
+                         {
+                         	"marker": "SALAM SHAH ALAM SPECIALIST HOSPITAL ",
+                         	"latitude": "N 3° 2' 56.985''",
+                         	"longitude": "E 101° 32' 6.824''"
+                         },
+                         {
+                         	"marker": "SENTOSA MEDICAL CENTRE",
+                         	"latitude": "N 3° 10' 14.988''",
+                         	"longitude": "E 101° 41' 50.496''"
+                         },
+                         {
+                         	"marker": "SENTOSA SPECIALIST HOSPITAL",
+                         	"latitude": "N 3° 0' 21.485''",
+                         	"longitude": "E 101° 28' 58.705''"
+                         },
+                         {
+                         	"marker": "SENTUL MEDICAL CENTRE",
+                         	"latitude": "N 3° 10' 27.516''",
+                         	"longitude": "E 101° 41' 34.475''"
+                         },
+                         {
+                         	"marker": "SIBU SPECIALIST MEDICAL CENTRE",
+                         	"latitude": "N 2° 18' 3.453''",
+                         	"longitude": "E 111° 49' 56.263''"
+                         },
+                         {
+                         	"marker": "SRI KOTA SPECIALIST MEDICAL CENTRE",
+                         	"latitude": "N 3° 2' 25.163''",
+                         	"longitude": "E 101° 26' 44.077''"
+                         },
+                         {
+                         	"marker": "SUBANG JAYA MEDICAL CENTRE",
+                         	"latitude": "N 3° 4' 42.283''",
+                         	"longitude": "E 101° 35' 37.039''"
+                         },
+                         {
+                         	"marker": "SUNGAI LONG MEDICAL CENTER SDN. BHD.",
+                         	"latitude": "N 3° 2' 23.492''",
+                         	"longitude": "E 101° 47' 41.887''"
+                         },
+                         {
+                         	"marker": "SUNWAY MEDICAL CENTRE SDN. BHD.",
+                         	"latitude": "N 3° 3' 58.382''",
+                         	"longitude": "E 101° 36' 34.38''"
+                         },
+                         {
+                         	"marker": "TAIPING MEDICAL CENTRE",
+                         	"latitude": "N 4° 50' 49.764''",
+                         	"longitude": "E 100° 43' 56.832''"
+                         },
+                         {
+                         	"marker": "TAMAN DESA MEDICAL CENTRE",
+                         	"latitude": "N 3° 5' 45.928''",
+                         	"longitude": "E 101° 40' 40.232''"
+                         },
+                         {
+                         	"marker": "THE TUN HUSSEIN ONN NATIONAL EYE HOSPITAL",
+                         	"latitude": "N 3° 6' 21.284''",
+                         	"longitude": "E 101° 38' 22.241''"
+                         },
+                         {
+                         	"marker": "TIMBERLAND MEDICAL CENTRE",
+                         	"latitude": "N 1° 31' 18.302''",
+                         	"longitude": "E 110° 20' 18.077''"
+                         },
+                         {
+                         	"marker": "TROPICANA MEDICAL CENTRE (M) SDN. BHD.",
+                         	"latitude": "N 3° 8' 56.481''",
+                         	"longitude": "E 101° 34' 43.681''"
+                         },
+                         {
+                         	"marker": "TUNG SHIN HOSPITAL",
+                         	"latitude": "N 3° 8' 46.992''",
+                         	"longitude": "E 101° 42' 15.77''"
+                         },
+                         {
+                         	"marker": "UKM SPECIALIST CENTRE",
+                         	"latitude": "N 3° 5' 53.592''",
+                         	"longitude": "E 101° 43' 33.599''"
+                         },
+                         {
+                         	"marker": "UM SPECIALIST CENTRE SDN. BHD.",
+                         	"latitude": "N 3° 6' 58.318''",
+                         	"longitude": "E 101° 39' 2.631''"
+                         }],
+    "GENERALI_BRANCHES" : [{
+	  						"marker": "HEAD OFFICE, 8, Jalan Munshi Abdullah",
+	  						"latitude": "3.155124",
+	  						"longitude": "101.699255"
+						  },
+	  					  {
+							  "marker": "KLANG,8th Floor, Jalan Kepayang",
+							  "latitude": "3.049463",
+							  "longitude": "101.450313"
+	  					  },
+	  					  {
+							  "marker": "KOTA BHARU, Jalan Jambatan Sultan Yahya Petra",
+							  "latitude": "6.114517",
+							  "longitude": "102.232699"
+	  					  },
+	  					  {
+							  "marker": "KUANTAN, Transit Point",
+							  "latitude": "3.821848",
+							  "longitude": "103.32556"
+	  					  },
+	  					  {
+							  "marker": "ALOR SETAR, No. 55, Bangunan Emum 55",
+							  "latitude": "6.135397",
+							  "longitude": "100.360862"
+	  					  },
+	  					  {
+							  "marker": "IPOH, Jalan Chung Thye Phin",
+							  "latitude": "4.587108",
+							  "longitude": "101.086778"
+	  					  },
+	  					  {
+							  "marker": "KANGAR, Jalan Kangar – Alor Setar",
+							  "latitude": "6.433379",
+							  "longitude": "100.187446"
+	  					  },
+	  					  {
+							  "marker": "PENANG, Jalan Cantonment",
+							  "latitude": "5.432828",
+							  "longitude": "100.312172"
+	  					  },
+	  					  {
+							  "marker": "JOHOR BAHRU, City Plaza",
+							  "latitude": "1.475818",
+							  "longitude": "103.762718"
+	  					  },
+	  					  {
+							  "marker": "MELAKA, Taman Melaka Raya",
+							  "latitude": "2.187847",
+							  "longitude": "102.252638"
+	  					  },
+	  					  {
+							  "marker": "SEREMBAN, Jalan Era Square 2",
+							  "latitude": "2.726969",
+							  "longitude": "101.931036"
+	  					  },
+	  					  {
+							  "marker": "KUCHING, Jalan Tun Ahmad Zaidi Adruce",
+							  "latitude": "1.551295",
+							  "longitude": "110.33746"
+	  					  },
+	  					  {
+							  "marker": "SIBU, Jalan Keranji",
+							  "latitude": "2.293858",
+							  "longitude": "111.827421"
+	  					  },
+	  					  {
+							  "marker": "KOTA KINABALU, Jalan Lintas Highway",
+							  "latitude": "5.950505",
+							  "longitude": "116.091678"
+	  					  },
+	  					  {
+							  "marker": "SANDAKAN, Mile 6, North Road",
+							  "latitude": "5.86537",
+							  "longitude": "118.057353"
+	  					  }]
+}

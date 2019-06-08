@@ -1,0 +1,281 @@
+{
+	"Version": "19",
+	"impComm": [{
+			"date": "02/08/2017",
+			"source": "MPI Generali",
+			"subject": "July Statement Of Account uploaded.",
+			"message": "Please be informed that July Statement Of Account has been uploaded.",
+			"Type": "text",
+			"circularType":""
+		},{
+			"date": "01/08/2017",
+			"source": "MPI Generali",
+			"subject": "The launch of our MPI Generali OMNI AG mobile app and new agent web portal!",
+			"message": "https://www.youtube.com/watch?v=ooPAc1Rvsh8",
+			"Type": "website",
+			"circularType":""
+
+		},{
+			"date": "01/08/2017",
+			"source": "MPI Generali",
+			"subject": "Circular No. 9 of 2017: Launching of OMNI AG Mobile App and New Agent Web Portal",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 9 of 2017.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "01/08/2017",
+			"source": "MPI Generali",
+			"subject": "OMNI AG - User Guide",
+			"message": "https://omni.mpigenerali.com/impmsg/User Guide  MPI Generali OMNI AG.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "01/08/2017",
+			"source": "MPI Generali",
+			"subject": "OMNI AG - FAQ",
+			"message": "https://omni.mpigenerali.com/impmsg/OMNI AG FAQ.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "31/05/2010",
+			"source": "Rexit/JPJ",
+			"subject": "Service Interruption at Reward-Link Gateway: JPJ Data Centre Maintenance",
+			"message": "Kindly be informed that JPJ replies will not be available on Friday, 2 June 2017 from 10:30pm to Saturday, 3 June 207 1:00am. This is due to JPJ’s data centre maintenance activities",
+			"Type": "text",
+			"circularType":""
+
+		},{
+			"date": "31/05/2010",
+			"source": "Motor Underwriting",
+			"subject": "Accident Assist Call Centre",
+			"message": "http://www.mpigenerali.com/index.php/insights-and-tips/accident-assist-call-centre.html",
+			"Type": "website",
+			"circularType":""
+
+		},{
+			"date": "12/05/2010",
+			"source": "Motor Underwriting",
+			"subject": "Motor Detariffication",
+			"message": "http://www.mpigenerali.com/assets/pdf/Financial-statements/MPI-Generali-FS2016.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "02/10/2017",
+			"source": "Revised Agents Handbook",
+			"subject": "Please be informed that we have updated Agents Handbook and please click on the link below to view the file.                  ",
+			"message": "https://omni.mpigenerali.com/impmsg/Agent's Handbook.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "02/10/2017",
+			"source": "Basic Fire Rate",
+			"subject": "Please click on the link below to view the file.                  ",
+			"message": "https://omni.mpigenerali.com/impmsg/Basic Fire Rate (Appendix A).pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "28/09/2017",
+			"source": "Updated Product Disclosure Sheet",
+			"subject": "Foreign Worker Hospitalisation and Surgical Insurance Scheme (SKHPPA)",
+			"message": "http://www.mpigenerali.com/assets/pds/en/pds/Foreign-Worker-Hospitalisation-and-Surgical-Insurance.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "24/07/2017",
+			"source": "Agent Circular No. 10 of 2017",
+			"subject": "Fire De-Tariff Update",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 10 of 2017.pdf",
+			"Type": "file",
+			"circularType":"AgentCircular"
+
+		},{
+			"date": "04/10/2017",
+			"source": "Motor UW Circular-0003/2017",
+			"subject": "Private Car Comprehensive Policy - Add On (Phase I)",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Motor UW Circular - UW 0003-2017 - Add On Phase I.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "19/10/2017",
+			"source": "Motor UW Circular-0004/2017",
+			"subject": "Private Car Comprehensive Policy - Add On (Phase I) Update",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Motor UW Circular - UW 0004-2017 Private Car Add On 191017.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "27/12/2017",
+			"source": "MPI Generali",
+			"subject": "Agency Circular No. 12 of 2017",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 12 of 2017.pdf",
+			"Type": "file",			
+			"circularType":"AgentCircular"
+
+		},{
+			"date": "27/12/2017",
+			"source": "MPI Generali",
+			"subject": "Agency Circular No. 13 of 2017 - OMNI AG",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 13 of 2017 - OMNI AG.pdf",
+			"Type": "file",	
+			"circularType":""
+
+			
+		},{
+			"date": "02/01/2018",
+			"source": "MPI Generali",
+			"subject": "Agency Circular No. 1 of 2018",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 1 of 2018.pdf",
+			"Type": "file",	
+			"circularType":""
+
+		},{
+			"date": "19/01/2018",
+			"source": "MPI Generali",
+			"subject": "Agency Circular No. 2 of 2018",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 2 of 2018.pdf",
+			"Type": "file",	
+			"circularType":""
+
+		},{
+			"date": "12/02/2018",
+			"source": "MPI Generali",
+			"subject": "Agency Circular No. 3 of 2018",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 3 of 2018.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "14/02/2018",
+			"source": "Motor Underwriting",
+			"subject": "Launching of MPI Generali Authorised Panel Repairers",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Motor UW Circular - UW 0004-2018 (Panel Repairers) to Agents 140218.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "26/02/2018",
+			"source": "MPI Generali",
+			"subject": "Agency Circular No. 4 of 2018",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 4 of 2018.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "26/03/2018",
+			"source": "MPI Generali",
+			"subject": "Agency Circular No. 5 of 2018",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 5 of 2018.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "04/04/2018",
+			"source": "MPI Generali",
+			"subject": "Agency Circular No. 6 of 2018",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 6 of 2018.pdf",
+			"Type": "file",	
+			"circularType":""
+
+		},{
+			"date": "25/04/2018",
+			"source": "Malaysian Motor Insurance and Takaful Award",
+			"subject": "MPI Generali voted as #3 motor insurance company in Malaysia for 2017/2018",
+			"message": "https://omni.mpigenerali.com/impmsg/20180426 News Update - MPI Generali no.3 Motor Insurer in Malaysia.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "23/05/2018",
+			"source": "Revision of GST w.e.f. 1 June 2018",
+			"subject": "GST treatment for policies issuance and commission/brokerage payment",
+			"message": "https://omni.mpigenerali.com/impmsg/Notification-official announcement.pdf",
+			"Type": "file",
+			"circularType":""
+
+		},{
+			"date": "25/05/2018",
+			"source": "GST Update",
+			"subject": "Simple guided principle based on Royal Malaysian Customs Department FAQ",
+			"message": "https://omni.mpigenerali.com/impmsg/GST FAQ - 25 May 2018 5.00pm .pdf",
+			"Type": "file",	
+			"circularType":""
+
+		},{
+			"date": "28/05/2018",
+			"source": "Agency Circular No. 7 of 2018",
+			"subject": "Updating of GST Rate on EASC System",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 7 of 2018.pdf",
+			"Type": "file",
+			"circularType":"AgentCircular"
+
+		},{
+			"date": "01/06/2018",
+			"source": "Agency Circular No. 8 of 2018",
+			"subject": "Malaysia Insurance Industry Customer Satisfaction Index Survey",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 8 of 2018.pdf",
+			"Type": "file",	
+			"circularType":"AgentCircular"
+
+		},{
+			"date": "08/06/2018",
+			"source": "Agency Circular No. 9 of 2018",
+			"subject": "eCover System Enhancements",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 9 of 2018.pdf",
+			"Type": "file",	
+			"circularType":"AgentCircular"
+
+		},{
+			"date": "11/06/2018",
+			"source": "Agency Circular No. 10 of 2018",
+			"subject": "Updates of BNM Measures to Accelerate the Migration to Electronic Payments",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 10 of 2018.pdf",
+			"Type": "file",	
+			"circularType":"AgentCircular"
+
+		},{
+			"date": "22/06/2018",
+			"source": "Agency Circular No. 11 of 2018",
+			"subject": "Clarification to BNM letter on Measures to Accelerate the Migration to e-Payment",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 11 of 2018.pdf",
+			"Type": "file",		
+			"circularType":"AgentCircular"
+
+		
+		},{
+			"date": "22/06/2012",
+			"source": "Agency Circular No. 11 of 2018",
+			"subject": "Clarification to BNM letter on Measures to Accelerate the Migration to e-Payment",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 11 of 2018.pdf",
+			"Type": "file",		
+			"circularType":"AgentCircular"
+
+		
+		},{
+			"date": "22/06/2019",
+			"source": "Agency Circular No. 11 of 2018",
+			"subject": "Clarification to BNM letter on Measures to Accelerate the Migration to e-Payment",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 11 of 2018.pdf",
+			"Type": "file",		
+			"circularType":"AgentCircular"
+
+		
+		},{
+			"date": "12/07/2018",
+			"source": "Agency Circular No. 11 of 201777",
+			"subject": "Clarification to BNM letter on Measures to Accelerate the Migration to e-Payment",
+			"message": "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 11 of 2018.pdf",
+			"Type": "file",		
+			"circularType":"AgentCircular"
+
+		
+		}
+	]
+}

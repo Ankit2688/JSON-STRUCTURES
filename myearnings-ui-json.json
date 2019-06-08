@@ -1,0 +1,104 @@
+{
+	"Views": [{
+		"id": "Policy Level Commissions",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "Policy Level Commissions",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Policy Number\",\"map\":\"policyNumber\",\"translateId\":\"alerts.policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"highlighted-cell\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyNumber.html\"},{\"label\":\"Insured\",\"map\":\"insured\",\"translateId\":\"myEarnings.insuredHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/planeTableCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Plan\",\"map\":\"plan\",\"translateId\":\"myEarnings.planHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/planeTableCell.html\",\"cellClass\":\"smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"},{\"label\":\"Mode\",\"map\":\"mode\",\"translateId\":\"myEarnings.modeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/planeTableCell.html\"},{\"label\":\"Issue Date\",\"map\":\"issuedDate\",\"translateId\":\"myEarnings.issuedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Benefit Split (%)\",\"map\":\"benefitSplit\",\"translateId\":\"myEarnings.benefitSplitHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/planeTableCell.html\"},{\"label\":\"Allocation Date\",\"map\":\"allocationDate\",\"translateId\":\"myEarnings.allocationDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"FYC/RYC\",\"map\":\"fycryc\",\"translateId\":\"myEarnings.fycrycHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/planeTableCell.html\"},{\"label\":\"Premium \",\"map\":\"premium\",\"translateId\":\"myEarnings.premiumHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Rate (%)\",\"map\":\"rate\",\"translateId\":\"myEarnings.rateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Gross Amount \",\"map\":\"grossAmount\",\"translateId\":\"myEarnings.grossAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Reason\",\"map\":\"reason\",\"translateId\":\"myEarnings.reasonHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/planeTableCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Disbursement Date\",\"map\":\"disbursementDate\",\"translateId\":\"disbursementDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"}]",
+						"ngrepeat": "policyLevelCommissionsDetails",
+						"sortable":false,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					},
+					{
+					         "control":"footer",
+						 "heading":"footerHeading"
+			                 }],
+					"title": "",
+					"translate-id": ""				
+			},
+                  {
+		"id": "ACSStatements",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "ACSStatements",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Sr. No.\",\"map\":\"$index\",\"isSortable:false,translateId\":\"myEarnings.srNoHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellTemplateUrl\":\"modules/common/partials/slNoSort.html\"},{\"label\":\"Disbursement Date\",\"map\":\"disbursementDate\",\"translateId\":\"disbursementDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/tableAnchorCellACS.html\"},{\"label\":\"Description\",\"map\":\"description\",\"translateId\":\"descriptionHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"}]",
+						"ngrepeat": "acsStatementsDetails",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+		{
+		"id": "IncentiveStatements",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "IncentiveStatements",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Sr. No.\",\"map\":\"$index\",\"isSortable:false,translateId\":\"myEarnings.srNoHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellTemplateUrl\":\"modules/common/partials/slNoSort.html\"},{\"label\":\"Disbursement Date\",\"map\":\"disbursementDate\",\"translateId\":\"disbursementDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/tableAnchorCellIncentive.html\"},{\"label\":\"Description\",\"map\":\"description\",\"translateId\":\"descriptionHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"}]",
+						"ngrepeat": "IncentiveStatementsDetails",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},	
+                        {
+		"id": "TDS Statements",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "TDS Statements",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Sr. No.\",\"map\":\"$index\",\"isSortable:false,translateId\":\"myEarnings.srNoHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellTemplateUrl\":\"modules/common/partials/slNoSort.html\"},{\"label\":\"Disbursement Date\",\"map\":\"disbursementDate\",\"translateId\":\"disbursementDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/tableAnchorCell.html\"},{\"label\":\"Description\",\"map\":\"description\",\"translateId\":\"descriptionHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"}]",
+						"ngrepeat": "TDSStatementDetails",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+                        {
+		"id": "compensation Schemes",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "compensation Schemes",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Scheme Upload Date\",\"map\":\"schemeUploadedDate\",\"translateId\":\"schemeUploadedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Scheme Description\",\"map\":\"schemeDescription\",\"translateId\":\"schemeDescriptionHeader\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/moreInfo.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"}]",
+						"ngrepeat": "compensationSchemesDetails",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+ 
+	]
+
+}

@@ -1,0 +1,24 @@
+{ 
+	"Views": [{
+		"id": "policyDetails",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "policyDetails",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Policy No.\",\"map\":\"policyNo\",\"translateId\":\"policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyNumber.html\"},{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Product\",\"map\":\"product\",\"translateId\":\"productHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"MFYP Amount\",\"map\":\"mfypAmount\",\"translateId\":\"mfypAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Applied Date\",\"map\":\"appliedDate\",\"translateId\":\"appliedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Paid on Date\",\"map\":\"paidOnDate\",\"translateId\":\"paidOnDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Commission Earned\",\"map\":\"commissionEarned\",\"translateId\":\"commissionEarnedHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"}]",
+						"ngrepeat": "item.policy",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+	]
+	
+
+}

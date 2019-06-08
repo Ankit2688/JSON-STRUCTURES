@@ -1,0 +1,251 @@
+{
+    "Version": "1",
+    "Views": [{
+		"id": "FeedbackIssueHeaderSection",
+		"enableCache": "true",
+		"ngShow": "true",
+		"popUpTabForm": "no",
+		"templateType": "threeColumnFormElements",
+		"sections": [{
+			"sectionId": "feedback_header_details",
+			"popUpTabForm": "yes",
+			"ngShow": "true",
+			"subsections": [{
+				"controls": [{
+					"control": "horizontalRadioWithoutPrefixLabel",
+					"name": "FeedbackIssueHeader",
+					"choices": [{
+						"id": "feedbackRd",
+						"translate-id": "feedback.fdheader",
+						"value": "Feedback",
+						"name": "feedbackRd",
+						"ngchange": "onChangeType()",
+						"ngmodel": "type"
+					},
+					{
+						"id": "issueRd",
+						"translate-id": "feedback.issueheader",
+						"value": "Issue",
+						"name": "issueRd",
+						"ngchange": "onChangeType()",
+						"ngmodel": "type"
+					}]
+				}]
+			}],
+			"title": ""
+		}],
+	"templateID": "popupwithTabs",
+	"enableFeedbackValidation": "no"
+	},
+	{
+		"enableFeedbackValidation": "YES",
+		"id": "FeedbackIssueDetailsSection",
+		"enableCache": "false",
+		"ngShow": "true",
+		"popUpTabForm": "no",
+		"templateType": "threeColumnFormElements",
+		"sections": [{
+			"sectionId": "feedback_details",
+			"popUpTabForm": "yes",
+			"ngShow": "true",
+			"subsections": [{
+				"controls": [		{
+					"control": "lookupDdl",	
+					"popUpFormStart": "yes",				
+					"popUpForm": "yes",
+					"controlElement": [{
+								"className": "pop_up_control_label",
+								"translate-id": "feedback.issuemodulename",
+								"popUpFormStart": "yes",
+								"description": "Source",
+								"ngShow": "toggleFlag",								
+								"name": "Issuemodulename",
+								"ngmodel": "feedbackIssueModel.moduleName",
+								"populationListName" : "modules",
+								"hasParent" : "No",
+								"currentType" : "MODULE_LIST_ESERVE",
+								"hasChild" :"No",
+								"row": "start",
+								"required": "true",
+								"blur": "updateErrorCount('FeedbackIssueDetailsSection')",
+								"requiredValidationMessageModel": "[[FeedbackIssueDetailsSection.Issuemodulename.$error.required]]Required",
+								"requiredValidationMessage": "feedback.feedbackModuleNumberRequiredValidationMessage"
+					
+					}]
+				},
+				{
+				"control": "popupInput",
+				"popUpForm": "yes",
+					"controlElement": [{
+						"description": "",
+						"name": "Issuescreenname",
+						"className": "pop_up_control_label",
+						"translate-id": "feedback.issuescreenname",
+						"required": "true",
+						"placeholder": "feedback.issuescreenname",
+						"maxlength": "45",
+						"ngShow": "toggleFlag",
+						"ngmodel": "feedbackIssueModel.screenName",
+						"blur": "updateErrorCount('FeedbackIssueDetailsSection')",
+						"ngClick":"updateErrorCount('FeedbackIssueDetailsSection')",
+						"requiredValidationMessageModel": "[[FeedbackIssueDetailsSection.Issuescreenname.$error.required]]Required",
+						"requiredValidationMessage": "feedback.feedbackScreenNameRequiredValidationMessage",
+						"regexExpression": "alphaNumericPattern",
+						"regexValidationMessageModel": "[[FeedbackIssueDetailsSection.Issuescreenname.$error.pattern]]Pattern",
+						"regexValidationMessage": "feedback.feedbackIssueScreennameRegexValidationMessage"
+						
+					}]
+				},
+				{
+				"control": "popupInput",
+				"popUpFormStart": "yes",
+				"popUpForm": "yes",
+					"controlElement": [{
+						"description": "",
+						"name": "Feedbacksubject",
+						"className": "pop_up_control_label",
+						"translate-id": "feedback.feedbacksubject",
+						"required": "true",
+						"placeholder": "feedback.feedbacksubject",
+						"maxlength": "45",
+						"ngmodel": "subject",
+						"blur": "updateErrorCount('FeedbackIssueDetailsSection')",
+						"regexExpression": "alphaNumericPattern",
+						"regexValidationMessageModel": "[[FeedbackIssueDetailsSection.Feedbacksubject.$error.pattern]]Pattern",
+						"regexValidationMessage": "feedback.feedbackSubjectRegexValidationMessage",
+						"requiredValidationMessageModel": "[[FeedbackIssueDetailsSection.Feedbacksubject.$error.required]]Required",
+						"requiredValidationMessage": "feedback.feedbackSubjectRequiredValidationMessage"
+					}]
+				},
+				{
+				"control": "popupTextareaWithDynamicSize",
+				"popUpFormStart": "yes",
+				"popUpForm": "yes",
+				"description": "",
+				"name": "Feedbackdescription",
+				"rows": "3",
+				"translate-id": "feedback.feedbackdescription",
+				"required": "true",
+				"placeholder": "feedback.feedbackdescription",
+				"ngShow": "true",
+				"maxlength": "500",
+				"ngmodel": "feedbackIssueModel.description",
+				"disabled": "false",
+				"blur": "updateErrorCount('FeedbackIssueDetailsSection')",
+				"requiredValidationMessageModel": "[[FeedbackIssueDetailsSection.Feedbackdescription.$error.required]]Required",
+				"requiredValidationMessage": "feedback.feedbackDescriptionRequiredValidationMessage",
+				"regexExpression": "alphaNumericPattern",
+				"regexValidationMessageModel": "[[FeedbackIssueDetailsSection.Feedbackdescription.$error.pattern]]Pattern",
+				"regexValidationMessage": "feedback.feedbackDescriptionRegexValidationMessage"
+				},
+				{
+				"control": "popupInput",
+				"popUpForm": "yes",
+					"controlElement": [{
+						"description": "",
+						"name": "Feedbackcontactnumber",
+						"className": "pop_up_control_label",
+						"translate-id": "feedback.feedbackcontactno",
+						"required": "true",
+						"placeholder": "feedback.feedbackcontactno",
+						"ngShow": "true",
+						"maxlength": "10",
+						"ngmodel": "feedbackIssueModel.contactNumber",
+						"blur": "updateErrorCount('FeedbackIssueDetailsSection')",
+						"requiredValidationMessageModel": "[[FeedbackIssueDetailsSection.Feedbackcontactnumber.$error.required]]Required",
+						"requiredValidationMessage": "feedback.feedbackContactNumberRequiredValidationMessage",
+						"regexExpression": "mobilenumberPattern",
+						"regexValidationMessageModel": "[[FeedbackIssueDetailsSection.Feedbackcontactnumber.$error.pattern]]Pattern",
+						"regexValidationMessage": "feedback.feedbackContactNumberRegexValidationMessage"
+					}]
+				},
+				{
+				"control": "checkboxWithoutPrefixLabel",
+				"popUpForm": "yes",
+				"emptyLeftLbl": "yes",
+				"className": "pop_up_control_label",
+				"ngShow": "[[showAttachDeviceInfo]]",
+					"choices": [{
+						"id": "attachdeviceinfo",
+						"translate-id": "[[attachTranslateName]]",
+						"value": "true",						
+						"ngmodel": "attachPlatformInfoChoice"
+					}]
+				},
+				{
+				"control": "buttonWithIcon",
+				"popUpForm": "yes",
+				"popControlBtn": "yes",
+				"emptyLeftLbl": "yes",
+				"className": "pop_up_control_label",
+				"ngShow": "isDeviceMobile && !(isOfflineDesktop)",
+				"name": "attachPhotoDevice",
+				"spliceId": "attachPhotoDevice",
+				"translate-id": "feedback.feedbackattachfile",
+				"ngclick": "attachPhoto()"
+				},
+				{
+				"control": "photo",
+				"popUpForm": "yes",
+				"emptyLeftLbl": "yes",
+				"className": "pop_up_control_label",
+				"showCheck":"isSafariCheck()",
+				"ngShow": "!(isDeviceMobile) || isOfflineDesktop",
+				"feedbackalign":"feedbackPhotoStyle",
+				"name": "attachPhotoBrowser",
+				"spliceId": "attachPhotoDevice",
+				"translate-id": "feedback.feedbackattachfile",
+				"type": "file"
+				}
+				]
+			}],
+			"title": ""
+		}],
+		"templateID": "popupwithTabs",
+		"header": "feedback.header"
+	},
+	{
+		"id": "thumbnailSection",
+		"enableCache": "true",
+		"sections": [{
+			"subsections": [{
+				"controls": [{
+					"control": "image",
+					"name": "feedbackissueattachment",
+					"ngmodel": "imageSource"
+				}],
+			"title": ""
+			}]
+		}],
+		"templateID": "SingleColumnFormWithCollapsibleSections",
+		"enableFeedbackValidation": "YES"
+	},
+	{
+		"enableFeedbackValidation": "no",
+		"id": "submitSection",
+		"enableCache": "true",
+		"ngShow": "true",
+		"popUpTabForm": "no",
+		"templateType": "threeColumnFormElements",
+		"sections": [{
+			"sectionId": "submit_details",
+			"popUpTabForm": "no",
+			"ngShow": "true",
+			"subsections": [{
+				"controls": [{
+					"control": "popupButton",
+					"popUpFormStart": "yes",
+					"controlElement": [{
+						"description": "Submit",
+						"translate-id": "feedback.feedbacksubmit",
+						"disabled":"errorCount != 0",
+						"ngclick": "submitFeedback()"
+					}]
+				}]
+			}],
+			"title": ""
+		}],
+		"templateID": "popupwithTabs",
+		"header": "feedback.header"
+	}]
+}

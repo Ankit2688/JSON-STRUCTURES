@@ -1,0 +1,22 @@
+{ 
+	"Views": [{
+		"id": "CPDHours",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "PolicySOS",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Date Time \",\"map\":\"dateTime\",\"translateId\":\"dateTime\",\"cellClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/doubleDataVenue.html\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Topic\",\"map\":\"trainingSubject\",\"cellTemplateUrl\":\"modules/common/partials/doubleDataSpeaker.html\",\"translateId\":\"topic\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"CPD Hours\",\"map\":\"trainingCpdHours\",\"translateId\":\"cpdHrs\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"}]",
+						"ngrepeat": "CPDTrainingCalendar",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}  
+    ]
+}

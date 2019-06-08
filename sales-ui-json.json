@@ -1,0 +1,80 @@
+{
+    "Views": [{
+		"id": "meetingsScheduled",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "meetingsScheduled",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Meeting Scheduled Date and Time\",\"map\":\"meetingScheduledDate\",\"translateId\":\"meetingScheduledDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateTimeCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Current Lead Status \",\"map\":\"currentLeadStates\",\"translateId\":\"alerts.currentLeadStatus\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Current Disposition\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Lead Category\",\"map\":\"leadCategory\",\"translateId\":\"leadCategory\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Expect AFYP\",\"map\":\"expectedAFYP\",\"translateId\":\"expectedAFYP\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Expected Closure Date\",\"map\":\"expectedClosureDate\",\"translateId\":\"expectedClosure\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"First Meeting Done Date\",\"map\":\"firstMeetingDoneDate\",\"translateId\":\"firstMeet\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"}]",
+						"ngrepeat": "item",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "alertedFilter"
+					}],
+		"title": "",
+		"translate-id": ""				
+	    },
+	    {
+		"id": "leadSource",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "leadSource",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Disposition\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Lead Category\",\"map\":\"leadCategory\",\"translateId\":\"leadCategory\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Meeting Scheduled Date and Time\",\"map\":\"meetingScheduledDate\",\"translateId\":\"meetingScheduledDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Expected AFYP\",\"map\":\"expectedAFYP\",\"translateId\":\"expectedAFYP\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Expected Closure Date\",\"map\":\"expectedClosureDate\",\"translateId\":\"expectedClosure\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"First Meeting Done Date\",\"map\":\"firstMeetingDoneDate\",\"translateId\":\"firstMeet\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"}]",
+						"ngrepeat": "leadData",						
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "timePeriodFilter"
+					}],
+		"title": "",
+		"translate-id": ""
+	    },
+	     {
+		"id": "leadFunnel",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "leadFunnel",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Disposition\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Lead Category\",\"map\":\"leadCategory\",\"translateId\":\"leadCategory\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Expected AFYP\",\"map\":\"expectedAFYP\",\"translateId\":\"expectedAFYP\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Expected Closure Date\",\"map\":\"expectedClosureDate\",\"translateId\":\"expectedClosure\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"First Meeting Done Date\",\"map\":\"firstMeetingDoneDate\",\"translateId\":\"firstMeet\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"}]",
+						"ngrepeat": "item",						
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+		"title": "",
+		"translate-id": ""
+	    },
+	    {
+		"id": "premiumOpportunity",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "premiumOpportunity",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"First Meeting Done Date\",\"map\":\"firstMeetingDoneDate\",\"translateId\":\"firstMeet\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Lead Creation Date\",\"map\":\"leadCreationDate\",\"translateId\":\"leadCreationDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Dispostion\",\"map\":\"currentDisposition\",\"translateId\":\"currDisp\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Category\",\"map\":\"leadCategory\",\"translateId\":\"leadCategory\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Expected AFYP\",\"map\":\"expectedAFYP\",\"translateId\":\"expectedAFYP\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Expected Closure Date\",\"map\":\"expectedClosureDate\",\"translateId\":\"expectedClosure\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"}]",
+						"ngrepeat": "item",						
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "timePeriodFilter"
+					}],
+		"title": "",
+		"translate-id": ""
+	    }
+			
+]
+}

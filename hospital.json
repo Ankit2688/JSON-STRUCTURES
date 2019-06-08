@@ -1,0 +1,28 @@
+{
+	"Version": "1",
+	"Hospital": [{
+	  	"fileName" : "Panel Clinics",
+	  	"description" : "",
+	  	"downloadUrl" : "http://asia-assistance.com/PDF/WebPanelClinic.pdf"
+	}, {
+	  	"fileName" : "Group Hospitalisation and Surgical",
+	  	"description" : "",
+	  	"downloadUrl" : "https://www.mpigenerali.com/assets/pdf/non-motor/commercial/Group-Hospitalisation-And-Surgical/Panel-Hospitals.pdf"
+	}, {
+	  	"fileName" : "Multi Medical-Protector",
+	  	"description" : "",
+	  	"downloadUrl" : "https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-Medical-Protector/Panel-Hospitals.pdf"
+	}, {
+	  	"fileName" : "Multi Medi-Plus",
+	  	"description" : "",
+	  	"downloadUrl" : "https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-Medi-PLUS/Panel-Hospitals.pdf"
+	}, {
+	  	"fileName" : "Medic 101",
+	  	"description" : "",
+	  	"downloadUrl" : "https://www.mpigenerali.com/assets/pdf/non-motor/personal/Medic-101/Panel-Hospitals.pdf"
+	}, {
+	  	"fileName" : "Medic SME",
+	  	"description" : "",
+	  	"downloadUrl" : "https://www.mpigenerali.com/assets/pdf/non-motor/commercial/Medic-SME/Panel-Hospitals.pdf"
+	}]
+}

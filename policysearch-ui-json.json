@@ -1,0 +1,24 @@
+{ 
+	"Views": [{
+		"id": "paymentHistory",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "paymentHistory",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Location Code\",\"map\":\"locationCode\",\"translateId\":\"policySearch.locationCodeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Instrument Number\",\"map\":\"instrumentNumber\",\"translateId\":\"policySearch.instrumentNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Instrument Type\",\"map\":\"instrumentType\",\"translateId\":\"policySearch.instrumentTypeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Receipt Date\",\"map\":\"receiptDate\",\"translateId\":\"policySearch.receiptDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Amount\",\"map\":\"amount\",\"translateId\":\"policySearch.amountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Policy Amount\",\"map\":\"policyAmount\",\"translateId\":\"policySearch.policyAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"DS Number\",\"map\":\"dsNumber\",\"translateId\":\"policySearch.dsNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Bounce Date\",\"map\":\"bounceDate\",\"translateId\":\"policySearch.bounceDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Clearance Date\",\"map\":\"clearanceDate\",\"translateId\":\"policySearch.clearenceDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Sent to Ingenium\",\"map\":\"sentToIngenium\",\"translateId\":\"policySearch.sentToIngeniumHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item.payment",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+	]
+	
+
+}

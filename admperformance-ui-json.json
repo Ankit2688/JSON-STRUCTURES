@@ -1,0 +1,150 @@
+{ 
+	"Views": [{
+		"id": "KeyBusinessVectors",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "OverallPerformance",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"KPI\",\"map\":\"kpi\",\"translateId\":\"admdashboard.kpiHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MTD\",\"map\":\"mtd\",\"translateId\":\"admdashboard.mtdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"YTD\",\"map\":\"ytd\",\"translateId\":\"admdashboard.ytdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Standard\",\"map\":\"standard\",\"translateId\":\"admdashboard.standardHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Shortfall from Standard\",\"map\":\"shortfallFromStandard\",\"translateId\":\"admdashboard.shortfallFromStandardHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Score\",\"map\":\"score\",\"translateId\":\"admdashboard.scoreHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item",
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+		{	
+		"id": "Channels",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "OverallPerformance",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"KPI\",\"map\":\"kpi\",\"translateId\":\"admdashboard.kpiHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MTD\",\"map\":\"mtd\",\"translateId\":\"admdashboard.mtdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"YTD\",\"map\":\"ytd\",\"translateId\":\"admdashboard.ytdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item",
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "KeyInputVectors",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "OverallPerformance",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"KPI\",\"map\":\"kpi\",\"translateId\":\"admdashboard.kpiHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MTD\",\"map\":\"mtd\",\"translateId\":\"admdashboard.mtdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"YTD\",\"map\":\"ytd\",\"translateId\":\"admdashboard.ytdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Standard\",\"map\":\"standard\",\"translateId\":\"admdashboard.standardHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Shortfall from Standard\",\"map\":\"shortfallFromStandard\",\"translateId\":\"admdashboard.shortfallFromStandardHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item",
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "MRCPerformance",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "OverallPerformance",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"KPI\",\"map\":\"kpi\",\"translateId\":\"admdashboard.kpiHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"QTD\",\"map\":\"qtd\",\"translateId\":\"admdashboard.qtdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MRC Standard\",\"map\":\"mrcStandard\",\"translateId\":\"admdashboard.mrcStandardHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Double MRC Standard\",\"map\":\"doubleMrcStandard\",\"translateId\":\"admdashboard.doubleMRCStandardHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MRC Shortfall\",\"map\":\"mrcShortfall\",\"translateId\":\"admdashboard.MRCShortfallHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Double MRC shortfall\",\"map\":\"doubleMrcShortfall\",\"translateId\":\"admdashboard.doubleMRCShortfallHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item",
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "UnitDetails",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "UnitDetails",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Agent ID\",\"map\":\"agentID\",\"translateId\":\"admdashboard.agentIDHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Agent Name\",\"map\":\"agentName\",\"translateId\":\"admdashboard.agentNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MTD Adj. MFYP\",\"map\":\"mtdAdjMfyp\",\"translateId\":\"admdashboard.mtdAdjMfypHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"MTD Paid Cases\",\"map\":\"mtdPaidCases\",\"translateId\":\"admdashboard.mtdPaidCasesHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MTD FYC\",\"map\":\"mtdFyc\",\"translateId\":\"admdashboard.mtdFycHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"MTD mSales Calls\",\"map\":\"mtdmSalesCalls\",\"translateId\":\"admdashboard.mtdmSalesCallsHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"YTD Adj. MFYP\",\"map\":\"ytdAdjMfyp\",\"translateId\":\"admdashboard.ytdAdjMfypHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"YTD Paid Cases\",\"map\":\"ytdPaidCases\",\"translateId\":\"admdashboard.ytdPaidCasesHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"YTD FYC\",\"map\":\"ytdFyc\",\"translateId\":\"admdashboard.ytdFycHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Proactive Status\",\"map\":\"proactiveStatus\",\"translateId\":\"admdashboard.proactiveStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Case Inactive since (Months)\",\"map\":\"caseInactiveSince\",\"translateId\":\"admdashboard.caseInactiveSinceHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item",
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "MDRT",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "MDRT",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Agent ID\",\"map\":\"agentID\",\"translateId\":\"admdashboard.agentIDHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Agent Name\",\"map\":\"agentName\",\"translateId\":\"admdashboard.agentNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MDRT FYP\",\"map\":\"mdrtFyp\",\"translateId\":\"admdashboard.mdrtFypHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"MDRT FYC\",\"map\":\"mdrtFyc\",\"translateId\":\"admdashboard.mdrtFycHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Shortfall in FYP\",\"map\":\"shortfallInFyp\",\"translateId\":\"admdashboard.shortfallInFYPHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Shortfall in FYC\",\"map\":\"shortfallInFyc\",\"translateId\":\"admdashboard.shortfallInFYCHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Surrender Rate (%)\",\"map\":\"surrenderRate\",\"translateId\":\"admdashboard.surrenderRateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Current Year Status\",\"map\":\"currentYearStatus\",\"translateId\":\"admdashboard.currentYearStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Last Year Status\",\"map\":\"lastYearStatus\",\"translateId\":\"admdashboard.lastYearStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item",
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "Council",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "Council",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Agent ID\",\"map\":\"agentID\",\"translateId\":\"admdashboard.agentIDHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Agent Name\",\"map\":\"agentName\",\"translateId\":\"admdashboard.agentNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"border-right-enabled smart_table_cell_300\",\"headerClass\":\"border-right-enabled smart_table_cell_300\"},{\"label\":\"Council FYP\",\"map\":\"period1.councilFyp\",\"translateId\":\"admdashboard.councilFypHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Shortfall in FYP\",\"map\":\"period1.shortfallInFyp\",\"translateId\":\"admdashboard.shortfallInFYPHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Council FYC\",\"map\":\"period1.councilFyc\",\"translateId\":\"admdashboard.councilFycHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Shortfall in FYC\",\"map\":\"period1.shortfallInFyc\",\"translateId\":\"admdashboard.shortfallInFYCHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Paid Cases\",\"map\":\"period1.paidCases\",\"translateId\":\"admdashboard.paidCasesHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Shortfall in Paid Cases\",\"map\":\"period1.shortfallInPaidCases\",\"translateId\":\"admdashboard.shortfallInPaidCasesHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"headerClass\":\"border-right-enabled\",\"cellClass\":\"border-right-enabled\"},{\"label\":\"Council FYP\",\"map\":\"period2.councilFyp\",\"translateId\":\"admdashboard.councilFypHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Shortfall in FYP\",\"map\":\"period2.shortfallInFyp\",\"translateId\":\"admdashboard.shortfallInFYPHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Council FYC\",\"map\":\"period2.councilFyc\",\"translateId\":\"admdashboard.councilFycHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Shortfall in FYC\",\"map\":\"period2.shortfallInFyc\",\"translateId\":\"admdashboard.shortfallInFYCHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\"},{\"label\":\"Paid Cases\",\"map\":\"period2.paidCases\",\"translateId\":\"admdashboard.paidCasesHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Shortfall in Paid Cases\",\"map\":\"period2.shortfallInPaidCases\",\"translateId\":\"admdashboard.shortfallInPaidCasesHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"headerClass\":\"border-right-enabled\",\"cellClass\":\"border-right-enabled\"},{\"label\":\"Surrender Rate (%)\",\"map\":\"surrenderRate\",\"translateId\":\"admdashboard.surrenderRateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"},{\"label\":\"Persistency (%)\",\"map\":\"persistency\",\"translateId\":\"admdashboard.persistencyHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item",
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "StarAchievers",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "StarAchievers",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Agent ID\",\"map\":\"agentID\",\"translateId\":\"admdashboard.agentIDHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Agent Name\",\"map\":\"agentName\",\"translateId\":\"admdashboard.agentNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"},{\"label\":\"Last Quarter Level\",\"map\":\"lastQuarterLevel\",\"translateId\":\"admdashboard.lastQuarterLevelHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Current Level\",\"map\":\"currentLevel\",\"translateId\":\"admdashboard.currentLevelHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 1\",\"map\":\"opportunityForNextLevelAdjFyp.level1\",\"translateId\":\"admdashboard.level1Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"headerClass\":\"border-left-enabled\",\"cellClass\":\"border-left-enabled\"},{\"label\":\"Level 2\",\"map\":\"opportunityForNextLevelAdjFyp.level2\",\"translateId\":\"admdashboard.level2Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 3\",\"map\":\"opportunityForNextLevelAdjFyp.level3\",\"translateId\":\"admdashboard.level3Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 4\",\"map\":\"opportunityForNextLevelAdjFyp.level4\",\"translateId\":\"admdashboard.level4Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 5\",\"map\":\"opportunityForNextLevelAdjFyp.level5\",\"translateId\":\"admdashboard.level5Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 6\",\"map\":\"opportunityForNextLevelAdjFyp.level6\",\"translateId\":\"admdashboard.level6Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 7\",\"map\":\"opportunityForNextLevelAdjFyp.level7\",\"translateId\":\"admdashboard.level7Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"headerClass\":\"border-right-enabled\",\"cellClass\":\"border-right-enabled\"},{\"label\":\"Level 1\",\"map\":\"opportunityForNextLevelFyc.level1\",\"translateId\":\"admdashboard.level1Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 2\",\"map\":\"opportunityForNextLevelFyc.level2\",\"translateId\":\"admdashboard.level2Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 3\",\"map\":\"opportunityForNextLevelFyc.level3\",\"translateId\":\"admdashboard.level3Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 4\",\"map\":\"opportunityForNextLevelFyc.level4\",\"translateId\":\"admdashboard.level4Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 5\",\"map\":\"opportunityForNextLevelFyc.level5\",\"translateId\":\"admdashboard.level5Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 6\",\"map\":\"opportunityForNextLevelFyc.level6\",\"translateId\":\"admdashboard.level6Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Level 7\",\"map\":\"opportunityForNextLevelFyc.level7\",\"translateId\":\"admdashboard.level7Header\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"headerClass\":\"border-right-enabled\",\"cellClass\":\"border-right-enabled\"},{\"label\":\"Surrender Rate (%)\",\"map\":\"surrenderRate\",\"translateId\":\"admdashboard.surrenderRateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"},{\"label\":\"Persistency (%)\",\"map\":\"persistency\",\"translateId\":\"admdashboard.persistencyHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item",
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+			
+	]
+	
+
+}

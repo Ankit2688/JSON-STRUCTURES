@@ -1,0 +1,7890 @@
+{
+	"Version": "1",
+  	"PANEL_HOSPITAL" : [
+		{
+			"Name": "Putra Specialist Hospital (batu Pahat) Sdn. Bhd.",
+			"AddressLine1": "No. 1, Jalan Peserai",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "83000",
+			"City": "Batu Pahat",
+			"State": "Johor",
+			"PhoneNumber": "07-413 3333",
+			"Latitude": "1.857952",
+			"Longitude": "102.922379",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Batu Pahat",
+			"AddressLine1": "No. 9S, Jalan Bintang 1",
+			"AddressLine2": "Taman Koperasi Bahagia",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "83000",
+			"City": "Batu Pahat",
+			"State": "Johor",
+			"PhoneNumber": "07-433 8811",
+			"Latitude": "1.861260",
+			"Longitude": "102.951000",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Medical Specialist Centre (jb)",
+			"AddressLine1": "Blok A, Wisma Maria",
+			"AddressLine2": "Jalan Ngee Heng",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "80100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-2243 888",
+			"Latitude": "1.466043",
+			"Longitude": "103.759587",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Hospital Penawar Pandan City",
+			"AddressLine1": "No. 2-26, Jalan Pandan Ria 7",
+			"AddressLine2": "Kangkar Tebrau",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "81200",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-335 1800",
+			"Latitude": "1.525401",
+			"Longitude": "103.762369",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "N",
+			"EMAS": "Y",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Kpj Johor Specialist Hospital",
+			"AddressLine1": "39-B, Jalan Abdul Samad",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "80100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-225 3000",
+			"Latitude": "1.476027",
+			"Longitude": "103.741124",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Puteri Specialist Hospital",
+			"AddressLine1": "No 33, Jalan Tun Abdul Razak (Susur 5)",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "80350",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-225 3222",
+			"Latitude": "1.490707",
+			"Longitude": "103.742044",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kempas Medical Centre",
+			"AddressLine1": "Lot PTD 7522, Jalan Kempas Baru",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "81200",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-236 8999",
+			"Latitude": "1.521787",
+			"Longitude": "103.724617",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Kluang Utama Specialist Hospital",
+			"AddressLine1": "No. 1, Susur 1, Jalan Besar",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "86000",
+			"City": "Kluang",
+			"State": "Johor",
+			"PhoneNumber": "07-771 8999",
+			"Latitude": "2.027655",
+			"Longitude": "103.332234",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Regency Specialist Hospital",
+			"AddressLine1": "No. 1, Jalan Suria",
+			"AddressLine2": "Bandar Sri Alam",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "81750",
+			"City": "Masai",
+			"State": "Johor",
+			"PhoneNumber": "07-381 7700",
+			"Latitude": "1.498065",
+			"Longitude": "103.872609",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Bandar Maharani Specialist Hospital",
+			"AddressLine1": "No. 73-1, Jalan Stadium",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "84000",
+			"City": "Muar",
+			"State": "Johor",
+			"PhoneNumber": "06-956 4500",
+			"Latitude": "2.035746",
+			"Longitude": "102.567274",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Iskandar Puteri",
+			"AddressLine1": "Persiaran Afiat, Taman Kesihatan Afiat",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "79250",
+			"City": "Nusajaya",
+			"State": "Johor",
+			"PhoneNumber": "07-233 9999",
+			"Latitude": "1.478877",
+			"Longitude": "103.637280",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Gleneagles Medini",
+			"AddressLine1": "No. 2, Jalan Medini Utara 4",
+			"AddressLine2": "Medini Iskandar",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "79250",
+			"City": "Nusajaya",
+			"State": "Johor",
+			"PhoneNumber": "07-560 1000",
+			"Latitude": "1.426634",
+			"Longitude": "103.635843",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Hospital Penawar Sdn. Bhd.",
+			"AddressLine1": "No. 15 - 19, Business Centre",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "81700",
+			"City": "Pasir Gudang",
+			"State": "Johor",
+			"PhoneNumber": "1300221800",
+			"Latitude": "1.468474",
+			"Longitude": "103.904107",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Pasir Gudang Specialist Hospital",
+			"AddressLine1": "Lot PTD 204781, Jalan Persiaran Dahlia 2",
+			"AddressLine2": "Taman Bukit Dahlia",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "81700",
+			"City": "Pasir Gudang",
+			"State": "Johor",
+			"PhoneNumber": "07-257 3999",
+			"Latitude": "1.476928",
+			"Longitude": "103.895718",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Putra Medical Centre",
+			"AddressLine1": "888, Jalan Sekerat, Off Jalan Putra",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "05100",
+			"City": "Alor Setar",
+			"State": "Kedah",
+			"PhoneNumber": "04-734 2888",
+			"Latitude": "6.123724",
+			"Longitude": "100.365695",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kedah Medical Centre",
+			"AddressLine1": "Pumpong",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "05250",
+			"City": "Alor Setar",
+			"State": "Kedah",
+			"PhoneNumber": "04-730 8878",
+			"Latitude": "6.149034",
+			"Longitude": "100.369406",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Amanjaya Specialist Centre",
+			"AddressLine1": "38 39 40, Lengkok Cempaka 1",
+			"AddressLine2": "38 39 40, Lengkok Cempaka 1",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "08000",
+			"City": "Sungai Petani",
+			"State": "Kedah",
+			"PhoneNumber": "604 442 1111",
+			"Latitude": "5.683401",
+			"Longitude": "100.494621",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Sungai Petani",
+			"AddressLine1": "No. 1, Persiaran Cempaka",
+			"AddressLine2": "Bandar Amanjaya",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "08000",
+			"City": "Sungai Petani",
+			"State": "Kedah",
+			"PhoneNumber": "04-442 8888",
+			"Latitude": "5.672435",
+			"Longitude": "100.513231",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Metro Specialist Hospital",
+			"AddressLine1": "No. 1, Lorong Metro",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "08000",
+			"City": "Sungai Petani",
+			"State": "Kedah",
+			"PhoneNumber": "04-423 8888",
+			"Latitude": "5.629053",
+			"Longitude": "100.509986",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Kpj Perdana Specialist Hospital",
+			"AddressLine1": "Lot PT 37 & 600, Seksyen 14",
+			"AddressLine2": "Jalan Bayam",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "15200",
+			"City": "Kota Bharu",
+			"State": "Kelantan",
+			"PhoneNumber": "09-745 8000",
+			"Latitude": "6.121404",
+			"Longitude": "102.243736",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kota Bharu Medical Centre",
+			"AddressLine1": "PT 179-184, Jalan Sultan Yahya Petra",
+			"AddressLine2": "Lundang",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "15200",
+			"City": "Kota Bharu",
+			"State": "Kelantan",
+			"PhoneNumber": "09-743 3399",
+			"Latitude": "6.105026",
+			"Longitude": "102.259671",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Ayer Keroh",
+			"AddressLine1": "No. 2418-1, KM 8, Lebuh Ayer Keroh",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "75450",
+			"City": "Ayer Keroh",
+			"State": "Melaka",
+			"PhoneNumber": "06-231 9999",
+			"Latitude": "2.237704",
+			"Longitude": "102.286856",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Putra Specialist Hospital (melaka) Sdn. Bhd.",
+			"AddressLine1": "169, Jalan Bendahara",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "75100",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "06-283 5888",
+			"Latitude": "2.202144",
+			"Longitude": "102.252450",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Damai Medical Ambulatory Clinic Sdn Bhd",
+			"AddressLine1": "49N, Jalan Ong Kim Wee",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "75300",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "606 284 1204",
+			"Latitude": "2.199679",
+			"Longitude": "102.241980",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Mahkota Medical Centre Sdn. Bhd.",
+			"AddressLine1": "No. 3, Mahkota Melaka, Jalan Merdeka",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "75000",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "06-285 2999",
+			"Latitude": "2.187619",
+			"Longitude": "102.251625",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Oriental Melaka Straits Medical Centre",
+			"AddressLine1": "Pusat Perubatan Klebang",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "75200",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "06-315 8888",
+			"Latitude": "2.208248",
+			"Longitude": "102.213950",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Nilai Medical Centre",
+			"AddressLine1": "PT 13717, Jalan BBN 2\/1",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "71800",
+			"City": "Nilai",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-850 0999",
+			"Latitude": "2.811837",
+			"Longitude": "101.773131",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Nscmh Medical Centre",
+			"AddressLine1": "Jalan Tun Dr. Ismail",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "70200",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-763 1688",
+			"Latitude": "2.737700",
+			"Longitude": "101.931448",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Mawar Medical Centre",
+			"AddressLine1": "No. 71, Jalan Rasah",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "70300",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-764 7048",
+			"Latitude": "2.706221",
+			"Longitude": "101.941377",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Seremban Specialist Hospital",
+			"AddressLine1": "Lot 6219 & 6220, Jalan Toman 1",
+			"AddressLine2": "Kemayan Square",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "70200",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-767 7800",
+			"Latitude": "2.718632",
+			"Longitude": "101.921839",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Seremban",
+			"AddressLine1": "No. 292, Jalan Haruan 2",
+			"AddressLine2": "Oakland Commercial Centre",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "70300",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-603 3988",
+			"Latitude": "2.710457",
+			"Longitude": "101.917638",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Salam Senawang Specialist Hospital",
+			"AddressLine1": "No. 234-243, Jalan Lavender Heights 2",
+			"AddressLine2": "Lavender Business Centre",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "70450",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-675 1188",
+			"Latitude": "2.712453",
+			"Longitude": "102.000773",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kcdc Hospital",
+			"AddressLine1": "A37, Jalan Dato Lim Hoe Lek",
+			"AddressLine2": "Taman Union",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "25200",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "609 513 9891",
+			"Latitude": "3.821947",
+			"Longitude": "103.324382",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Iium Medical Specialist Centre (imsc)",
+			"AddressLine1": "Kulliyyah Of Medicine",
+			"AddressLine2": "IIUM Indera Mahkota",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "25200",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "09-573 0380",
+			"Latitude": "3.843145",
+			"Longitude": "103.30321",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Kpj Pahang Specialist Hospital",
+			"AddressLine1": "Jalan Tanjung Lumpur",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "26060",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "09-511 2692",
+			"Latitude": "3.800010",
+			"Longitude": "103.336696",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Hospital Pakar Prkmuip",
+			"AddressLine1": "Lot 1, Wisma Muip, Jalan Gambut",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "25000",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "609 513 7110",
+			"Latitude": "3.808114",
+			"Longitude": "103.324430",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Kuantan Medical Centre",
+			"AddressLine1": "Jalan Tun Razak",
+			"AddressLine2": "Bandar Indera Mahkota",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "25200",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "09-590 2828",
+			"Latitude": "3.829330",
+			"Longitude": "103.299157",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Darul Makmur Medical Centre",
+			"AddressLine1": "Jalan Kempadang Makmur",
+			"AddressLine2": "Taman Kempadang Makmur",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "26060",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "09-534 9988",
+			"Latitude": "3.747729",
+			"Longitude": "103.311808",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Ipoh",
+			"AddressLine1": "126, Jalan Tambun",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "31400",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "05-540 5555",
+			"Latitude": "4.603347",
+			"Longitude": "101.119586",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Perak Community Specialist Hospital",
+			"AddressLine1": "277, Jalan Raja Permaisuri Bainun",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "30250",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "05-241 9000",
+			"Latitude": "4.581580",
+			"Longitude": "101.100324",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Hospital Fatimah",
+			"AddressLine1": "No. 1, Leboh Chew Peng Loon",
+			"AddressLine2": "Off Jalan Dato Lau Pak Khuan, Taman Ipoh",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "31400",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "05-545 5777",
+			"Latitude": "4.645296",
+			"Longitude": "101.101893",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kmc Medical Centre  (kinta Medical Centre)",
+			"AddressLine1": "Lorong Chung Thye Phin",
+			"AddressLine2": "Taman Jubilee",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "30250",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "05-242 5333",
+			"Latitude": "4.588723",
+			"Longitude": "101.087527",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Ipoh Specialist Hospital",
+			"AddressLine1": "26, Jalan Raja Dihilir",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "30350",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "05-240 8777",
+			"Latitude": "4.594871",
+			"Longitude": "101.096233",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Manjung",
+			"AddressLine1": "Jalan PPMP 1, Pusat Perdagangan Manjung Point",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "32040",
+			"City": "Seri Manjung",
+			"State": "Perak",
+			"PhoneNumber": "05-689 8555",
+			"Latitude": "4.215830",
+			"Longitude": "100.670176",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Kpj Seri Manjung Specialist Centre",
+			"AddressLine1": "Lot 14777, Jalan Lumut",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "32000",
+			"City": "Sitiawan",
+			"State": "Perak",
+			"PhoneNumber": "605 691 8153",
+			"Latitude": "4.207718",
+			"Longitude": "100.675181",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Taiping",
+			"AddressLine1": "No. 5, Jalan Perwira",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "34000",
+			"City": "Taiping",
+			"State": "Perak",
+			"PhoneNumber": "05-820 8888",
+			"Latitude": "4.865618",
+			"Longitude": "100.734351",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Taiping Medical Centre",
+			"AddressLine1": "No. 45-49, Jalan Medan Taiping 2",
+			"AddressLine2": "Medan Taiping",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "34000",
+			"City": "Taiping",
+			"State": "Perak",
+			"PhoneNumber": "05-807 1049",
+			"Latitude": "4.847157",
+			"Longitude": "100.732453",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Apollo Medical Centre",
+			"AddressLine1": "No. 271, Jalan Taming Sari",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "34000",
+			"City": "Taiping",
+			"State": "Perak",
+			"PhoneNumber": "05-805 6000",
+			"Latitude": "4.849422",
+			"Longitude": "100.736273",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Larut Medical Centre",
+			"AddressLine1": "35, Jalan Medan Taiping 2",
+			"AddressLine2": "Medan Taiping",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "34000",
+			"City": "Taiping",
+			"State": "Perak",
+			"PhoneNumber": "605 806 7817",
+			"Latitude": "4.847751",
+			"Longitude": "100.732696",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Anson Bay Medical Centre",
+			"AddressLine1": "Lot 992, Batu 3 1\/2, Jalan Maharaja Lela",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "36000",
+			"City": "Teluk Intan",
+			"State": "Perak",
+			"PhoneNumber": "05-623 2999",
+			"Latitude": "3.993612",
+			"Longitude": "100.995892",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Penang",
+			"AddressLine1": "82, Jalan Tengah Bayan Baru",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "11900",
+			"City": "Bayan Lepas",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-643 3888",
+			"Latitude": "5.321047",
+			"Longitude": "100.282313",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Penang Specialist Hospital",
+			"AddressLine1": "570, Jalan Perda Utama",
+			"AddressLine2": "Bandar Perda",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "14000",
+			"City": "Bukit Mertajam",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-548 6688",
+			"Latitude": "5.369130",
+			"Longitude": "100.434293",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Bagan Specialist Centre",
+			"AddressLine1": "Jalan Bagan 1",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "13400",
+			"City": "Butterworth",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-332 2800",
+			"Latitude": "5.410470",
+			"Longitude": "100.386000",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Adventist Medical Centre",
+			"AddressLine1": "473, Jalan Burma",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "10350",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-226 2323",
+			"Latitude": "5.433408",
+			"Longitude": "100.303769",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Penang Adventist Hospital",
+			"AddressLine1": "465, Jalan Burma",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "10350",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-222 7200",
+			"Latitude": "5.432361",
+			"Longitude": "100.305054",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Island Hospital",
+			"AddressLine1": "No. 308, Jalan Macalister",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "10450",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-228 8222",
+			"Latitude": "5.422150",
+			"Longitude": "100.314209",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Gleneagles Medical Centre, Penang",
+			"AddressLine1": "No. 1, Jalan Pangkor",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "10050",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-222 9111",
+			"Latitude": "5.426874",
+			"Longitude": "100.319906",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Hope Children Hospital - Gottlieb",
+			"AddressLine1": "25-B, C & D Jalan Gottlieb",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "10350",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04- 228 6557",
+			"Latitude": "5.430818",
+			"Longitude": "100.299837",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Loh Guan Lye Specialists Centre",
+			"AddressLine1": "238, Macalister Road and 19 & 21, Logan Road",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "10400",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-238 8888",
+			"Latitude": "5.420502",
+			"Longitude": "100.318055",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Hospital Lam Wah Ee",
+			"AddressLine1": "Jalan Tan Sri Teh Ewe Lim",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "11600",
+			"City": "Jelutong",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "04-657 1888",
+			"Latitude": "5.391875",
+			"Longitude": "100.304198",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Carl Corrynton Medical Centre [formerly Known As T",
+			"AddressLine1": "12-A, Jalan Masjid Negeri",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "11600",
+			"City": "Jelutong",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "604 829 9188",
+			"Latitude": "5.402496",
+			"Longitude": "100.303657",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Mount Miriam Hospital",
+			"AddressLine1": "23 Jalan Bulan",
+			"AddressLine2": "Tanjong Takong",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "11200",
+			"City": "Tanjong Bungah",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "604 892 3999",
+			"Latitude": "5.459256",
+			"Longitude": "100.300695",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Mount Miriam Hospital",
+			"AddressLine1": "23 Jalan Bulan",
+			"AddressLine2": "Tanjong Takong",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "11200",
+			"City": "Tanjung Bungah",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "604 892 3999",
+			"Latitude": "5.459256",
+			"Longitude": "100.300695",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Jesselton Medical Centre",
+			"AddressLine1": "Jalan Metro 2",
+			"AddressLine2": "Metro Town Off, Jalan Lintas",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "88300",
+			"City": "Kota Kinabalu",
+			"State": "Sabah",
+			"PhoneNumber": "088-366 333",
+			"Latitude": "5.975556",
+			"Longitude": "116.112678",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Rafflesia Medical Centre Sdn. Bhd.",
+			"AddressLine1": "Lot 4-9, Millennium Commercial Centre",
+			"AddressLine2": "Jalan Lintas Lido Kepayan",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "88200",
+			"City": "Kota Kinabalu",
+			"State": "Sabah",
+			"PhoneNumber": "088-272 620",
+			"Latitude": "5.919174",
+			"Longitude": "116.057514",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Sabah Specialist Hospital",
+			"AddressLine1": "Lot No. 2, Off Jalan Damai",
+			"AddressLine2": "Luyang",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "88300",
+			"City": "Kota Kinabalu",
+			"State": "Sabah",
+			"PhoneNumber": "088-211 333",
+			"Latitude": "5.967607",
+			"Longitude": "116.093322",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Gleneagles Kota Kinabalu",
+			"AddressLine1": "Riverson@Sembulan, Block A-1",
+			"AddressLine2": "Lorong Riverson@Sembulan",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "88100",
+			"City": "Kota Kinabalu",
+			"State": "Sabah",
+			"PhoneNumber": "088-448 690",
+			"Latitude": "5.968083",
+			"Longitude": "116.064417",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Damai Specialist Hospital",
+			"AddressLine1": "Lorong Pokok Tepus 1",
+			"AddressLine2": "Off Jalan Damai",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "88300",
+			"City": "Kota Kinabalu",
+			"State": "Sabah",
+			"PhoneNumber": "088-222 922",
+			"Latitude": "5.970376",
+			"Longitude": "116.092947",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Tawau Specialist Hospital",
+			"AddressLine1": "TB 4551, Jalan Abaca,",
+			"AddressLine2": "Bandar Tawau",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "91000",
+			"City": "Tawau",
+			"State": "Sabah",
+			"PhoneNumber": "089-771 873",
+			"Latitude": "4.247231",
+			"Longitude": "117.883658",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Bintulu Medical Centre",
+			"AddressLine1": "Lot 6009, Block 31, Kemena Land District",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "97000",
+			"City": "Bintulu",
+			"State": "Sarawak",
+			"PhoneNumber": "086-330 333",
+			"Latitude": "3.200537",
+			"Longitude": "113.056636",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Bintulu",
+			"AddressLine1": "Lot 3582, Block 26, Kemena Land District",
+			"AddressLine2": "Jalan Tan Sri Ikhwan, Tanjung Kidurong",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "97000",
+			"City": "Bintulu",
+			"State": "Sarawak",
+			"PhoneNumber": "086-251 888",
+			"Latitude": "3.233178",
+			"Longitude": "113.086071",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Normah Medical Specialist Centre",
+			"AddressLine1": "Lot 937, Section 30, K.T.L.D",
+			"AddressLine2": "Jalan Tun Abdul Rahman Yakub",
+			"AddressLine3": "Petra Jaya",
+			"Email": "",
+			"PostCode": "93050",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "082-440 055",
+			"Latitude": "1.578285",
+			"Longitude": "110.328974",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Borneo Medical Centre",
+			"AddressLine1": "Lot 10992, Section 64",
+			"AddressLine2": "KTLD, Jalan Tun Jugah",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "93350",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "082-507 333",
+			"Latitude": "1.529251",
+			"Longitude": "110.357682",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Timberland Medical Centre",
+			"AddressLine1": "Lot 5164-5165, Block 16 KLCD",
+			"AddressLine2": "2 1\/2 Mile, Jalan Rock",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "93250",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "082-234 466",
+			"Latitude": "1.521751",
+			"Longitude": "110.338355",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kuching Specialist Hospital",
+			"AddressLine1": "Lot 10420, Block 11, Tabuan Stutong Commercial Cen",
+			"AddressLine2": "Jalan Setia Raja",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "93350",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "082-365 777",
+			"Latitude": "1.517805",
+			"Longitude": "110.378451",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Miri",
+			"AddressLine1": "Lot 1035-1039, Jalan Bulan Sabit, CDT 155",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "98009",
+			"City": "Miri",
+			"State": "Sarawak",
+			"PhoneNumber": "085-437 755",
+			"Latitude": "4.411395",
+			"Longitude": "114.001899",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Miri City Medical Centre",
+			"AddressLine1": "Lot 916-920 & 1203",
+			"AddressLine2": "Jalan Hokkien, CDT 100",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "98009",
+			"City": "Miri",
+			"State": "Sarawak",
+			"PhoneNumber": "085-426 622",
+			"Latitude": "4.394584",
+			"Longitude": "113.990387",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Rejang Medical Centre",
+			"AddressLine1": "No. 29, Jalan Pedada",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "96000",
+			"City": "Sibu",
+			"State": "Sarawak",
+			"PhoneNumber": "084-330 733",
+			"Latitude": "2.292481",
+			"Longitude": "111.836860",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Sibu Specialist Medical Centre",
+			"AddressLine1": "No. 52 A-G, Brooke Drive",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "96000",
+			"City": "Sibu",
+			"State": "Sarawak",
+			"PhoneNumber": "084-329 900",
+			"Latitude": "2.300959",
+			"Longitude": "111.832295",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Ampang Puteri Specialist Hospital",
+			"AddressLine1": "No. 1, Jalan Mamanda 9",
+			"AddressLine2": "Taman Dato' Ahmad Razali",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "68000",
+			"City": "Ampang",
+			"State": "Selangor",
+			"PhoneNumber": "03-4270 2500",
+			"Latitude": "3.160013",
+			"Longitude": "101.752138",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Hospital Islam Az-zahrah",
+			"AddressLine1": "No. 34, Medan Bandar 1",
+			"AddressLine2": "Sekyen 9",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "43650",
+			"City": "Bandar Baru Bangi",
+			"State": "Selangor",
+			"PhoneNumber": "03-8921 2612",
+			"Latitude": "2.959891",
+			"Longitude": "101.754198",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "An-nur Specialist Hospital",
+			"AddressLine1": "14 & 16, Medan Pusat Bandar 1",
+			"AddressLine2": "Seksyen 9",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "43650",
+			"City": "Bandar Baru Bangi",
+			"State": "Selangor",
+			"PhoneNumber": "03-8926 6060",
+			"Latitude": "2.960132",
+			"Longitude": "101.753714",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Cheras",
+			"AddressLine1": "Lot 33107, Jalan Suakasih",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "43200",
+			"City": "Cheras",
+			"State": "Selangor",
+			"PhoneNumber": "03-9086 9999",
+			"Latitude": "3.031519",
+			"Longitude": "101.762935",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Kajang Specialist Hospital",
+			"AddressLine1": "Jalan Cheras",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "43000",
+			"City": "Kajang",
+			"State": "Selangor",
+			"PhoneNumber": "03-8769 2911",
+			"Latitude": "2.999984",
+			"Longitude": "101.785718",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kajang Plaza Medical Centre",
+			"AddressLine1": "No. 36 A-C, Jalan Dato Seri P. Alagendra 2",
+			"AddressLine2": "Kajang Plaza",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "43000",
+			"City": "Kajang",
+			"State": "Selangor",
+			"PhoneNumber": "03-8739 7070",
+			"Latitude": "2.995591",
+			"Longitude": "101.788029",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Sungai Long Medical Center Sdn. Bhd.",
+			"AddressLine1": "PT 21147, Persiaran Sungai Long 1",
+			"AddressLine2": "Bandar Sungai Long",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "43000",
+			"City": "Kajang",
+			"State": "Selangor",
+			"PhoneNumber": "03-9010 3788",
+			"Latitude": "3.039604",
+			"Longitude": "101.795083",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Manipal Hospital Klang",
+			"AddressLine1": "Lot 83211, Persiaran Batu Nilam\/KS6",
+			"AddressLine2": "Bandar Bukit Tinggi 1",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "41200",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03-3884 3884",
+			"Latitude": "3.009959",
+			"Longitude": "101.431737",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Sentosa Specialist Hospital",
+			"AddressLine1": "No. 27-29, Lorong Temenggung 15A",
+			"AddressLine2": "Off Jalan Sungai Jati",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "41200",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03-5162 8814",
+			"Latitude": "3.005968",
+			"Longitude": "101.482974",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Klang",
+			"AddressLine1": "Jalan Mahkota 1 \/ KU 2",
+			"AddressLine2": "Mutiara Bukit Raja 2,",
+			"AddressLine3": "KM2 off Jalan Meru",
+			"Email": "",
+			"PostCode": "41050",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03 3346 7999",
+			"Latitude": "3.085952",
+			"Longitude": "101.446304",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Klang",
+			"AddressLine1": "Lot 5921, Persiaran Raja Muda Musa",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "41200",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03-3258 5500",
+			"Latitude": "3.026450",
+			"Longitude": "101.426278",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Sri Kota Specialist Medical Centre",
+			"AddressLine1": "Jalan Mohet",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "41000",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03-3375 7799",
+			"Latitude": "3.040323",
+			"Longitude": "101.445577",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Klang Specialist Hospital",
+			"AddressLine1": "No. 102, Persiaran Rajawali \/ KU 1",
+			"AddressLine2": "Bandar Baru Klang",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "41150",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03-3377 7888",
+			"Latitude": "3.062250",
+			"Longitude": "101.463230",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Kpj Damansara Specialist Hospital",
+			"AddressLine1": "No. 119, Jalan SS20\/10",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47400",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-7718 1000",
+			"Latitude": "3.137397",
+			"Longitude": "101.627558",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Bp Specialist Centre@taman Megah",
+			"AddressLine1": "79, Jalan SS 23\/15",
+			"AddressLine2": "Taman Sea",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47400",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "0 3-7803 0992",
+			"Latitude": "3.115524",
+			"Longitude": "101.613921",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Alpha Specialist Centre",
+			"AddressLine1": "No. 25-31, Jalan PJU 5\/6",
+			"AddressLine2": "Dataran Sunway, Kota Damansara",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47810",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-6141 8533",
+			"Latitude": "3.153192",
+			"Longitude": "101.595358",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Petaling Jaya",
+			"AddressLine1": "Lot 69, Jalan 13\/6",
+			"AddressLine2": "Seksyen 13",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "46200",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-7949 9999",
+			"Latitude": "3.118292",
+			"Longitude": "101.637414",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Assunta Hospital",
+			"AddressLine1": "Jalan Templer",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "46990",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-7872 3000",
+			"Latitude": "3.093341",
+			"Longitude": "101.645578",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kelana Jaya Medical Centre Sdn. Bhd.",
+			"AddressLine1": "No. 1, FAS Business Avenue",
+			"AddressLine2": "Jalan Perbandaran SS7, Kelana Jaya",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47301",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-7805 2111",
+			"Latitude": "3.108691",
+			"Longitude": "101.595264",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Pusat Pakar Mata Centre For Sight",
+			"AddressLine1": "No. 1-1, Jalan SS23\/15",
+			"AddressLine2": "Taman Sea",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47400",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-7804 4051",
+			"Latitude": "3.323911",
+			"Longitude": "101.579414",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Tropicana Medical Centre (m) Sdn. Bhd.",
+			"AddressLine1": "No. 11, Jalan Teknologi",
+			"AddressLine2": "PJU 5, Kota Damansara",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47810",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-6287 1111",
+			"Latitude": "3.149023",
+			"Longitude": "101.578800",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Beacon International Specialist Centre",
+			"AddressLine1": "No. 1 , Jalan 215",
+			"AddressLine2": "Section 51, Off Jalan Templer",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "46050",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-7620 7979",
+			"Latitude": "3.091461",
+			"Longitude": "101.638007",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "The Tun Hussein Onn National Eye Hospital",
+			"AddressLine1": "Lot 2, Section 52",
+			"AddressLine2": "Lorong Utara B",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "46200",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-7718 1488",
+			"Latitude": "3.106052",
+			"Longitude": "101.639755",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Puchong",
+			"AddressLine1": "No. 1, Lebuh Puteri",
+			"AddressLine2": "Bandar Puteri Puchong",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47100",
+			"City": "Puchong",
+			"State": "Selangor",
+			"PhoneNumber": "03-8064 8688",
+			"Latitude": "3.023848",
+			"Longitude": "101.622392",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpmc Puchong Medical Centre",
+			"AddressLine1": "No. 1 & No. 3, Jalan Puteri 2\/1",
+			"AddressLine2": "Bandar Puteri Puchong",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47100",
+			"City": "Puchong",
+			"State": "Selangor",
+			"PhoneNumber": "03-8062 4073",
+			"Latitude": "3.024655",
+			"Longitude": "101.615756",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Rawang Specialist Hospital",
+			"AddressLine1": "Jalan Rawang, Bandar Baru Rawang",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "48000",
+			"City": "Rawang",
+			"State": "Selangor",
+			"PhoneNumber": "03-6099 8999",
+			"Latitude": "3.320638",
+			"Longitude": "101.578951",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "Demc Specialist Hospital Shah Alam",
+			"AddressLine1": "No. 4, Jalan Ikhtisas",
+			"AddressLine2": "Seksyen 14",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "40000",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "03-5515 1888",
+			"Latitude": "3.071857",
+			"Longitude": "101.523915",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Selangor Specialist Hospital",
+			"AddressLine1": "Lot 1, Jalan Singa 20\/1",
+			"AddressLine2": "Section 20",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "40300",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "03-5543 1111",
+			"Latitude": "3.057348",
+			"Longitude": "101.540752",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Bukit Rimau",
+			"AddressLine1": "No. 3, Persiaran Anggerik Eria",
+			"AddressLine2": "Bukit Rimau, Seksyen 32",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "40460",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "03-5125 9999",
+			"Latitude": "2.997119",
+			"Longitude": "101.529083",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Ara Damansara Medical Centre",
+			"AddressLine1": "Lot 2, Jalan Lapangan Terbang Subang",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "40150",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "03-5639 1212",
+			"Latitude": "3.114875",
+			"Longitude": "101.565175",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Salam Shah Alam Specialist Hospital",
+			"AddressLine1": "2, Jalan Nelayan 19\/B",
+			"AddressLine2": "Seksyen 19",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "40300",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "603 5542 4242",
+			"Latitude": "3.049163",
+			"Longitude": "101.535229",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Sunway Medical Centre Sdn. Bhd.",
+			"AddressLine1": "No. 5, Jalan Lagoon Selatan",
+			"AddressLine2": "Bandar Sunway",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47500",
+			"City": "Subang Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-7491 9191",
+			"Latitude": "3.066217",
+			"Longitude": "101.609550",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Subang Jaya Medical Centre",
+			"AddressLine1": "1, Jalan SS12\/1A",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47500",
+			"City": "Subang Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-5639 1212",
+			"Latitude": "3.078412",
+			"Longitude": "101.593622",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Qhc Medical Centre",
+			"AddressLine1": "No. 2, Jalan USJ 9\/5R",
+			"AddressLine2": "UEP Subang Jaya",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47620",
+			"City": "Subang Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-8024 5760",
+			"Latitude": "3.047584",
+			"Longitude": "101.587316",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Putra Medical Centre (sg Buloh)",
+			"AddressLine1": "No. 47, Jalan BRP 1\/3",
+			"AddressLine2": "Bukit Rahman Putra",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "47000",
+			"City": "Sungai Buloh",
+			"State": "Selangor",
+			"PhoneNumber": "03-6156 4735",
+			"Latitude": "3.209437",
+			"Longitude": "101.562134",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Uitm Private Specialist Centre",
+			"AddressLine1": "Level 2, Clinical Building",
+			"AddressLine2": "Faculty of Medicine, Sg. Buloh Campus",
+			"AddressLine3": "Jalan Hospital,",
+			"Email": "",
+			"PostCode": "47000",
+			"City": "Sungai Buloh",
+			"State": "Selangor",
+			"PhoneNumber": "03 6144 1600",
+			"Latitude": "3.220874",
+			"Longitude": "101.593674",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Kuala Terengganu Specialist Hospital Sdn. Bhd.",
+			"AddressLine1": "No. 443B, Wisma TDM, Jalan Kamaruddin",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "20400",
+			"City": "Kuala Terengganu",
+			"State": "Terengganu",
+			"PhoneNumber": "09-624 5353",
+			"Latitude": "5.315712",
+			"Longitude": "103.149222",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Salam Specialist Hospital, Kuala Terengganu",
+			"AddressLine1": "Lot 4075, Jalan Engku Sar",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "20200",
+			"City": "Kuala Terengganu",
+			"State": "Terengganu",
+			"PhoneNumber": "09 620 0200",
+			"Latitude": "5.326161",
+			"Longitude": "103.139517",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP"
+			]
+		},
+		{
+			"Name": "International Specialist Eye Centre (day Care)",
+			"AddressLine1": "Level 7 & 8, Centrepoint South",
+			"AddressLine2": "The Boulevard",
+			"AddressLine3": "Mid Valley City",
+			"Email": "",
+			"PostCode": "59200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "603 2284 8989",
+			"Latitude": "3.117932",
+			"Longitude": "101.676726",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Kuala Lumpur Sports Medicine Centre",
+			"AddressLine1": "7th Floor, Wisma Perintis,\n47, Jalan Dungun,",
+			"AddressLine2": "Damansara Heights,",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "50490",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "603 2096 1033",
+			"Latitude": "3.152311",
+			"Longitude": "101.665472",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Sentul Medical Centre",
+			"AddressLine1": "631, Jalan Sentul",
+			"AddressLine2": "Sentul Selatan",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "51000",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "603 4041 6962",
+			"Latitude": "3.174310",
+			"Longitude": "101.692910",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Hospital Aman - Jalan Ipoh",
+			"AddressLine1": "175 & 177",
+			"AddressLine2": "Jalan Ipoh,",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "51200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "603 4041 2209",
+			"Latitude": "3.171539",
+			"Longitude": "101.693282",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Parkcity Medical Centre",
+			"AddressLine1": "No. 2, Jalan Intisari Perdana",
+			"AddressLine2": "Desa ParkCity",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "52200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-5639 1212",
+			"Latitude": "3.189236",
+			"Longitude": "101.638158",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Damai Service Hospital (melawati) Sdn. Bhd.",
+			"AddressLine1": "Jalan Bandar 4",
+			"AddressLine2": "Taman Melawati",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "53100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-41089900",
+			"Latitude": "3.210490",
+			"Longitude": "101.752110",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Ampang",
+			"AddressLine1": "Jalan Perubatan 1",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "55100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-4289 2828",
+			"Latitude": "3.127917",
+			"Longitude": "101.752340",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Hospital Pusrawi Sdn. Bhd.",
+			"AddressLine1": "Lot 149, Jalan Tun Razak",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "50400",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-2687 5000",
+			"Latitude": "3.171236",
+			"Longitude": "101.710171",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Ukm Specialist Centre",
+			"AddressLine1": "Tingkat 7, Blok Klinikal, Hospital UKM",
+			"AddressLine2": "Tingkat 7, Blok Klinikal, Hospital UKM",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "56000",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "603 9172 6064",
+			"Latitude": "3.098220",
+			"Longitude": "101.726000",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Sentosa Medical Centre",
+			"AddressLine1": "36, Jalan Chemur",
+			"AddressLine2": "Kompleks Damai",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "50400",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-4043 7166",
+			"Latitude": "3.170830",
+			"Longitude": "101.697360",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Taman Desa Medical Centre",
+			"AddressLine1": "No. 45, Jalan Desa",
+			"AddressLine2": "Taman Desa, Old Klang Road",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "58100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-7982 6500",
+			"Latitude": "3.096091",
+			"Longitude": "101.677842",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Prince Court Medical Centre Sdn. Bhd.",
+			"AddressLine1": "39, Jalan Kia Peng",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "50450",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-2160 0000",
+			"Latitude": "3.148968",
+			"Longitude": "101.721831",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "N",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Quill Orthopaedic Specialist Centre Sdn. Bhd.",
+			"AddressLine1": "95, 97 & 99, Jalan Aminuddin Baki",
+			"AddressLine2": "Taman Tun Dr. Ismail",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "60000",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-7727 0633",
+			"Latitude": "3.152635",
+			"Longitude": "101.620288",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Um Specialist Centre Sdn. Bhd.",
+			"AddressLine1": "UMSC Building, Lot 28, Lorong Universiti",
+			"AddressLine2": "Lembah Pantai",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "50603",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-7841 4000",
+			"Latitude": "3.116199",
+			"Longitude": "101.650731",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Damai Service Hospital (hq) Sdn. Bhd.",
+			"AddressLine1": "No. 109-119, Jalan Ipoh, First Mile",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "51200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-4043 4900",
+			"Latitude": "3.170087",
+			"Longitude": "101.695102",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Lourdes Medical Centre",
+			"AddressLine1": "No. 244, Jalan Ipoh",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "51200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-4042 5335",
+			"Latitude": "3.172994",
+			"Longitude": "101.691218",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Kpj Tawakkal Specialist Hospital",
+			"AddressLine1": "No. 1, Jalan Pahang Barat",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "53000",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-4026 7777",
+			"Latitude": "3.177230",
+			"Longitude": "101.699791",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Columbia Asia Hospital - Setapak",
+			"AddressLine1": "No. 1, Jalan Danau Saujana",
+			"AddressLine2": "Off Jalan Genting Klang",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "53300",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-4145 9999",
+			"Latitude": "3.201176",
+			"Longitude": "101.717988",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Al-islam Specialist Hospital",
+			"AddressLine1": "No. 85, Jalan Raja Abdullah",
+			"AddressLine2": "Kampung Baru",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "50300",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-2693 1007",
+			"Latitude": "3.163522",
+			"Longitude": "101.703162",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Tung Shin Hospital",
+			"AddressLine1": "No. 102, Jalan Pudu",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "55100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-2037 2288",
+			"Latitude": "3.14623",
+			"Longitude": "101.703954",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP"
+			]
+		},
+		{
+			"Name": "Institut Jantung Negara",
+			"AddressLine1": "145, Jalan Tun Razak",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "50400",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-2617 8200",
+			"Latitude": "3.169999",
+			"Longitude": "101.709422",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Cheras",
+			"AddressLine1": "No. 1, Jalan 1\/96A",
+			"AddressLine2": "Taman Cheras Makmur",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "56100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-9145 2888",
+			"Latitude": "3.102590",
+			"Longitude": "101.740699",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		},
+		{
+			"Name": "Gleneagles Kuala Lumpur",
+			"AddressLine1": "286, Jalan Ampang",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "50450",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-4141 3000",
+			"Latitude": "3.161461",
+			"Longitude": "101.740195",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "N",
+			"Micares": "Y",
+			"EMAS": "N",
+			"Product": [
+				"MHS"
+			]
+		},
+		{
+			"Name": "Pantai Hospital Kuala Lumpur",
+			"AddressLine1": "8, Jalan Bukit Pantai",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "",
+			"PostCode": "59100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-2296 0888",
+			"Latitude": "3.120114",
+			"Longitude": "101.666260",
+			"Type": [
+				"HOS"
+			],
+			"AAN": "Y",
+			"Micares": "Y",
+			"EMAS": "Y",
+			"Product": [
+				"MHS",
+				"MSE",
+				"MMP",
+				"MDP",
+				"MME"
+			]
+		}
+	],
+	"GENERALI_OFFICE" : [
+		{
+			"Name": "MPI Generali (Batu Pahat)",
+			"AddressLine1": "16-A, Jalan Ceria",
+			"AddressLine2": "Pusat Perniagaan Ceria,",
+			"AddressLine3": "",
+			"PostCode": "83000",
+			"City": "Batu Pahat",
+			"State": "Johor",
+			"PhoneNumber": "+607 439 5717",
+			"Latitude": "1.864410",
+			"Longitude": "102.966711",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Johor Bahru)",
+			"AddressLine1": "Unit 1903 & 1904, Level 19, City Plaza",
+			"AddressLine2": "Jalan Tebrau",
+			"AddressLine3": "",
+			"PostCode": "80300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 268 7600",
+			"Latitude": "1.475775",
+			"Longitude": "103.762700",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Alor Setar)",
+			"AddressLine1": "2nd Floor, Unit 5a,",
+			"AddressLine2": "No. 55, Bangunan Emum 55, Jalan Gangsa,",
+			"AddressLine3": "Kawasan Perusahaan Mergong 2",
+			"PostCode": "05150",
+			"City": "Alor Setar",
+			"State": "Kedah",
+			"PhoneNumber": "+604 735 7007",
+			"Latitude": "6.135397",
+			"Longitude": "100.360863",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Kota Bharu)",
+			"AddressLine1": "Lot 385, T\/Blk 13,",
+			"AddressLine2": "Jalan Jambatan Sultan Yahya Petra,",
+			"AddressLine3": "Kg. Sireh,",
+			"PostCode": "15050",
+			"City": "Kota Bharu",
+			"State": "Kelantan",
+			"PhoneNumber": "+609 748 7779, +609 748 7697",
+			"Latitude": "6.114517",
+			"Longitude": "102.232699",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Melaka)",
+			"AddressLine1": "No. 308, Jalan Melaka Raya 1,",
+			"AddressLine2": "Taman Melaka Raya,",
+			"AddressLine3": "",
+			"PostCode": "75000",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "+606 288 3818",
+			"Latitude": "2.187493",
+			"Longitude": "102.252569",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Seremban)",
+			"AddressLine1": "No. 69-1, 1st Floor, Jalan Era Square 2,",
+			"AddressLine2": "Era Square,",
+			"AddressLine3": "",
+			"PostCode": "70200",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 761 8818, +606 761 7818",
+			"Latitude": "2.726935",
+			"Longitude": "101.930950",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Kuantan)",
+			"AddressLine1": "No. 3 & 5, Tingkat 2, Transit Point,",
+			"AddressLine2": "Jalan Dato' Lim Hoe Lek,",
+			"AddressLine3": "",
+			"PostCode": "25000",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "+609 513 5288",
+			"Latitude": "3.820958",
+			"Longitude": "103.325415",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Ipoh)",
+			"AddressLine1": "No. 63 & 65, Jalan Chung Thye Phin",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"PostCode": "30250",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "+605 241 0396, +605 241 0988",
+			"Latitude": "4.588369",
+			"Longitude": "101.086701",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Kangar)",
+			"AddressLine1": "2nd Floor, No. 366 Taman Mutiara,",
+			"AddressLine2": "Jalan Kangar,",
+			"AddressLine3": "",
+			"PostCode": "01000",
+			"City": "Kangar",
+			"State": "Perlis",
+			"PhoneNumber": "+604 979 3188, +604 979 3288",
+			"Latitude": "6.433413",
+			"Longitude": "100.187450",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Penang)",
+			"AddressLine1": "No. 41-01-01, 1st Floor,",
+			"AddressLine2": "Wisma Prudential,",
+			"AddressLine3": "Jalan Cantonment,",
+			"PostCode": "10250",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 228 9388",
+			"Latitude": "5.432828",
+			"Longitude": "100.312171",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Kota Kinabalu)",
+			"AddressLine1": "Block B, Lot 1, 1st Floor,",
+			"AddressLine2": "Jalan Lintas Highway, Lintas Jaya,",
+			"AddressLine3": "New Uptownship Penampang,",
+			"PostCode": "89500",
+			"City": "Penampang",
+			"State": "Sabah",
+			"PhoneNumber": "+6088 726 022, +6088 719 720",
+			"Latitude": "5.932436",
+			"Longitude": "116.070177",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Sandakan)",
+			"AddressLine1": "Lot 9, Block B, Utama Place,",
+			"AddressLine2": "Mile 6, North Road,",
+			"AddressLine3": "",
+			"PostCode": "90000",
+			"City": "Sandakan",
+			"State": "Sabah",
+			"PhoneNumber": "+6089 212 233",
+			"Latitude": "5.864390",
+			"Longitude": "118.056528",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Kuching)",
+			"AddressLine1": "Lot 584 - 586, 1st Floor,",
+			"AddressLine2": "Jalan Tun Ahmad Zaidi Adruce,",
+			"AddressLine3": "",
+			"PostCode": "93150",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "+6082 248 833, +6082 248 933",
+			"Latitude": "1.551291",
+			"Longitude": "110.337466",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Sibu)",
+			"AddressLine1": "No. 38, 1st Floor,",
+			"AddressLine2": "Jalan Keranji,",
+			"AddressLine3": "",
+			"PostCode": "96000",
+			"City": "Sibu",
+			"State": "Sarawak",
+			"PhoneNumber": "+6084 316 633",
+			"Latitude": "2.294068",
+			"Longitude": "111.827366",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Klang)",
+			"AddressLine1": "No. 11B, 2nd Floor",
+			"AddressLine2": "Jalan Kepayang, Off Jalan Meru,",
+			"AddressLine3": "",
+			"PostCode": "41050",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "+603 3343 6898",
+			"Latitude": "3.049228",
+			"Longitude": "101.450018",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Petaling Jaya)",
+			"AddressLine1": "No. 12, 1st & 2nd Floor,",
+			"AddressLine2": "Jalan SS 3\/5,",
+			"AddressLine3": "",
+			"PostCode": "47300",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "+603 7875 2328",
+			"Latitude": "3.094749",
+			"Longitude": "101.609712",
+			"Type":["OFC"]
+		},
+		{
+			"Name": "MPI Generali (Head Office)",
+			"AddressLine1": "8th Floor, Menara Multi-Purpose, Capital Square,",
+			"AddressLine2": "8, Jalan Munshi Abdullah,",
+			"AddressLine3": "P.O. Box 10122,",
+			"PostCode": "50100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 2034 9888",
+			"Latitude": "3.155000",
+			"Longitude": "101.699320",
+			"Type":["OFC"]
+		}
+	],
+	"MOTOR" : [
+		{
+			"Name": "Yong Hup Soon Motor Works Sdn Bhd",
+			"AddressLine1": "No 1, Jalan Budi 4,",
+			"AddressLine2": "Taman Perindustrian Wawasan 2020,",
+			"AddressLine3": "",
+			"Email": "yhs_claim@hotmail.my",
+			"PostCode": "83000",
+			"City": "Batu Pahat",
+			"State": "Johor",
+			"PhoneNumber": "+607 428 8727",
+			"Latitude": "1.788281",
+			"Longitude": "102.968121",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "7, Jalan Maju Barat,",
+			"AddressLine2": "Taman Maju,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "83000",
+			"City": "Batu Pahat",
+			"State": "Johor",
+			"PhoneNumber": "07-432 9325, 016-771 3337, 016-770 5551",
+			"Latitude": "2.023772",
+			"Longitude": "103.301224",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "3\/1, Jalan Kundang,",
+			"AddressLine2": "Taman Bukit Pasir,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "83000",
+			"City": "Batu Pahat",
+			"State": "Johor",
+			"PhoneNumber": "07-433 1558, 016-726 6661, 016-771 6999",
+			"Latitude": "1.868323",
+			"Longitude": "102.941465",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Perfect Workshop Sdn Bhd",
+			"AddressLine1": "No 3 & 5, Jalan Waja 4,",
+			"AddressLine2": "Kawasan Perindustrian Pandan,",
+			"AddressLine3": "",
+			"Email": "perfectworkshopsb@gmail.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 352 2951",
+			"Latitude": "1.532031",
+			"Longitude": "103.780886",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Woon Soon Workshop Sdn. Bhd.",
+			"AddressLine1": "No 63, 65 & 86, Jalan Bertam 5,",
+			"AddressLine2": "Taman Daya,",
+			"AddressLine3": "",
+			"Email": "wsoonworkshop@gmail.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 355 7876",
+			"Latitude": "1.541118",
+			"Longitude": "103.760021",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "New Way Motor Workshop Sdn Bhd",
+			"AddressLine1": "No 3, Jalan Seroja 47,",
+			"AddressLine2": "Taman Johor Jaya,",
+			"AddressLine3": "",
+			"Email": "newway003@yahoo.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 353 5003",
+			"Latitude": "1.533402",
+			"Longitude": "103.805790",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ah Kum Motor Workshop Sdn Bhd",
+			"AddressLine1": "No 10,12 & 14, Jalan Mustiara Emas 7\/4",
+			"AddressLine2": "Taman Mount Austin",
+			"AddressLine3": "",
+			"Email": "ahkummotor@hotmail.com, ahkummotor88@gmail.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 353 5788",
+			"Latitude": "1.548406",
+			"Longitude": "103.769870",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (johor Jaya)",
+			"AddressLine1": "No 108, Jln Ros Merah 2\/17,",
+			"AddressLine2": "Tmn Johor Jaya",
+			"AddressLine3": "",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "016-713 1190",
+			"Latitude": "1.547685",
+			"Longitude": "103.795477",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (mount Austin)",
+			"AddressLine1": "G-05, Block 3A, Jln Mutiara Emas",
+			"AddressLine2": "9\/3, Jln Mount Austin",
+			"AddressLine3": "",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "013-789 3227",
+			"Latitude": "1.551349",
+			"Longitude": "103.788634",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (tebrau)",
+			"AddressLine1": "MLO 2965 Jln Tebrau,",
+			"AddressLine2": "Kampung Bendahara,",
+			"AddressLine3": "",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "019-798 9437",
+			"Latitude": "1.513551",
+			"Longitude": "103.760539",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "No 32, Jalan Seroja 37,",
+			"AddressLine2": "Taman Johor Jaya,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07- 355 7952, 019-778 3192",
+			"Latitude": "1.529872",
+			"Longitude": "103.811736",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "19, Jln Mutiara Emas 9\/3,",
+			"AddressLine2": "Taman Mount Austin,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-554 6698, 016-772 2229, 016-723 9332",
+			"Latitude": "1.547123",
+			"Longitude": "103.788710",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "The Best Auto Glass Sdn Bhd",
+			"AddressLine1": "No 31 Jalan Ros Merah 3\/1,",
+			"AddressLine2": "Taman Johor Jaya,",
+			"AddressLine3": "",
+			"Email": "thebest81118@gmail.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "016-772 9191",
+			"Latitude": "1.530758",
+			"Longitude": "103.798168",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Ngee Chee Seng Sdn Bhd",
+			"AddressLine1": "No 3, Jalan Riang 21\/5,",
+			"AddressLine2": "Taman Perindustrian Gembira",
+			"AddressLine3": "",
+			"Email": "ngeecheeseng@yahoo.com",
+			"PostCode": "81200",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 334 8777",
+			"Latitude": "1.527481",
+			"Longitude": "103.745719",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "48, 48-A, Jln Kempas Utama 3\/1,",
+			"AddressLine2": "Tmn Kempas Utamas,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81200",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-554 6698, 016-777 5558, 016-721 3332",
+			"Latitude": "1.556448",
+			"Longitude": "103.706542",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "44, Jalan Tampoi,",
+			"AddressLine2": "Kampung Baru",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81200",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-232 7579, 016-771 7755, 016-702 5800",
+			"Latitude": "1.497971",
+			"Longitude": "103.706282",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Wan Sheng Motor Workshop Sdn Bhd",
+			"AddressLine1": "No 3, Jalan Shahbandar 8,",
+			"AddressLine2": "Taman Ungku Tun Aminah,",
+			"AddressLine3": "",
+			"Email": "seng_motor@yahoo.com",
+			"PostCode": "81300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 557 8978",
+			"Latitude": "1.544759",
+			"Longitude": "103.656908",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Hin Yap Motor Services Sdn Bhd",
+			"AddressLine1": "16, Jalan Satria 17,",
+			"AddressLine2": "Taman Perindustrian JB Perdana,",
+			"AddressLine3": "",
+			"Email": "hinyap_8888@yahoo.com",
+			"PostCode": "81300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 512 1199",
+			"Latitude": "1.498731",
+			"Longitude": "103.664910",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (nusa Bestari)",
+			"AddressLine1": "No 175G, Jln Nusa Bestari 1\/5,",
+			"AddressLine2": "Tmn Nusa Bestari,",
+			"AddressLine3": "",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "81300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "013-750 6788",
+			"Latitude": "1.511018",
+			"Longitude": "103.656099",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (skudai-hq)",
+			"AddressLine1": "No 2,4,6 Jalan Ronggeng 1,",
+			"AddressLine2": "Taman Skudai ,",
+			"AddressLine3": "",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "81300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-554 6257",
+			"Latitude": "1.537576",
+			"Longitude": "103.665438",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "9G, Jln Bestari 12\/2,",
+			"AddressLine2": "Taman Nusa Bestari",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-556 8132, 016-716 1555",
+			"Latitude": "1.488163",
+			"Longitude": "103.664072",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "3G, Jln Bestari 12\/2,",
+			"AddressLine2": "Taman Nusa Bestari",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-557 4749, 016-772 5556, 016-7332223",
+			"Latitude": "1.492839",
+			"Longitude": "103.663686",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "18, Jln Ronggeng 12,",
+			"AddressLine2": "Taman Skudai Baru",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-554 8353, 016-716 1118, 016-779 3329",
+			"Latitude": "1.539669",
+			"Longitude": "103.663538",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "10, Jln Ronggeng 12,",
+			"AddressLine2": "Taman Skudai Baru",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81300",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-554 8353, 016-771 5559, 019-776 7675",
+			"Latitude": "1.539746",
+			"Longitude": "103.665255",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "91, Jalan Kebun Teh,",
+			"AddressLine2": "Taman Kebun Teh,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "80250",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "07-333 7118, 016-777 5550, 016-7728662",
+			"Latitude": "1.496367",
+			"Longitude": "103.761733",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Sin Heng Auto Works Sdn Bhd",
+			"AddressLine1": "No 9, Jalan Permatang 17,",
+			"AddressLine2": "Taman Desa Jaya,",
+			"AddressLine3": "",
+			"Email": "sinheng_workshop@hotmail.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 356 0010",
+			"Latitude": "1.559946",
+			"Longitude": "103.801796",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Yong Soon Workshop (m) Sdn Bhd",
+			"AddressLine1": "26, Jalan Rosmerah 1\/4,",
+			"AddressLine2": "Taman Johor Jaya,",
+			"AddressLine3": "",
+			"Email": "yongsoonw@gmail.com",
+			"PostCode": "81100",
+			"City": "Johor Bahru",
+			"State": "Johor",
+			"PhoneNumber": "+607 352 3645",
+			"Latitude": "1.534319",
+			"Longitude": "103.796957",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Kluang Welding Sdn Bhd",
+			"AddressLine1": "17, Jalan Bangau,",
+			"AddressLine2": "Happy Valley,",
+			"AddressLine3": "",
+			"Email": "kluangwelding@gmail.com",
+			"PostCode": "86000",
+			"City": "Kluang",
+			"State": "Johor",
+			"PhoneNumber": "+607 772 3106",
+			"Latitude": "2.041042",
+			"Longitude": "103.341034",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "Ground Floor, Jln Aman Satu,",
+			"AddressLine2": "Tmn Aman",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "86000",
+			"City": "Kluang",
+			"State": "Johor",
+			"PhoneNumber": "07-776 6012, 016-772 8885, 016-775 3329",
+			"Latitude": "2.059364",
+			"Longitude": "103.334158",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Bengkel Mengimpal Kereta Kk Sdn Bhd",
+			"AddressLine1": "No 16, Jalan Kemajuan 2,",
+			"AddressLine2": "Taman Perindustrian,",
+			"AddressLine3": "",
+			"Email": "kkmotor78@hotmail.com",
+			"PostCode": "81900",
+			"City": "Kota Tinggi",
+			"State": "Johor",
+			"PhoneNumber": "+607 883 5123",
+			"Latitude": "1.701953",
+			"Longitude": "103.878678",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (kulai)",
+			"AddressLine1": "No 769 Taman Teok, Kulai Besar,",
+			"AddressLine2": "Kulai Jaya,",
+			"AddressLine3": "",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "81000",
+			"City": "Kulai",
+			"State": "Johor",
+			"PhoneNumber": "018-779 6194",
+			"Latitude": "1.682869",
+			"Longitude": "103.619507",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "25-3, Ground Floor, Susur Kulai 1,",
+			"AddressLine2": "Kulai Besar",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81000",
+			"City": "Kulai",
+			"State": "Johor",
+			"PhoneNumber": "07-663 5690, 016-721 1133, 016-771 3311",
+			"Latitude": "1.652738",
+			"Longitude": "103.610613",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Lian Heng Motor Sdn Bhd",
+			"AddressLine1": "Lot 40, Jalan Air Hitam,",
+			"AddressLine2": "Air Bemban,",
+			"AddressLine3": "",
+			"Email": "lianhengmotor@yahoo.com",
+			"PostCode": "81020",
+			"City": "Kulai",
+			"State": "Johor",
+			"PhoneNumber": "+607 656 5888",
+			"Latitude": "1.696215",
+			"Longitude": "103.491822",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Seng Tai Auto Sdn Bhd (jb)",
+			"AddressLine1": "No 20, Jalan Permas 9\/10,",
+			"AddressLine2": "Bandar Baru Permas Jaya,",
+			"AddressLine3": "",
+			"Email": "sengtai22@hotmail.com",
+			"PostCode": "81750",
+			"City": "Masai",
+			"State": "Johor",
+			"PhoneNumber": "+607 388 3735",
+			"Latitude": "1.495706",
+			"Longitude": "103.822117",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Wong Kah Kwee Workshop Sdn Bhd",
+			"AddressLine1": "No 2, Jalan Meranti 3,",
+			"AddressLine2": "Taman Rinting,",
+			"AddressLine3": "",
+			"Email": "wkkwsb@yahoo.com.my",
+			"PostCode": "81750",
+			"City": "Masai",
+			"State": "Johor",
+			"PhoneNumber": "+607 251 3940",
+			"Latitude": "1.491040",
+			"Longitude": "103.879214",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (masai)",
+			"AddressLine1": "Lot CW3 Today's Market PTD 111519",
+			"AddressLine2": "Jalan Suria 1,",
+			"AddressLine3": "Bandar Seri Alam",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "81750",
+			"City": "Masai",
+			"State": "Johor",
+			"PhoneNumber": "013-713 3896",
+			"Latitude": "1.501242",
+			"Longitude": "103.871547",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "68, Jln Kiambang,",
+			"AddressLine2": "Masai Baru,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "81750",
+			"City": "Masai",
+			"State": "Johor",
+			"PhoneNumber": "07-253 2558, 016-772 5552, 016-710 9332",
+			"Latitude": "1.487278",
+			"Longitude": "103.887990",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Kan Aik Automobile Sdn Bhd",
+			"AddressLine1": "119, Batu 1 1\/2,",
+			"AddressLine2": "Tanjung Agas",
+			"AddressLine3": "",
+			"Email": "kanaikauto@gmail.com",
+			"PostCode": "84000",
+			"City": "Muar",
+			"State": "Johor",
+			"PhoneNumber": "+606 952 4859",
+			"Latitude": "2.058011",
+			"Longitude": "102.563810",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Lim Soon Heng",
+			"AddressLine1": "No 264-3, Batu 1 1\/4,",
+			"AddressLine2": "Jln Bakri,",
+			"AddressLine3": "",
+			"Email": "limsoonheng1969@gmail.com",
+			"PostCode": "84000",
+			"City": "Muar",
+			"State": "Johor",
+			"PhoneNumber": "06-952 3612, 06-923 8612",
+			"Latitude": "2.070248",
+			"Longitude": "102.552873",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (kluang)",
+			"AddressLine1": "No 138, Jln Mersing",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "84000",
+			"City": "Muar",
+			"State": "Johor",
+			"PhoneNumber": "013-750 6788",
+			"Latitude": "2.044768",
+			"Longitude": "103.341534",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "37-17G, Jln Bakri,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "84000",
+			"City": "Muar",
+			"State": "Johor",
+			"PhoneNumber": "07-951 3975, 016-777 5588, 016-771 5559",
+			"Latitude": "2.047858",
+			"Longitude": "102.580655",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Sin Lai Heng Sdn Bhd",
+			"AddressLine1": "MBP 140.Lot 1712, Jalan Temenggong Ahmad,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "slhwsoh@gmail.com",
+			"PostCode": "84000",
+			"City": "Muar",
+			"State": "Johor",
+			"PhoneNumber": "06-981 2775",
+			"Latitude": "2.000990",
+			"Longitude": "102.608112",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Bengkel Memateri Kenderaan Tek Yee Sdn Bhd",
+			"AddressLine1": "PTD 11769, Jalan Industri 2,",
+			"AddressLine2": "Taman Perindustrian,",
+			"AddressLine3": "",
+			"Email": "tekyee@yahoo.com",
+			"PostCode": "81500",
+			"City": "Pekan Nenas",
+			"State": "Johor",
+			"PhoneNumber": "+607 699 2207",
+			"Latitude": "1.514415",
+			"Longitude": "103.517686",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Kenderaan Song Lim Sdn Bhd",
+			"AddressLine1": "No 1, Pontian Besar,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "mrsonglim@gmail.com",
+			"PostCode": "82000",
+			"City": "Pontian",
+			"State": "Johor",
+			"PhoneNumber": "+607 687 2822",
+			"Latitude": "1.512868",
+			"Longitude": "103.379067",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "G & L Auto Service Sdn Bhd",
+			"AddressLine1": "PTD 6446, Batu 34, Jalan Johor,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "glauto06@gmail.com",
+			"PostCode": "82000",
+			"City": "Pontian",
+			"State": "Johor",
+			"PhoneNumber": "+607 686 4818",
+			"Latitude": "1.529760",
+			"Longitude": "103.549982",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Segamat Federal Motor (1979) Sdn Bhd",
+			"AddressLine1": "75 & 76, Segamat Perindustrian Area,",
+			"AddressLine2": "Jalan Genuang,",
+			"AddressLine3": "P.O. Box C70,",
+			"Email": "vas@segamatfederal.com.my",
+			"PostCode": "85000",
+			"City": "Segamat",
+			"State": "Johor",
+			"PhoneNumber": "+607 943 2988",
+			"Latitude": "2.492496",
+			"Longitude": "102.865237",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "92, Jln Buloh Kasap,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "85000",
+			"City": "Segamat",
+			"State": "Johor",
+			"PhoneNumber": "07-932 2258, 016-777 3332, 016-721 3239",
+			"Latitude": "2.522708  102.805273",
+			"Longitude": "",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Ban Soon Engineering & Motor Workshop Sdn Bhd",
+			"AddressLine1": "74, (PTD41568), Jalan Idaman 1\/3",
+			"AddressLine2": "Senai Industrial Park,",
+			"AddressLine3": "",
+			"Email": "bsmotor7681@gmail.com",
+			"PostCode": "81400",
+			"City": "Senai",
+			"State": "Johor",
+			"PhoneNumber": "+607 599 7681",
+			"Latitude": "1.627950",
+			"Longitude": "103.680636",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "16, Jln Setia 1,",
+			"AddressLine2": "Pusat Perdagangan Setia S.R,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "86200",
+			"City": "Simpang Rengam",
+			"State": "Johor",
+			"PhoneNumber": "07-775 2221, 016-723 2221, 016-771 5559",
+			"Latitude": "1.810012",
+			"Longitude": "103.323114",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Yon Huat Motor Works Sdn Bhd",
+			"AddressLine1": "Lot 1770, 3683 & 3684,",
+			"AddressLine2": "Jalan Bindu, Bindu,",
+			"AddressLine3": "Tongkang Pechah",
+			"Email": "claims@yonhuat.com, admin@yonhuat.com",
+			"PostCode": "83010",
+			"City": "Tongkang Pecah",
+			"State": "Johor",
+			"PhoneNumber": "+607 415 2888",
+			"Latitude": "1.851206",
+			"Longitude": "102.913087",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Yonsing Motor Sdn Bhd",
+			"AddressLine1": "No 3, Jalan Maju 1,",
+			"AddressLine2": "Taman Perindustrian Cemerlang,",
+			"AddressLine3": "",
+			"Email": "yonsing_motor@hotmail.com,  yonsingmotor@hotmail.c",
+			"PostCode": "81800",
+			"City": "Ulu Tiram",
+			"State": "Johor",
+			"PhoneNumber": "+607 863 0189",
+			"Latitude": "1.548917",
+			"Longitude": "103.827494",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (ulu Tiram)",
+			"AddressLine1": "No 7, Jln Baiduri 1,",
+			"AddressLine2": "Tmn Intan,",
+			"AddressLine3": "",
+			"Email": "sharon@drcermin.com, yang@drcermin.com",
+			"PostCode": "81800",
+			"City": "Ulu Tiram",
+			"State": "Johor",
+			"PhoneNumber": "018-766 5220",
+			"Latitude": "1.603093",
+			"Longitude": "103.821047",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Shoon Fat Car Repairing Workshop Sdn Bhd",
+			"AddressLine1": "Lot 2265, Jalan River State, JMYP",
+			"AddressLine2": "45\/9 Jalan Muar,",
+			"AddressLine3": "",
+			"Email": "shoonfat6641@hotmail.com",
+			"PostCode": "83700",
+			"City": "Yong Peng",
+			"State": "Johor",
+			"PhoneNumber": "+607 468 1666",
+			"Latitude": "2.004859",
+			"Longitude": "103.045520",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Atcord Spray Painting Sdn Bhd",
+			"AddressLine1": "No 281, Lorong Perak 14",
+			"AddressLine2": "Kawasan Perusahaan Mergong II",
+			"AddressLine3": "",
+			"Email": "ems1690@yahoo.com",
+			"PostCode": "05150",
+			"City": "Alor Setar",
+			"State": "Kedah",
+			"PhoneNumber": "04-733 2702, 012-481 5173",
+			"Latitude": "6.137150",
+			"Longitude": "100.358531",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "No 5, Jln Murni Seberang,",
+			"AddressLine2": "Jln Putra",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "05150",
+			"City": "Alor Setar",
+			"State": "Kedah",
+			"PhoneNumber": "016- 488 0336",
+			"Latitude": "6.136741",
+			"Longitude": "100.344958",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "As Lean Huat Auto Repair & Trading Sdn Bhd",
+			"AddressLine1": "Lot 1562, Batu 4,",
+			"AddressLine2": "Jalan Simpang Empat,",
+			"AddressLine3": "",
+			"Email": "asleanhuat@gmail.com",
+			"PostCode": "05400",
+			"City": "Alor Setar",
+			"State": "Kedah",
+			"PhoneNumber": "+604 764 1180",
+			"Latitude": "6.059161",
+			"Longitude": "100.369913",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Motor Indah Sdn Bhd",
+			"AddressLine1": "291, Lorong, Perak 14,",
+			"AddressLine2": "Mergong Industrial Estate 2,",
+			"AddressLine3": "",
+			"Email": "bmindah@hotmail.com",
+			"PostCode": "05150",
+			"City": "Alor Setar",
+			"State": "Kedah",
+			"PhoneNumber": "+604 733 0392",
+			"Latitude": "6.136760",
+			"Longitude": "100.359631",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Meng Kwang Car Repairs Sdn Bhd",
+			"AddressLine1": "No. 183A, Batu Satu,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "mengkwangworkshop2@gmail.com",
+			"PostCode": "08100",
+			"City": "Bedong",
+			"State": "Kedah",
+			"PhoneNumber": "+604 458 7137",
+			"Latitude": "5.735410",
+			"Longitude": "100.510382",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Jerai Workshop Service (m) Sdn Bhd",
+			"AddressLine1": "Lot 3, PT 9485 Jalan Pejabat Lebuhraya",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "jeraiworkshop@gmail.com",
+			"PostCode": "08300",
+			"City": "Gurun",
+			"State": "Kedah",
+			"PhoneNumber": "+604 468 1443",
+			"Latitude": "5.825893",
+			"Longitude": "100.489838",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Weng Keong Sdn Bhd",
+			"AddressLine1": "Lot 117, Jalan Kelang Lama,",
+			"AddressLine2": "Lunas Kulim",
+			"AddressLine3": "",
+			"Email": "wengkeong999@yahoo.com",
+			"PostCode": "09000",
+			"City": "Kulim",
+			"State": "Kedah",
+			"PhoneNumber": "+604 491 2218",
+			"Latitude": "5.389730",
+			"Longitude": "100.563743",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Indah Utara Auto Service Centre Sdn Bhd",
+			"AddressLine1": "No. 80B, KM10,",
+			"AddressLine2": "Jalan Datuk Kumbar,",
+			"AddressLine3": "",
+			"Email": "iuservice@yahoo.com",
+			"PostCode": "06500",
+			"City": "Langgar",
+			"State": "Kedah",
+			"PhoneNumber": "+604 735 1707",
+			"Latitude": "6.093337",
+			"Longitude": "100.428194",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "U-lek Motor Sdn Bhd (langkawi)",
+			"AddressLine1": "No. 30B, Kampung Sungai Menghulu,",
+			"AddressLine2": "Mukim Kuah,",
+			"AddressLine3": "",
+			"Email": "uleklangkawi@ulek.com.my",
+			"PostCode": "07000",
+			"City": "Langkawi",
+			"State": "Kedah",
+			"PhoneNumber": "+604 966 9185",
+			"Latitude": "6.328663",
+			"Longitude": "99.819351",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Autolim Langkawi Service & Parts Sdn Bhd",
+			"AddressLine1": "Lot 952 Kampong Bukit Tekoh",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "autolim3833@yahoo.com",
+			"PostCode": "07000",
+			"City": "Langkawi",
+			"State": "Kedah",
+			"PhoneNumber": "04-966 8243",
+			"Latitude": "6.327766",
+			"Longitude": "99.802448",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Gemilang Sinar Auto Workshop Sdn Bhd",
+			"AddressLine1": "Lot 869, Paya Besar,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "gs_auto2010@hotmail.com",
+			"PostCode": "09600",
+			"City": "Lunas",
+			"State": "Kedah",
+			"PhoneNumber": "+604 484 2828",
+			"Latitude": "5.409752",
+			"Longitude": "100.551142",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "L.l.s. Motor Workshop Sdn Bhd",
+			"AddressLine1": "A-16, Jalan Fairuz 9\/2,",
+			"AddressLine2": "Taman Perusahaan Ringan Bakar Arang,",
+			"AddressLine3": "",
+			"Email": "llsmwsb@gmail.com",
+			"PostCode": "08000",
+			"City": "Sungai Petani",
+			"State": "Kedah",
+			"PhoneNumber": "+604 431 0159",
+			"Latitude": "5.619134",
+			"Longitude": "100.471164",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "No 212, Jln Lagenda 8,",
+			"AddressLine2": "Lagenda Height",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "08000",
+			"City": "Sungai Petani",
+			"State": "Kedah",
+			"PhoneNumber": "016-416 2990",
+			"Latitude": "5.663980",
+			"Longitude": "100.502406",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Ksk Auto Services Sdn Bhd",
+			"AddressLine1": "T\/S Lot 464, Kampung Teluk Wang,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "ksk.auto6107@yahoo.com",
+			"PostCode": "08000",
+			"City": "Sungai Petani",
+			"State": "Kedah",
+			"PhoneNumber": "04-733 2702, 012-481 5173",
+			"Latitude": "5.618808",
+			"Longitude": "100.440319",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Slhw Services (s.p) Sdn Bhd",
+			"AddressLine1": "Lot 35, Batu 40, Padang Temusu,",
+			"AddressLine2": "Sungai Pasir",
+			"AddressLine3": "",
+			"Email": "slhwsp@yahoo.com",
+			"PostCode": "08000",
+			"City": "Sungai Petani",
+			"State": "Kedah",
+			"PhoneNumber": "04-431 4049",
+			"Latitude": "5.620500",
+			"Longitude": "100.463222",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dit Soon Heng Auto Services Sdn Bhd",
+			"AddressLine1": "PT 79 & 80,",
+			"AddressLine2": "Kawasan Industri Gua Musang,",
+			"AddressLine3": "",
+			"Email": "ditsoon@yahoo.com",
+			"PostCode": "18300",
+			"City": "Gua Musang",
+			"State": "Kelantan",
+			"PhoneNumber": "+609 912 6333",
+			"Latitude": "4.836832",
+			"Longitude": "101.975183",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Jmw Jaya Motor Works Sdn Bhd",
+			"AddressLine1": "5721, Kawasan MIEL Lundang,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "Jayawork66@gmail.com",
+			"PostCode": "15200",
+			"City": "Kota Bharu",
+			"State": "Kelantan",
+			"PhoneNumber": "+609 748 2912",
+			"Latitude": "6.105671",
+			"Longitude": "102.259977",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "K.b. Hup Soon Motors Sdn Bhd",
+			"AddressLine1": "Lot 44, Kawasan Miel",
+			"AddressLine2": "Lundang",
+			"AddressLine3": "",
+			"Email": "kbhupsoon@gmail.com",
+			"PostCode": "15200",
+			"City": "Kota Bharu",
+			"State": "Kelantan",
+			"PhoneNumber": "09-7441607",
+			"Latitude": "6.108919",
+			"Longitude": "102.261148",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Sim Motor Workshop (kb) Sdn Bhd",
+			"AddressLine1": "Lot 1683-F, Mukim Tapang, Panji,",
+			"AddressLine2": "Kampung Dusun Raja,",
+			"AddressLine3": "",
+			"Email": "loo68@live.com",
+			"PostCode": "16100",
+			"City": "Kota Bharu",
+			"State": "Kelantan",
+			"PhoneNumber": "+609 773 0199",
+			"Latitude": "6.132143",
+			"Longitude": "102.272258",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "Lot 3283 (5), Jln Sultan Yahya Petra,",
+			"AddressLine2": "Kubang Kerian,",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "16150",
+			"City": "Kota Bharu",
+			"State": "Kelantan",
+			"PhoneNumber": "016-920 3991",
+			"Latitude": "6.084989",
+			"Longitude": "102.276787",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Tm Hing Motor Sdn Bhd",
+			"AddressLine1": "Lot 3621, KM2, Kawasan Perindustrian,",
+			"AddressLine2": "Jalan Pasir Mas,",
+			"AddressLine3": "",
+			"Email": "hingmotor@hotmail.com",
+			"PostCode": "17500",
+			"City": "Tanah Merah",
+			"State": "Kelantan",
+			"PhoneNumber": "+609 955 2222",
+			"Latitude": "5.826451",
+			"Longitude": "102.149708",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (peringgit Jaya)",
+			"AddressLine1": "9493 KM 4, Jln Tun Razak,",
+			"AddressLine2": "Off Jln Peringgit Jaya",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "75450",
+			"City": "Ayer Keroh",
+			"State": "Melaka",
+			"PhoneNumber": "06-282 5054, 016-611 1520",
+			"Latitude": "2.217410",
+			"Longitude": "102.255976",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "M.k Lim Motor Workshop Sdn Bhd",
+			"AddressLine1": "JA 2723, Kawasan Perindustrian Ringan,",
+			"AddressLine2": "Taman Maju,",
+			"AddressLine3": "",
+			"Email": "mklimmotor@yahoo.com",
+			"PostCode": "77000",
+			"City": "Jasin",
+			"State": "Melaka",
+			"PhoneNumber": "+606 529 1391",
+			"Latitude": "2.292942",
+			"Longitude": "102.412920",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "C H Ee Auto Workshop Sdn Bhd",
+			"AddressLine1": "No 2, Jalan Suria 6,",
+			"AddressLine2": "Taman Malim Jaya,",
+			"AddressLine3": "",
+			"Email": "cheeauto@yahoo.com, cheeauto13@gmail.com",
+			"PostCode": "75250",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "+606 336 3636",
+			"Latitude": "2.235557",
+			"Longitude": "102.233832",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Soon-ly Auto Sdn Bhd",
+			"AddressLine1": "No 39, Jalan Suria 1,",
+			"AddressLine2": "Taman Malim Jaya,",
+			"AddressLine3": "",
+			"Email": "soon_lyauto@yahoo.com.my",
+			"PostCode": "75250",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "+606 335 0490",
+			"Latitude": "2.234369",
+			"Longitude": "102.234371",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ang Soon Auto Workshop Sdn Bhd",
+			"AddressLine1": "No 1 & 3, Jalan Berkat 7,",
+			"AddressLine2": "Taman Malim Jaya,",
+			"AddressLine3": "",
+			"Email": "angsoonspray@hotmail.com,  angsoonauto@gmail.com",
+			"PostCode": "75250",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "+606 332 3635",
+			"Latitude": "2.239170",
+			"Longitude": "102.236514",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ysh Welding Centre Sdn Bhd",
+			"AddressLine1": "No 51, Jalan Suria 1,",
+			"AddressLine2": "Taman Malim Jaya,",
+			"AddressLine3": "",
+			"Email": "yshweldingcentre@yahoo.com",
+			"PostCode": "75250",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "+606 335 3836",
+			"Latitude": "2.234360",
+			"Longitude": "102.234364",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Uni K.s Mudguard Sdn Bhd",
+			"AddressLine1": "No 54 & 56, Jalan Berkat 8,",
+			"AddressLine2": "Taman Malim Jaya,",
+			"AddressLine3": "",
+			"Email": "uniksmudguard@gmail.com",
+			"PostCode": "75250",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "+606 335 3091",
+			"Latitude": "2.241736",
+			"Longitude": "102.238040",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Sing Kwung Auto Sdn Bhd",
+			"AddressLine1": "Lot 4432, Jalan TTC 6,",
+			"AddressLine2": "Kawasan Perindustrian Cheng,",
+			"AddressLine3": "",
+			"Email": "ngsinyean@skasb.com.my",
+			"PostCode": "75250",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "06-335 8255",
+			"Latitude": "2.253515",
+			"Longitude": "102.231147",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "5, Jln KPMB 2,",
+			"AddressLine2": "Kompleks Perniagaan Musai Bistari,",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "75400",
+			"City": "Melaka",
+			"State": "Melaka",
+			"PhoneNumber": "06-274 2051, 016-777 5588, 016-771 5559",
+			"Latitude": "2.376584",
+			"Longitude": "102.259638",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Motor Jempol Sdn Bhd",
+			"AddressLine1": "No 1 1\/2 Miles, Jalan Kuala Pilah,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "mjempol@hotmail.com",
+			"PostCode": "72100",
+			"City": "Bahau",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 454 1428",
+			"Latitude": "2.806913",
+			"Longitude": "102.383138",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Syarikat Eng Hup Car Service Centre Sdn Bhd (kuala",
+			"AddressLine1": "No 62-A, Jalan Bahau (Gentam),",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "enghupkp@hotmail.com, enghupbh@hotmail.com",
+			"PostCode": "72000",
+			"City": "Kuala Pilah",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 481 4589",
+			"Latitude": "2.760328",
+			"Longitude": "102.254047",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Suen Fatt Workshop Sdn Bhd",
+			"AddressLine1": "Lot 30927, Batu 9, Jalan Besar,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "info@suenfatt.com.my",
+			"PostCode": "71700",
+			"City": "Mantin",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 758 6333",
+			"Latitude": "2.813298",
+			"Longitude": "101.912925",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Pusat Servis Kereta Shoon Shoon Sdn Bhd",
+			"AddressLine1": "Lot 8, Kampung Batu 8,",
+			"AddressLine2": "Jalan Seremban Mantin,",
+			"AddressLine3": "",
+			"Email": "pskss@hotmail.com",
+			"PostCode": "71700",
+			"City": "Mantin",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 758 3394",
+			"Latitude": "2.742292",
+			"Longitude": "101.856941",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Lai Hon Ming Motors (m) Sdn Bhd",
+			"AddressLine1": "PT 3319, Jalan Pertama 1\/1,",
+			"AddressLine2": "Arab Malaysian Industrial Park,",
+			"AddressLine3": "",
+			"Email": "lhmmotors@gmail.com",
+			"PostCode": "71800",
+			"City": "Nilai",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 799 2299",
+			"Latitude": "2.877323",
+			"Longitude": "101.813314",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "S. Klas Sdn Bhd",
+			"AddressLine1": "PT 4723, Jalan TS 1\/18,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "s_klas@live.com",
+			"PostCode": "71800",
+			"City": "Nilai",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-767 3228, 016- 9198668",
+			"Latitude": "2.812988",
+			"Longitude": "101.807944",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Thian Wah Motor Sdn Bhd",
+			"AddressLine1": "54 & 55, Jalan Industri 3,",
+			"AddressLine2": "Taman Perindustrian Lukut Indah,",
+			"AddressLine3": "Lukut",
+			"Email": "thianwah1689@gmail.com",
+			"PostCode": "71010",
+			"City": "Port Dickson",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 651 1689",
+			"Latitude": "2.574621",
+			"Longitude": "101.831110",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Fung Chan Motor Sdn Bhd",
+			"AddressLine1": "59 & 61, Jalan Lombong Emas 5,",
+			"AddressLine2": "Seremban Light Industrial Park,",
+			"AddressLine3": "Jalan Tun Dr Ismail,",
+			"Email": "fungchanmotor@gmail.com",
+			"PostCode": "70200",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 767 7797",
+			"Latitude": "2.752536",
+			"Longitude": "101.917590",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Rantau Wy Auto Workshop Sdn Bhd",
+			"AddressLine1": "No 47, Jalan S2 C2,",
+			"AddressLine2": "Green Technology Parkl,",
+			"AddressLine3": "",
+			"Email": "wyautos@yahoo.com",
+			"PostCode": "70300",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 601 6926",
+			"Latitude": "2.688640",
+			"Longitude": "101.924356",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Petri Seremban Automobil Sdn Bhd",
+			"AddressLine1": "No 2850, Tmn Rasah Jaya,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "sps@petrisbn.com.my",
+			"PostCode": "70300",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-631 5008",
+			"Latitude": "2.681087",
+			"Longitude": "101.942650",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Chen-li Auto Builder Sdn Bhd",
+			"AddressLine1": "Lot PT 8612, Galla Perindustrian Park,",
+			"AddressLine2": "Jalan Labu, Batu 4,",
+			"AddressLine3": "",
+			"Email": "chenlins@hotmail.my",
+			"PostCode": "70400",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 765 3703",
+			"Latitude": "2.715796",
+			"Longitude": "102.001257",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Pertama (m) Sdn Bhd",
+			"AddressLine1": "Lot 2151, Sri Senawang Light Industrial,",
+			"AddressLine2": "4 1\/2 Miles, Jalan Tampin,",
+			"AddressLine3": "",
+			"Email": "bpertama2151@gmail.com",
+			"PostCode": "70450",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 677 3928",
+			"Latitude": "2.677066",
+			"Longitude": "101.982340",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ar Shieng Sdn Bhd",
+			"AddressLine1": "Lot 73 & 74, Senawang Light Industrial,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "support@arshieng.com",
+			"PostCode": "70450",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 677 5984",
+			"Latitude": "2.665965",
+			"Longitude": "101.995060",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Loong Car Service & Repair Sdn Bhd",
+			"AddressLine1": "No 35, Jalan Andalas 2,",
+			"AddressLine2": "Perusahaan Ringan Andalas,",
+			"AddressLine3": "",
+			"Email": "loongcarsb@yahoo.com",
+			"PostCode": "70450",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 678 9496",
+			"Latitude": "2.725312",
+			"Longitude": "101.947731",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Soon Seng Automobile Sdn Bhd",
+			"AddressLine1": "Lot 229-231, Senawang Light Industrial",
+			"AddressLine2": "Jalan Tampin",
+			"AddressLine3": "",
+			"Email": "soonsengsban@gmail.com, soonsengsban@hotmail.com",
+			"PostCode": "70450",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 677 2959",
+			"Latitude": "2.679834",
+			"Longitude": "101.984172",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Chee Kong Motor Sdn Bhd (seremban)",
+			"AddressLine1": "PT 2103 & 2104, S.H.(D) 71923,",
+			"AddressLine2": "Sri Senawang Light Industrial Centre,",
+			"AddressLine3": "",
+			"Email": "choywan@cheekongmotor.com.my",
+			"PostCode": "70450",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 677 1889",
+			"Latitude": "2.676835",
+			"Longitude": "101.985088",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ab Auto Shield Mechanic",
+			"AddressLine1": "No 43 Jalan TTJ S\/B,",
+			"AddressLine2": "Taman Tunku Jaafar,",
+			"AddressLine3": "",
+			"Email": "ab_autoshield@yahoo.com",
+			"PostCode": "71450",
+			"City": "Seremban",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "06-775 1049, 019-653 8802",
+			"Latitude": "2.670485",
+			"Longitude": "101.996251",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Tampin Motor Sdn Bhd",
+			"AddressLine1": "No 6000, PT 1258, Industri Kecil Repoh,",
+			"AddressLine2": "Batu 2 1\/2, Jalan Gemas,",
+			"AddressLine3": "",
+			"Email": "tampinmotor@yahoo.com,  tampinmotor@hotmail.com",
+			"PostCode": "73000",
+			"City": "Tampin",
+			"State": "Negeri Sembilan",
+			"PhoneNumber": "+606 441 6699",
+			"Latitude": "2.687953",
+			"Longitude": "102.571047",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "M & Y Auto Services Sdn Bhd",
+			"AddressLine1": "Lot 29,",
+			"AddressLine2": "Kawasan Perindustrian,",
+			"AddressLine3": "",
+			"Email": "myauto.0088@gmail.com",
+			"PostCode": "28700",
+			"City": "Bentong",
+			"State": "Pahang",
+			"PhoneNumber": "+609 222 0088",
+			"Latitude": "3.486884",
+			"Longitude": "101.936192",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Hoi Keen Auto Spray Sdn Bhd",
+			"AddressLine1": "A-551, Jalan Padang Lailang",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "hoikeenauto@hotmail.com",
+			"PostCode": "25050",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "+609 516 1898, +609 516 2471",
+			"Latitude": "3.812323",
+			"Longitude": "103.334953",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Vetas Windscreen Replacement Service",
+			"AddressLine1": "No 31, Jln Tanah Putih,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "vetas.wrs@gmail.com",
+			"PostCode": "25100",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "09-515 9139",
+			"Latitude": "3.795937",
+			"Longitude": "103.316454",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Swee Lee Workshop Sdn Bhd",
+			"AddressLine1": "No. 3, Jalan IM 3\/7,",
+			"AddressLine2": "LTAT Sektor 1,",
+			"AddressLine3": "Bandar Indera Mahkota,",
+			"Email": "sweelee2005@gmail.com",
+			"PostCode": "25200",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "+609 573 8088, +609 572 1688",
+			"Latitude": "3.820327",
+			"Longitude": "103.289143",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Leong Workshop (kuantan) Sdn Bhd",
+			"AddressLine1": "Lot 60297, Ind. Ringan Prima Kota 3,",
+			"AddressLine2": "Indera Mahkota 16\/3,",
+			"AddressLine3": "",
+			"Email": "leongworkshop@yahoo.com, leongworkshopsb@gmail.com",
+			"PostCode": "25200",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "013-923 1398, 013-927 1398",
+			"Latitude": "3.824508",
+			"Longitude": "103.277793",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Cj Pertama Motor Sdn Bhd",
+			"AddressLine1": "No 23, Lot 62822, Jln IM 14\/9,",
+			"AddressLine2": "Kawasan Industri Indera Mahkota,",
+			"AddressLine3": "",
+			"Email": "cjpertamamotor@gmail.com",
+			"PostCode": "25200",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "09-573 9677",
+			"Latitude": "3.835268",
+			"Longitude": "103.281066",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Nanmar Motor Service Sdn Bhd",
+			"AddressLine1": "A-6714 GF, Jln Beserah,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "nanmarnms@gmail.com",
+			"PostCode": "25200",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "09-560 8552, 019-955 8552, 019-922 1588",
+			"Latitude": "3.828699",
+			"Longitude": "103.340955",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Kam Sheng Auto Care Sdn Bhd",
+			"AddressLine1": "No. 2, Jalan Industri Semambu 9\/3,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "kamshengauto@gmail.com",
+			"PostCode": "25300",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "+609 568 2866",
+			"Latitude": "3.856992",
+			"Longitude": "103.319608",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Chin Hua Auto Works Sdn Bhd",
+			"AddressLine1": "Lot 453, Jalan Kuantan Pelabuhan (Kuantan bypass)",
+			"AddressLine2": "Mukim Sungai Karang",
+			"AddressLine3": "",
+			"Email": "chinhuaauto@gmail.com",
+			"PostCode": "26100",
+			"City": "Kuantan",
+			"State": "Pahang",
+			"PhoneNumber": "09-568 3612",
+			"Latitude": "3.813657",
+			"Longitude": "103.337413",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "A'heng Auto Services Sdn Bhd",
+			"AddressLine1": "No. 66, Jalan Industri,",
+			"AddressLine2": "Taman Perindustrian Temerloh,",
+			"AddressLine3": "",
+			"Email": "hmw84923@hotmail.com",
+			"PostCode": "28400",
+			"City": "Mentakab",
+			"State": "Pahang",
+			"PhoneNumber": "+609 277 2199",
+			"Latitude": "3.446356",
+			"Longitude": "102.347325",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Temerloh Workshop Sdn Bhd",
+			"AddressLine1": "Batu 1, (Seberang),",
+			"AddressLine2": "Jalan Maran,",
+			"AddressLine3": "",
+			"Email": "temerlohworkshop@gmail.com",
+			"PostCode": "28000",
+			"City": "Temerloh",
+			"State": "Pahang",
+			"PhoneNumber": "+609 297 2297",
+			"Latitude": "3.444735",
+			"Longitude": "102.436450",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Sin Fatt Hing Mudguard & Spraying Sdn Bhd",
+			"AddressLine1": "No. 39, Batu Dua,",
+			"AddressLine2": "Jalan Temerloh,",
+			"AddressLine3": "",
+			"Email": "sinfatthing@yahoo.com",
+			"PostCode": "28300",
+			"City": "Triang",
+			"State": "Pahang",
+			"PhoneNumber": "+609 250 5299",
+			"Latitude": "3.257521",
+			"Longitude": "102.431571",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Khien Zhou Enterprise Sdn Bhd",
+			"AddressLine1": "Lot 32849, Batu 50, Jalan Beruas,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "kz_enterprise@hotmail.com, kz_workshop@hotmail.com",
+			"PostCode": "32400",
+			"City": "Ayer Tawar",
+			"State": "Perak",
+			"PhoneNumber": "+605 672 5184",
+			"Latitude": "4.310719",
+			"Longitude": "100.765433",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Yew Nean Motor (bidor) Sdn Bhd",
+			"AddressLine1": "Lot 10364, Batu 1 1\/2,",
+			"AddressLine2": "Kawasan Perindustrian Bidor, Jalan Sungkai,",
+			"AddressLine3": "",
+			"Email": "unionmtr88@gmail.com,  unionmtr@yahoo.com",
+			"PostCode": "35500",
+			"City": "Bidor",
+			"State": "Perak",
+			"PhoneNumber": "+605 434 8333",
+			"Latitude": "4.095455",
+			"Longitude": "101.279885",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Gerik Jet Set Workshop Sdn Bhd",
+			"AddressLine1": "Lot 1183, Jalan Intan,",
+			"AddressLine2": "P. O. Box 3",
+			"AddressLine3": "",
+			"Email": "jetsetgerik@gmail.com",
+			"PostCode": "33300",
+			"City": "Gerik",
+			"State": "Perak",
+			"PhoneNumber": "+605 791 0933",
+			"Latitude": "5.443619",
+			"Longitude": "101.133329",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Gopeng Weng Kien Motor Sdn Bhd",
+			"AddressLine1": "Lot 33, Gopeng Industrial Park, Phase 3,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "gwkm_4099@yahoo.com.my",
+			"PostCode": "31600",
+			"City": "Gopeng",
+			"State": "Perak",
+			"PhoneNumber": "+605 357 3388",
+			"Latitude": "4.488924",
+			"Longitude": "101.140502",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Kah Fatt Motor Sdn Bhd",
+			"AddressLine1": "2216, Lot 4764, Pekan Batu 10,",
+			"AddressLine2": "Kampung Jendarata,",
+			"AddressLine3": "",
+			"Email": "kahfattmotor@yahoo.com",
+			"PostCode": "36400",
+			"City": "Hutan Melintang",
+			"State": "Perak",
+			"PhoneNumber": "+605 641 2969",
+			"Latitude": "3.861367",
+			"Longitude": "100.966694",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Lau Motor Workshop Menglembu (pk) Sdn Bhd",
+			"AddressLine1": "Lot 34627, Jalan Hala",
+			"AddressLine2": "Perusahaan Menglembu 15,",
+			"AddressLine3": "",
+			"Email": "laumotor@gmail.com",
+			"PostCode": "30200",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "+605 282 6666",
+			"Latitude": "4.570042",
+			"Longitude": "101.050114",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Syarikat Motor Peak Lik Wong Sdn Bhd",
+			"AddressLine1": "K2, Sri Mariamman Lane,",
+			"AddressLine2": "Sg. Pari",
+			"AddressLine3": "",
+			"Email": "peaklikwongclaim@gmail.com",
+			"PostCode": "30200",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "05-243 5555",
+			"Latitude": "4.591292",
+			"Longitude": "101.066945",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "True Results Sdn Bhd",
+			"AddressLine1": "Lot 305885, Hala Rapat Baru 19,",
+			"AddressLine2": "Kawasan Perindustrian Ringan Kinta Jaya,",
+			"AddressLine3": "",
+			"Email": "trueresults04@yahoo.com",
+			"PostCode": "31350",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "+605 312 5868",
+			"Latitude": "4.564944",
+			"Longitude": "101.110909",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Fah Kee Motor Sdn Bhd",
+			"AddressLine1": "Lot 41319, Jalan Bercham,",
+			"AddressLine2": "Kawasan Perusahaan Bercham,",
+			"AddressLine3": "",
+			"Email": "fahkeemotorsb@gmail.com,  fkmsbacc@gmail.com",
+			"PostCode": "31400",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "+605 5468 999",
+			"Latitude": "4.657392",
+			"Longitude": "101.136403",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ipoh Soo Kee Motors Sdn Bhd",
+			"AddressLine1": "No 9, Hala Perusahaan Menglembu",
+			"AddressLine2": "4, (Belakang Pasar Borong),",
+			"AddressLine3": "",
+			"Email": "iskmsb@gmail.com",
+			"PostCode": "31450",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "+605 282 2501",
+			"Latitude": "4.574444",
+			"Longitude": "101.063047",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ipoh Winson Auto Works Sdn Bhd",
+			"AddressLine1": "12 & 14, Jalan Menglembu Jaya",
+			"AddressLine2": "2,  Industri Menglembu Jaya,",
+			"AddressLine3": "",
+			"Email": "ipohwinson12@gmail.com",
+			"PostCode": "31450",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "+605 282 9882",
+			"Latitude": "4.549719",
+			"Longitude": "101.047052",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Motor Kok Ken Sdn Bhd",
+			"AddressLine1": "No 1, Laluan Industri Lahat 5,",
+			"AddressLine2": "Kawasan Perindustrian Rima,",
+			"AddressLine3": "",
+			"Email": "bmkkipoh@gmail.com",
+			"PostCode": "31500",
+			"City": "Ipoh",
+			"State": "Perak",
+			"PhoneNumber": "+605 322 2859",
+			"Latitude": "4.529311",
+			"Longitude": "101.034268",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Sun Hup Leak Workshop Sdn Bhd",
+			"AddressLine1": "No 43, (PT5122), Jalan Industri 2,",
+			"AddressLine2": "Kawasan Perindustrian Taman Bandar Baru,",
+			"AddressLine3": "",
+			"Email": "shleak88@yahoo.com",
+			"PostCode": "31900",
+			"City": "Kampar",
+			"State": "Perak",
+			"PhoneNumber": "+605 466 5858",
+			"Latitude": "4.322306",
+			"Longitude": "101.136028",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Hon Mudguard Sdn Bhd",
+			"AddressLine1": "No 43, Jalan Iskandar,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "hon_mudguard@yahoo.com",
+			"PostCode": "31900",
+			"City": "Kampar",
+			"State": "Perak",
+			"PhoneNumber": "+605 466 2722",
+			"Latitude": "4.299419",
+			"Longitude": "101.160492",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Beng Kamunting Auto Service Sdn Bhd",
+			"AddressLine1": "Lot 18884, Jalan Perusahaan 8,",
+			"AddressLine2": "Kawasan Perusahaan Kamunting,",
+			"AddressLine3": "Taiping",
+			"Email": "bengkmtg@gmail.com",
+			"PostCode": "34600",
+			"City": "Kamunting",
+			"State": "Perak",
+			"PhoneNumber": "+605 891 0811",
+			"Latitude": "4.893548",
+			"Longitude": "100.716041",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Heap Lee Motor Sdn Bhd",
+			"AddressLine1": "Lot Q5A, Lumut Port Industrial Park,",
+			"AddressLine2": "Jalan Besar, Kampung Acheh,",
+			"AddressLine3": "",
+			"Email": "heaplee1990@gmail.com",
+			"PostCode": "32000",
+			"City": "Sitiawan",
+			"State": "Perak",
+			"PhoneNumber": "+605-691 3972, +605 691 0325",
+			"Latitude": "4.245235",
+			"Longitude": "100.668946",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Slim Motor Workshop (m) Sdn Bhd",
+			"AddressLine1": "PT 2551 & PT2562,",
+			"AddressLine2": "Bandar Baru Slim River",
+			"AddressLine3": "",
+			"Email": "slimmotor@gmail.com",
+			"PostCode": "35800",
+			"City": "Slim River",
+			"State": "Perak",
+			"PhoneNumber": "+605 452 9220",
+			"Latitude": "3.838788",
+			"Longitude": "101.398616",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Lai Aan Motor Sdn Bhd",
+			"AddressLine1": "No 201-203, Jalan Unta,",
+			"AddressLine2": "Kawasan Rumah Hijau,",
+			"AddressLine3": "",
+			"Email": "laiaanmotor@yahoo.com",
+			"PostCode": "34000",
+			"City": "Taiping",
+			"State": "Perak",
+			"PhoneNumber": "+605 806 5555",
+			"Latitude": "4.837021",
+			"Longitude": "100.738192",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "T.m. Wong Workshop Sdn Bhd",
+			"AddressLine1": "Lot 4599, Jalan Slim Baru,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "tmwong1995@gmail.com",
+			"PostCode": "35900",
+			"City": "Tanjong Malim",
+			"State": "Perak",
+			"PhoneNumber": "+605 459 9822, +605 458 3695",
+			"Latitude": "3.697331",
+			"Longitude": "101.515856",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Lean Hup Workshop Sdn Bhd",
+			"AddressLine1": "KM13, 9, Jalan Arau-Kodiang,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "leanhupworkshop@yahoo.com",
+			"PostCode": "02600",
+			"City": "Arau",
+			"State": "Perlis",
+			"PhoneNumber": "+604 986 1201",
+			"Latitude": "6.412815",
+			"Longitude": "100.293211",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Tong Fong Motor Services Sdn Bhd",
+			"AddressLine1": "Lot 1143, MK 13,",
+			"AddressLine2": "Jalan Kolam Ikan,",
+			"AddressLine3": "",
+			"Email": "tongfongmotor@gmail.com",
+			"PostCode": "11900",
+			"City": "Bayan Lepas",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 641 3886",
+			"Latitude": "5.299958",
+			"Longitude": "100.261586",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Kean Hin Spray Painting & Auto Car Repair Sdn Bhd",
+			"AddressLine1": "Lot 1656, MK 13, Jalan Relau,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "keanhinspraypainting@gmail.com",
+			"PostCode": "11900",
+			"City": "Bayan Lepas",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 644 5729",
+			"Latitude": "5.338116",
+			"Longitude": "100.275069",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bm Seang Auto Sdn Bhd",
+			"AddressLine1": "No 4 & 6, Jalan Pala 10,",
+			"AddressLine2": "Kawasan Industrian Ringan Permatang Tinggi,",
+			"AddressLine3": "",
+			"Email": "seangautopg@gmail.com",
+			"PostCode": "14000",
+			"City": "Bukit Mertajam",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 588 8266",
+			"Latitude": "5.310297",
+			"Longitude": "100.474858",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "H.b.motor Workshop Sdn Bhd",
+			"AddressLine1": "No 1736, Jalan Berapit,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "heapbee.hb@gmail.com, kriss2626@gmail.com",
+			"PostCode": "14000",
+			"City": "Bukit Mertajam",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 539 2593, +604-538 9297",
+			"Latitude": "5.378058",
+			"Longitude": "100.471723",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Teong Chai Spray Painting Sdn Bhd",
+			"AddressLine1": "5097, Jalan Siram,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "tcspray@hotmail.com",
+			"PostCode": "12100",
+			"City": "Butterworth",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 331 4008",
+			"Latitude": "5.413273",
+			"Longitude": "100.379027",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd (butterworth)",
+			"AddressLine1": "No 6004, Jln Heng Choon Thian,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "12100",
+			"City": "Butterworth",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "016-470 3938",
+			"Latitude": "5.405847",
+			"Longitude": "100.374807",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Lcsp Workshop Sdn Bhd",
+			"AddressLine1": "No 19, Lorong Sungai Lokan 3\/2,",
+			"AddressLine2": "Sungai Dua,",
+			"AddressLine3": "",
+			"Email": "lcspworkshop@gmail.com",
+			"PostCode": "13800",
+			"City": "Butterworth",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 356 6786",
+			"Latitude": "5.439712",
+			"Longitude": "100.412559",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Soon Hin Service & Repair Sdn Bhd",
+			"AddressLine1": "91-K, Jalan Trusan,",
+			"AddressLine2": "Jelutong Barat, Jelutong,",
+			"AddressLine3": "",
+			"Email": "soonhinpg@gmail.com",
+			"PostCode": "10150",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 282 8426",
+			"Latitude": "5.402671",
+			"Longitude": "100.321094",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Syarikat Chin Huat & Sons Motor Sdn Bhd",
+			"AddressLine1": "151-A, Presgrave Street,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "syktchinhuat@gmail.com",
+			"PostCode": "10300",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 262 9282",
+			"Latitude": "5.412342",
+			"Longitude": "100.329134",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Jsar Jaya Sdn Bhd",
+			"AddressLine1": "No 40-M, Macalister Road,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "jsar_jaya@yahoo.com",
+			"PostCode": "10400",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 226 1511",
+			"Latitude": "5.415199",
+			"Longitude": "100.328275",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Shen Wah Auto Services Sdn Bhd",
+			"AddressLine1": "No 36, Solok Rawana,",
+			"AddressLine2": "(Off Jalan P.Ramlee),",
+			"AddressLine3": "",
+			"Email": "shenwahautoservices@yahoo.com",
+			"PostCode": "10460",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 281 4917",
+			"Latitude": "5.407302",
+			"Longitude": "100.312299",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "A-automobile Body Works Sdn Bhd",
+			"AddressLine1": "322, Jalan Tanjung Tokong,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "automobile99@yahoo.com",
+			"PostCode": "10470",
+			"City": "George Town",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 891 3333",
+			"Latitude": "5.462975",
+			"Longitude": "100.305528",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Chop Chin Hooi Auto Services Sdn Bhd",
+			"AddressLine1": "No 398A, Jalan Taiping Off,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "chinhoois@gmail.com, cchsbpg@gmail.com",
+			"PostCode": "11600",
+			"City": "Jelutong",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 281 7542",
+			"Latitude": "5.393545",
+			"Longitude": "100.313611",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Sbb Automobile Sdn Bhd",
+			"AddressLine1": "No 40, East Jelutong,",
+			"AddressLine2": "Georgetown",
+			"AddressLine3": "",
+			"Email": "sbbautopg@gmail.com",
+			"PostCode": "11600",
+			"City": "Jelutong",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 281 1766",
+			"Latitude": "5.402045",
+			"Longitude": "100.324719",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Chin Lak Motor Sdn Bhd",
+			"AddressLine1": "2174, Jalan Besar,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "chinlak2u@gmail.com",
+			"PostCode": "14300",
+			"City": "Nibong Tebal",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 593 1580",
+			"Latitude": "5.160011",
+			"Longitude": "100.476278",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Hooi Professional Vehicle Servicing Sdn Bhd",
+			"AddressLine1": "No 227, Kampung Teluk, Jalan Baru,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "hooimotor@live.com",
+			"PostCode": "13700",
+			"City": "Perai",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 399 3723",
+			"Latitude": "5.374596",
+			"Longitude": "100.405605",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Tatt Seng Jaya Automobile Sdn Bhd",
+			"AddressLine1": "Plot 26, LPBM9, MK 13,",
+			"AddressLine2": "Kawasan Perindustrian,",
+			"AddressLine3": "",
+			"Email": "tsjaya2004@gmail.com",
+			"PostCode": "14100",
+			"City": "Simpang Ampat",
+			"State": "Pulau Pinang",
+			"PhoneNumber": "+604 507 7020",
+			"Latitude": "5.309101",
+			"Longitude": "100.447960",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Sin Aik Bee Auto Centre Sdn Bhd",
+			"AddressLine1": "Batu 1, Jalan Bakiau,",
+			"AddressLine2": "P.O.Box 588,",
+			"AddressLine3": "",
+			"Email": "sinaikbee08@gmail.com",
+			"PostCode": "89008",
+			"City": "Keningau",
+			"State": "Sabah",
+			"PhoneNumber": "+6087 339 346",
+			"Latitude": "5.325139",
+			"Longitude": "116.148995",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Yong Inanam Sdn Bhd",
+			"AddressLine1": "No. 69, Noutun Baru, Jalan Tuaran,",
+			"AddressLine2": "Kota Kinabalu Inanam,",
+			"AddressLine3": "",
+			"Email": "yonginanam@ymail.com",
+			"PostCode": "88450",
+			"City": "Kota Kinabalu",
+			"State": "Sabah",
+			"PhoneNumber": "+6088 420 400",
+			"Latitude": "5.990468",
+			"Longitude": "116.117349",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Cheong Hong Workshop Sdn Bhd",
+			"AddressLine1": "KM3, Jalan Datuk Panglima Banting Kibabaig,",
+			"AddressLine2": "Penampang, P.O.Box 20218,",
+			"AddressLine3": "Luyang",
+			"Email": "chwsb@yahoo.com",
+			"PostCode": "88759",
+			"City": "Kota Kinabalu",
+			"State": "Sabah",
+			"PhoneNumber": "+6088 711 388",
+			"Latitude": "5.936021",
+			"Longitude": "116.116886",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Joo Hwang Workshop Sdn Bhd",
+			"AddressLine1": "Kg Goshen, Jalan Lotong,",
+			"AddressLine2": "P.O.Box 511,",
+			"AddressLine3": "",
+			"Email": "jh_workshop@yahoo.com",
+			"PostCode": "89107",
+			"City": "Kota Marudu",
+			"State": "Sabah",
+			"PhoneNumber": "+6088 662 662",
+			"Latitude": "6.478428",
+			"Longitude": "116.768961",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Sin Hup Foh Motor Sdn Bhd",
+			"AddressLine1": "Lot 28, Lok Kawi Industrial Estate,",
+			"AddressLine2": "Phase 2B Jalan Lama Papar,",
+			"AddressLine3": "",
+			"Email": "hup_foh@hotmail.com",
+			"PostCode": "89600",
+			"City": "Papar",
+			"State": "Sabah",
+			"PhoneNumber": "+6088 750 222",
+			"Latitude": "5.838271",
+			"Longitude": "116.049567",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Kk Sri Jaya Motor Sdn Bhd",
+			"AddressLine1": "Lot 2, Jalan Ramayah -Putatan",
+			"AddressLine2": "P.O.Box 50700, Putatan",
+			"AddressLine3": "",
+			"Email": "sjmotorkk@gmail.com",
+			"PostCode": "88725",
+			"City": "Putatan",
+			"State": "Sabah",
+			"PhoneNumber": "+6088 773 990",
+			"Latitude": "5.898809",
+			"Longitude": "116.049974",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Ah Kwan Sdn Bhd",
+			"AddressLine1": "KG. Marakau, Jalan 1, KPT Ranau,",
+			"AddressLine2": "Sandakan, P.O.Box 929,",
+			"AddressLine3": "",
+			"Email": "bengkel.ah.kwan@gmail.com",
+			"PostCode": "89308",
+			"City": "Ranau",
+			"State": "Sabah",
+			"PhoneNumber": "+6088 877 269",
+			"Latitude": "5.885004",
+			"Longitude": "118.048059",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ming Seng Auto Works (sabah) Sdn Bhd",
+			"AddressLine1": "G.L.075434043, Jalan Cecily,",
+			"AddressLine2": "PPM 303, Elopura,",
+			"AddressLine3": "",
+			"Email": "mingseng99@gmail.com",
+			"PostCode": "90000",
+			"City": "Sandakan",
+			"State": "Sabah",
+			"PhoneNumber": "+6089 247 015",
+			"Latitude": "5.830994",
+			"Longitude": "118.079263",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Kheong Kong Workshop Sdn Bhd",
+			"AddressLine1": "No. 2, TL075123116,",
+			"AddressLine2": "Batu 3 1\/2, Jalan Utara,",
+			"AddressLine3": "",
+			"Email": "kheongkong@hotmail.com",
+			"PostCode": "90000",
+			"City": "Sandakan",
+			"State": "Sabah",
+			"PhoneNumber": "+6089 216 112",
+			"Latitude": "5.863931",
+			"Longitude": "118.087710",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Vun Lee Workshop Sdn Bhd",
+			"AddressLine1": "Lot No.5, Mile 4,",
+			"AddressLine2": "Bandar Kim Fung Light Industrial Building North Ro",
+			"AddressLine3": "",
+			"Email": "vunlee88@hotmail.com",
+			"PostCode": "90307",
+			"City": "Sandakan",
+			"State": "Sabah",
+			"PhoneNumber": "+6089 216 337",
+			"Latitude": "5.858765",
+			"Longitude": "118.077070",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Syt.racing Auto Services Sdn Bhd",
+			"AddressLine1": "Lot 29, Sedco Light Industrial,",
+			"AddressLine2": "Mile 2, Jalan Utara,",
+			"AddressLine3": "",
+			"Email": "racingauto@live.com.my",
+			"PostCode": "90729",
+			"City": "Sandakan",
+			"State": "Sabah",
+			"PhoneNumber": "+6089 226 666",
+			"Latitude": "5.864730",
+			"Longitude": "118.093415",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bumi Soon Lee Motor Sdn Bhd",
+			"AddressLine1": "Jalan Meruntum, Off KM 14,",
+			"AddressLine2": "Putatan-Kinarut Highway,",
+			"AddressLine3": "P.O.Box 641, Tanjung Aru",
+			"Email": "bslm_6666@yahoo.com",
+			"PostCode": "88858",
+			"City": "Tanjung Aru",
+			"State": "Sabah",
+			"PhoneNumber": "+6088 774 669",
+			"Latitude": "1.526860",
+			"Longitude": "103.667688",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Wilson (tawau) Sdn Bhd",
+			"AddressLine1": "TB 775, Mile 4,",
+			"AddressLine2": "Jalan Apas P.O.Box No.37,",
+			"AddressLine3": "",
+			"Email": "wilsonmotor@yahoo.com",
+			"PostCode": "91007",
+			"City": "Tawau",
+			"State": "Sabah",
+			"PhoneNumber": "+6089 912 793",
+			"Latitude": "4.251065",
+			"Longitude": "117.932945",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Fw Sdn Bhd",
+			"AddressLine1": "TB 2946, Lot B24, Sedco Light Industrial Estate,",
+			"AddressLine2": "Mile 3, Apas Road,",
+			"AddressLine3": "P.O.Box 61853,",
+			"Email": "bengkelfwsb@ymail.com",
+			"PostCode": "91028",
+			"City": "Tawau",
+			"State": "Sabah",
+			"PhoneNumber": "+6089 911 853",
+			"Latitude": "5.275723",
+			"Longitude": "115.228671",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Leader Garage (bintulu) Sdn Bhd",
+			"AddressLine1": "Lot 3665, Block 32,",
+			"AddressLine2": "Kemena Land District,  Jalan Sebiew",
+			"AddressLine3": "P.O.Box 1039,",
+			"Email": "leadergarage@yahoo.com",
+			"PostCode": "97008",
+			"City": "Bintulu",
+			"State": "Sarawak",
+			"PhoneNumber": "+6086 310 226",
+			"Latitude": "3.180919",
+			"Longitude": "113.068082",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Friendship Auto Workshop Sdn Bhd",
+			"AddressLine1": "No. 114-116, Lot 41 & 42,",
+			"AddressLine2": "Section 21 (KTLD), Jalan Tun Haji Openg,",
+			"AddressLine3": "",
+			"Email": "faw24tow@yahoo.com",
+			"PostCode": "93000",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "+6082 233 596",
+			"Latitude": "1.540991",
+			"Longitude": "110.340977",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Feng Ying Motor Sdn Bhd",
+			"AddressLine1": "No. 199, Lot 586, Jalan Matang Batu 7,",
+			"AddressLine2": "Off Jalan Batu Kawa,",
+			"AddressLine3": "",
+			"Email": "fengyingmotor@yahoo.com",
+			"PostCode": "93050",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "+6082 644 188",
+			"Latitude": "1.575738",
+			"Longitude": "110.257776",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Yu Thian Motor Services Sdn Bhd",
+			"AddressLine1": "Lot 809, Block 8 Muara Tebas Land District",
+			"AddressLine2": "Demak Luat Industrial Park Phase III, Jalan Bako,",
+			"AddressLine3": "",
+			"Email": "yu_thian@yahoo.com",
+			"PostCode": "93050",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "+6082 432 814",
+			"Latitude": "1.601614",
+			"Longitude": "110.446697",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Seng Huat Repair Centre Sdn Bhd",
+			"AddressLine1": "Lot 911, Block 218, 3 Mile,",
+			"AddressLine2": "Penrissen Road,",
+			"AddressLine3": "",
+			"Email": "senghuatkch@gmail.com",
+			"PostCode": "93250",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "+6082 461 772",
+			"Latitude": "1.518200",
+			"Longitude": "110.334019",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Soon Lee Tiong Motor Sdn Bhd",
+			"AddressLine1": "Lot 1957, Block 226,",
+			"AddressLine2": "Jalan Semaba,",
+			"AddressLine3": "",
+			"Email": "sltmotor777@gmail.com",
+			"PostCode": "93250",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "+6082 452 311",
+			"Latitude": "1.490303",
+			"Longitude": "110.321152",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ah Seng Motor Sdn Bhd",
+			"AddressLine1": "Lot 190, 4 Mile,",
+			"AddressLine2": "Jalan Datuk Bandar Mustapha,",
+			"AddressLine3": "",
+			"Email": "asmkho@pd.jaring.my",
+			"PostCode": "93350",
+			"City": "Kuching",
+			"State": "Sarawak",
+			"PhoneNumber": "+6082 456 939",
+			"Latitude": "1.476039",
+			"Longitude": "110.337548",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Tl Garage Sarawak Sdn Bhd",
+			"AddressLine1": "Lot 1817 & 1818, Block 3, MCLD,",
+			"AddressLine2": "Jalan Prunus 4A,",
+			"AddressLine3": "Piasau Industrial Estate,",
+			"Email": "enquiry@tlgarage.com.my",
+			"PostCode": "98000",
+			"City": "Miri",
+			"State": "Sarawak",
+			"PhoneNumber": "+6085 661 926",
+			"Latitude": "4.445011",
+			"Longitude": "114.009227",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Hung Huat Car Repair (miri) Sdn Bhd",
+			"AddressLine1": "Lot 1473-1474,",
+			"AddressLine2": "Eastwood Valley Industrial Park,  Block 1,",
+			"AddressLine3": "Miri By-Pass,",
+			"Email": "hung_huat@hotmail.com",
+			"PostCode": "98000",
+			"City": "Miri",
+			"State": "Sarawak",
+			"PhoneNumber": "+6085 415 335,",
+			"Latitude": "4.376534",
+			"Longitude": "114.011953",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Tiong Ing Workshop & Services Sdn Bhd",
+			"AddressLine1": "Lot 60, Block 53,",
+			"AddressLine2": "Mukah Land District,",
+			"AddressLine3": "",
+			"Email": "tionging5796@gmail.com",
+			"PostCode": "96400",
+			"City": "Mukah",
+			"State": "Sarawak",
+			"PhoneNumber": "+6013 808 9923",
+			"Latitude": "2.580259",
+			"Longitude": "112.294468",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Huong Seng Motor Trading Sdn Bhd",
+			"AddressLine1": "No. 16, Lorong Ding Lik Kong 39,",
+			"AddressLine2": "Jalan Ping Lik Kong,",
+			"AddressLine3": "",
+			"Email": "hsws85@yahoo.com",
+			"PostCode": "96000",
+			"City": "Sibu",
+			"State": "Sarawak",
+			"PhoneNumber": "+6084 336 569",
+			"Latitude": "2.348156",
+			"Longitude": "111.820897",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Tan Khoon Sia Auto Sdn Bhd",
+			"AddressLine1": "No. 32, Jalan Sabu,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "tksasb@gmail.com",
+			"PostCode": "95000",
+			"City": "Sri Aman",
+			"State": "Sarawak",
+			"PhoneNumber": "+6083 322 149",
+			"Latitude": "1.236044",
+			"Longitude": "111.464038",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "T-one Motor Works Sdn Bhd",
+			"AddressLine1": "Lot 1291 Jalan 11,",
+			"AddressLine2": "Kg Baru Ampang,",
+			"AddressLine3": "",
+			"Email": "tonemotor@yahoo.com",
+			"PostCode": "68000",
+			"City": "Ampang",
+			"State": "Selangor",
+			"PhoneNumber": "+603 4291 7988",
+			"Latitude": "3.134990",
+			"Longitude": "101.761836",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Ampang Auto Windscreen Sdn Bhd",
+			"AddressLine1": "No 40 & 40-1 Jln AWF 3,",
+			"AddressLine2": "Ampang Waterfront",
+			"AddressLine3": "",
+			"Email": "ampangautowindscreen@gmail.com",
+			"PostCode": "68000",
+			"City": "Ampang",
+			"State": "Selangor",
+			"PhoneNumber": "03-42948799",
+			"Latitude": "3.144124",
+			"Longitude": "101.776772",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Bumi Perkasa Motor Works (m) Sdn Bhd",
+			"AddressLine1": "Lot 2724, Jalan Besar,",
+			"AddressLine2": "Sungai Merab Luar,",
+			"AddressLine3": "",
+			"Email": "bpmw1100@gmail.com",
+			"PostCode": "43650",
+			"City": "Bandar Baru Bangi",
+			"State": "Selangor",
+			"PhoneNumber": "+603 8922 1100",
+			"Latitude": "2.936076",
+			"Longitude": "101.753869",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Windscreen Sdn Bhd",
+			"AddressLine1": "No 32, Jln 7\/7B, Seksyen 7,",
+			"AddressLine2": "Bdr Baru Bangi,",
+			"AddressLine3": "",
+			"Email": "drwindscreenthe1st@gmail.com",
+			"PostCode": "43650",
+			"City": "Bandar Baru Bangi",
+			"State": "Selangor",
+			"PhoneNumber": "012-331 3625, 012-238 7908, 012-383 7598",
+			"Latitude": "2.987932",
+			"Longitude": "101.773218",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Gallant Motors Sdn Bhd",
+			"AddressLine1": "No. 35, 36 & 37 Jalan Emas 14,",
+			"AddressLine2": "Bandar Sungai Emas,",
+			"AddressLine3": "Sungai Manggis,",
+			"Email": "gallantmotors@gmail.com",
+			"PostCode": "42700",
+			"City": "Banting",
+			"State": "Selangor",
+			"PhoneNumber": "+603 3187 9776, +603 3181 2088",
+			"Latitude": "2.831932",
+			"Longitude": "101.534912",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Poh Kin Motor Works Sdn Bhd",
+			"AddressLine1": "PT 3546, Jalan Tegas 1B,",
+			"AddressLine2": "Kawasan Perindustrian Tengas,",
+			"AddressLine3": "Ulu Yam Bharu,",
+			"Email": "pkmwtlt@yahoo.com",
+			"PostCode": "44300",
+			"City": "Batang Kali",
+			"State": "Selangor",
+			"PhoneNumber": "+603 6075 1106, +603 6075 3031",
+			"Latitude": "3.438267",
+			"Longitude": "101.650325",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Syarikat Thong Hing Motor Sdn Bhd",
+			"AddressLine1": "Lot No. 17502, Jalan 4,",
+			"AddressLine2": "Taman Selayang Baru Industrial Area,",
+			"AddressLine3": "",
+			"Email": "thmotor@hotmail.com",
+			"PostCode": "68100",
+			"City": "Batu Caves",
+			"State": "Selangor",
+			"PhoneNumber": "+603 6125 2828,",
+			"Latitude": "3.188949",
+			"Longitude": "101.681393",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Kim Foom Motor Sdn Bhd",
+			"AddressLine1": "No. 1, Jalan 2\/10B,",
+			"AddressLine2": "Spring Crest Industrial Park,",
+			"AddressLine3": "",
+			"Email": "info@kimfoom.com.my",
+			"PostCode": "68100",
+			"City": "Batu Caves",
+			"State": "Selangor",
+			"PhoneNumber": "+603 6189 0750",
+			"Latitude": "3.227810",
+			"Longitude": "101.679783",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "V Ar Auto Glass",
+			"AddressLine1": "No 75 & 77, Jln SBC 1",
+			"AddressLine2": "Tmn Sri Batu Caves,",
+			"AddressLine3": "",
+			"Email": "varauto@yahoo.com.my, varautoglasses@Yahoo.com.my",
+			"PostCode": "68100",
+			"City": "Batu Caves",
+			"State": "Selangor",
+			"PhoneNumber": "03-6188 2228",
+			"Latitude": "3.235544",
+			"Longitude": "101.686097",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Vim Auto Glass Sdn Bhd",
+			"AddressLine1": "No 19, Jln SM4,",
+			"AddressLine2": "Tmn Sunway Batu Caves,",
+			"AddressLine3": "",
+			"Email": "vvimautobtcaves@yahoo.com",
+			"PostCode": "68100",
+			"City": "Batu Caves",
+			"State": "Selangor",
+			"PhoneNumber": "03- 6186 8613",
+			"Latitude": "3.256681",
+			"Longitude": "101.688018",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "P.k.w. Motor Repairers Sdn Bhd",
+			"AddressLine1": "No. 78, Jalan 2\/10B,",
+			"AddressLine2": "Spring Crest Industry Park,  68100,",
+			"AddressLine3": "",
+			"Email": "pkwmotor@yahoo.com",
+			"PostCode": "68100",
+			"City": "Batu Caves",
+			"State": "Selangor",
+			"PhoneNumber": "+603 6186 8413. +6019 364 1612",
+			"Latitude": "3.232632",
+			"Longitude": "101.688598",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Weng Oon Auto Sdn Bhd",
+			"AddressLine1": "No. 50, Jalan Mas Jaya 2,",
+			"AddressLine2": "Kaws. Perindustrian Mas Jaya",
+			"AddressLine3": "Off Jalan Hulu Langat,",
+			"Email": "mah@wengoon.com.my",
+			"PostCode": "43200",
+			"City": "Cheras",
+			"State": "Selangor",
+			"PhoneNumber": "+603 9076 7028, +603 9076 1818, +603 9075 1133",
+			"Latitude": "3.072003",
+			"Longitude": "101.777767",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dynamic Auto Service Centre Sdn Bhd",
+			"AddressLine1": "Lot 29 Jalan Balakong,",
+			"AddressLine2": "Batu 11 Cheras,",
+			"AddressLine3": "",
+			"Email": "dasc1388@gmail.com",
+			"PostCode": "43200",
+			"City": "Cheras",
+			"State": "Selangor",
+			"PhoneNumber": "+603 9074 0516",
+			"Latitude": "3.039738",
+			"Longitude": "101.770039",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Windscreen Sdn Bhd",
+			"AddressLine1": "No 19, Jln Tkc1\/1,",
+			"AddressLine2": "Tmn Kota",
+			"AddressLine3": "Cheras, Batu  9,",
+			"Email": "drwindscreenthe1st@gmail.com",
+			"PostCode": "43200",
+			"City": "Cheras",
+			"State": "Selangor",
+			"PhoneNumber": "012-238 7908, 012-383 7598",
+			"Latitude": "3.063654",
+			"Longitude": "101.771536",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Perfect Windscreen Specialist",
+			"AddressLine1": "No. 12, Taman Mesra.",
+			"AddressLine2": "Jalan Ehsan Setia,",
+			"AddressLine3": "Batu 13",
+			"Email": "perfectwindscreenspecialist@yahoo.com",
+			"PostCode": "43200",
+			"City": "Cheras",
+			"State": "Selangor",
+			"PhoneNumber": "016-314 4076, 019-778 2638, 03-8955 1517",
+			"Latitude": "3.013670",
+			"Longitude": "101.778877",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Song Meng Workshop & Towing Service Sdn Bhd",
+			"AddressLine1": "Lot PT 132, Bt 15,",
+			"AddressLine2": "Jln Klang Banting,",
+			"AddressLine3": "",
+			"Email": "songmengworkshoptowingservice@hotmail.com",
+			"PostCode": "42600",
+			"City": "Jenjarom",
+			"State": "Selangor",
+			"PhoneNumber": "+603 3191 3840, +603 3191 2333",
+			"Latitude": "2.877827",
+			"Longitude": "101.499728",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "Lot 7048 (A), Batu 14 1\/2,",
+			"AddressLine2": "Jln Klang Banting,",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "42600",
+			"City": "Jenjarom",
+			"State": "Selangor",
+			"PhoneNumber": "016-262 5069",
+			"Latitude": "2.843624",
+			"Longitude": "101.522466",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Bengkel Kereta Chop Bersatu Sdn Bhd",
+			"AddressLine1": "690-C Jalan Besar, Sasaran, Jeram,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "chopbersatu@hotmail.com",
+			"PostCode": "45800",
+			"City": "Jeram",
+			"State": "Selangor",
+			"PhoneNumber": "+603 3264 7069, +603 3264 7150",
+			"Latitude": "3.254056",
+			"Longitude": "101.310015",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Lam Koong Sum Car Service Centre Sdn Bhd",
+			"AddressLine1": "Lot 11536, Persiaran Impian 1,",
+			"AddressLine2": "Taman Impian Ehsan, Balakong",
+			"AddressLine3": "",
+			"Email": "mrkslam@pc.jaring.my, junior33@gmail.com",
+			"PostCode": "43000",
+			"City": "Kajang",
+			"State": "Selangor",
+			"PhoneNumber": "+603 8961 1111",
+			"Latitude": "3.021986",
+			"Longitude": "101.755014",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Vim Auto Glass Sdn Bhd",
+			"AddressLine1": "No 7, Jln M\/J 2,",
+			"AddressLine2": "Tmn Majlis Sg Chua",
+			"AddressLine3": "",
+			"Email": "vimauto_kajang@yahoo.com",
+			"PostCode": "43000",
+			"City": "Kajang",
+			"State": "Selangor",
+			"PhoneNumber": "03- 8739 7577",
+			"Latitude": "2.990819",
+			"Longitude": "101.777040",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Windscreen Plus Sdn Bhd",
+			"AddressLine1": "No 47, Jln Cokmar 1,",
+			"AddressLine2": "Tmn Mutiara, Bukit Raja,",
+			"AddressLine3": "Off Jln Meru,",
+			"Email": "winscreenplus@hotmail.com",
+			"PostCode": "41050",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "012-289 9947",
+			"Latitude": "3.078902",
+			"Longitude": "101.448035",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Mobile Windscreen Sdn Bhd",
+			"AddressLine1": "No 3-G, Lrg Tiara 1B,",
+			"AddressLine2": "Bandar Baru Klang,",
+			"AddressLine3": "",
+			"Email": "mobile_windscreen@yahoo.com",
+			"PostCode": "41150",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03- 3343 2333",
+			"Latitude": "3.076821",
+			"Longitude": "101.468882",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Koon Lee Auto Glass Sdn Bhd",
+			"AddressLine1": "No 35, G Flr, Jln Bayu Tinggi 1A,",
+			"AddressLine2": "Bandar Bukit Tinggi,",
+			"AddressLine3": "",
+			"Email": "koonleeautoglass@hotmail.com",
+			"PostCode": "41200",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03-3318 6050, 012- 289 9947",
+			"Latitude": "3.017193",
+			"Longitude": "101.400796",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Vim Auto Glass Sdn Bhd",
+			"AddressLine1": "No 33-0-1, Lrg Batu Nilam 1A,",
+			"AddressLine2": "Bdr Bukit Tinggi,",
+			"AddressLine3": "",
+			"Email": "vimauto_klang@yahoo.com",
+			"PostCode": "41200",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03- 3323 3688",
+			"Latitude": "3.009884",
+			"Longitude": "101.439569",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "United Teh Auto Repair Sdn Bhd",
+			"AddressLine1": "No. 3, Jalan 39, Kaw. 16, Off",
+			"AddressLine2": "Jln Connought Bridge,",
+			"AddressLine3": "",
+			"Email": "unitedteh@gmail.com",
+			"PostCode": "41300",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "+603 3341 8309, +603 3341 9058",
+			"Latitude": "3.050841",
+			"Longitude": "101.472522",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Elegance Windscreen Specialists Sdn Bhd",
+			"AddressLine1": "No 10A, Lrg Sg Rasah 2,",
+			"AddressLine2": "Off Jln Batu Tiga Lama,",
+			"AddressLine3": "Kaw 16",
+			"Email": "elegance.specialist@gmail.com",
+			"PostCode": "41300",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03-3343 2818",
+			"Latitude": "3.021484",
+			"Longitude": "101.606412",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Kapar Auto Glass Sdn Bhd",
+			"AddressLine1": "No 491, Batu 2 1\/2,",
+			"AddressLine2": "Jln Kapar",
+			"AddressLine3": "Kawasan 19,",
+			"Email": "kaparautoglass@gmail.com",
+			"PostCode": "41400",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03- 3345 2330",
+			"Latitude": "3.066537",
+			"Longitude": "101.432707",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Seng Lee Hing Motor Workshop Sdn Bhd",
+			"AddressLine1": "Lot 6294, Batu 3 1\/2, Jalan Kapar,",
+			"AddressLine2": "Rantau Panjang,",
+			"AddressLine3": "",
+			"Email": "sengleehing@gmail.com",
+			"PostCode": "42100",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "+603 3343 6585",
+			"Latitude": "3.067049",
+			"Longitude": "101.423897",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Yew Sang Windscreen Specialist",
+			"AddressLine1": "No 62, Jln Sg Keramat 6,",
+			"AddressLine2": "Tmn Klang Utama,",
+			"AddressLine3": "",
+			"Email": "shirleylee1688@yahoo.com",
+			"PostCode": "42100",
+			"City": "Klang",
+			"State": "Selangor",
+			"PhoneNumber": "03-3290 6363",
+			"Latitude": "3.085330",
+			"Longitude": "101.412994",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "No 20, Jln SS 25\/34,",
+			"AddressLine2": "Mayang Industrial Park,",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "47301",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "016-2128690",
+			"Latitude": "3.118336",
+			"Longitude": "101.595623",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "City Hundred Motor Sdn Bhd",
+			"AddressLine1": "Lot 1043, Jalan Cempaka,",
+			"AddressLine2": "Kg. Sg. Kayu Ara, Mukim Damasara,",
+			"AddressLine3": "",
+			"Email": "admin@city100.com.my, cityhundredmotor@gmail.com",
+			"PostCode": "47400",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "+603 7729 9933",
+			"Latitude": "3.128249",
+			"Longitude": "101.610888",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Windscreen Sdn Bhd",
+			"AddressLine1": "No 9, Lorong 8\/1D,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "drwindscreenthe1st@gmail.com",
+			"PostCode": "46050",
+			"City": "Petaling Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "012-238 7908, 012-331 3625",
+			"Latitude": "3.100211",
+			"Longitude": "101.641490",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Planet Car Sdn Bhd",
+			"AddressLine1": "No. 2, 3, 4, 5, 6, Jalan Utama 1\/15",
+			"AddressLine2": "Taman Perindustrian Puchong Utama",
+			"AddressLine3": "",
+			"Email": "planetcarsdnbhd@hotmail.com",
+			"PostCode": "47100",
+			"City": "Puchong",
+			"State": "Selangor",
+			"PhoneNumber": "+603 8061 1132",
+			"Latitude": "3.002793",
+			"Longitude": "101.608284",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Best Auto Windscreen (puchong) Sdn Bhd",
+			"AddressLine1": "Block B-G01, Kompleks Suria Kinara",
+			"AddressLine2": "Persiaran Kinrara Sek 3,",
+			"AddressLine3": "",
+			"Email": "bestauto.puchong@gmail.com",
+			"PostCode": "47100",
+			"City": "Puchong",
+			"State": "Selangor",
+			"PhoneNumber": "03- 8080 7949",
+			"Latitude": "3.061249",
+			"Longitude": "101.642031",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Cf Windscreen & Tint Specialist Enterprise",
+			"AddressLine1": "No 40-G, Jln Puteri 2\/2,",
+			"AddressLine2": "Bdr Puteri 2\/2,",
+			"AddressLine3": "Bdr Puteri,",
+			"Email": "cf.windscreen@gmail.com",
+			"PostCode": "47100",
+			"City": "Puchong",
+			"State": "Selangor",
+			"PhoneNumber": "016- 320 3230",
+			"Latitude": "3.024270",
+			"Longitude": "101.617065",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Windscreen Sdn Bhd",
+			"AddressLine1": "No 41, Jln Utama 1\/1,",
+			"AddressLine2": "Tmn Perind\u2019n Puchong Utama",
+			"AddressLine3": "",
+			"Email": "drwindscreenthe1st@gmail.com",
+			"PostCode": "47100",
+			"City": "Puchong",
+			"State": "Selangor",
+			"PhoneNumber": "016-262 5069",
+			"Latitude": "3.037106",
+			"Longitude": "101.615402",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Puchong Sunway Auto Glass Specialist Sdn Bhd",
+			"AddressLine1": "No 23G, Jln Bandar 12,",
+			"AddressLine2": "Pusat Bandar Puchong,",
+			"AddressLine3": "",
+			"Email": "puchongsunway@yahoo.com",
+			"PostCode": "47100",
+			"City": "Puchong",
+			"State": "Selangor",
+			"PhoneNumber": "03-5891 9018",
+			"Latitude": "3.035447",
+			"Longitude": "101.614652",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Rawang Yee Motor Sdn Bhd",
+			"AddressLine1": "Lot No. 1, Jalan Perindustrian 1,",
+			"AddressLine2": "Kawasan Perindustrian PKNS, Batu 20",
+			"AddressLine3": "",
+			"Email": "yeemotor@gmail.com, admin@rawangyeemotor.com",
+			"PostCode": "48000",
+			"City": "Rawang",
+			"State": "Selangor",
+			"PhoneNumber": "+603 6091 6250",
+			"Latitude": "3.338650",
+			"Longitude": "101.577980",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Car Medic Auto Repair Sdn Bhd",
+			"AddressLine1": "No. 1A, Jalan P4\/7,",
+			"AddressLine2": "Bandar Teknologi Kajang",
+			"AddressLine3": "",
+			"Email": "vlkwan@carmedic.com.my",
+			"PostCode": "43500",
+			"City": "Semenyih",
+			"State": "Selangor",
+			"PhoneNumber": "+603 8723 6555",
+			"Latitude": "2.962314",
+			"Longitude": "101.820839",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Syarikat Kong Wah Auto Sdn Bhd",
+			"AddressLine1": "No.3, Jalan KPB 18,",
+			"AddressLine2": "Kawasan Perindustrian Balakong,",
+			"AddressLine3": "",
+			"Email": "syarikatkongwah@gmail.com",
+			"PostCode": "43300",
+			"City": "Seri Kembangan",
+			"State": "Selangor",
+			"PhoneNumber": "+603 8964 9229",
+			"Latitude": "3.179201",
+			"Longitude": "101.684147",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "No 245-C, Jln Kolej,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "43300",
+			"City": "Seri Kembangan",
+			"State": "Selangor",
+			"PhoneNumber": "016-2292990",
+			"Latitude": "3.018577",
+			"Longitude": "101.703121",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Windscreen Sdn Bhd",
+			"AddressLine1": "No 5G, Jln SR 6\/1,",
+			"AddressLine2": "Serdang Jaya",
+			"AddressLine3": "",
+			"Email": "drwindscreenthe1st@gmail.com",
+			"PostCode": "43300",
+			"City": "Seri Kembangan",
+			"State": "Selangor",
+			"PhoneNumber": "012-238 7908, 012-331 3625",
+			"Latitude": "3.042609",
+			"Longitude": "101.704467",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Teck Seng Spray Painting Sdn Bhd",
+			"AddressLine1": "No. 18 Jalan SP 4\/3,",
+			"AddressLine2": "Subang Perdana Industrial Park,",
+			"AddressLine3": "",
+			"Email": "teckseng18@gmail.com",
+			"PostCode": "40150",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "+603 7847 1773",
+			"Latitude": "3.149876",
+			"Longitude": "101.542363",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Scs Auto Repair Sdn Bhd",
+			"AddressLine1": "87 Jalan Pendamar 27\/90, Section 27,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "scsautorepairsb@gmail.com",
+			"PostCode": "40400",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "+6016 556 3259, +6016 551 8906, +6016 222 3259",
+			"Latitude": "3.010928",
+			"Longitude": "101.555989",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Windscreen Sdn Bhd",
+			"AddressLine1": "No19, Jln Unggul 25\/40,",
+			"AddressLine2": "Tmn Sri Muda, Sek 25,",
+			"AddressLine3": "",
+			"Email": "drwindscreenthe1st@gmail.com",
+			"PostCode": "40400",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "012-238 7908, 012-331 3625",
+			"Latitude": "3.035769",
+			"Longitude": "101.535522",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "T Mark Windscreen Specialist",
+			"AddressLine1": "No 37G, Jln Anggerik Vanilla U31\/U,",
+			"AddressLine2": "Kota Kemuning,",
+			"AddressLine3": "",
+			"Email": "suechia600@gmail.com",
+			"PostCode": "40460",
+			"City": "Shah Alam",
+			"State": "Selangor",
+			"PhoneNumber": "03-5131 7589, 012-623 0622",
+			"Latitude": "3.005648",
+			"Longitude": "101.537847",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Koon Lee Auto Glass Sdn Bhd",
+			"AddressLine1": "T215, Jln Teratai,",
+			"AddressLine2": "Tmn Seri Telok Datok",
+			"AddressLine3": "",
+			"Email": "koonleeautoglass@hotmail.com",
+			"PostCode": "47200",
+			"City": "Subang Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-3180 1523, 012-289 9947",
+			"Latitude": "3.014437",
+			"Longitude": "101.401825",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Sj Windscreen Specialist",
+			"AddressLine1": "No 51, G Flr,  Jln SS15\/4B,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "chuahuisia@ymail.com",
+			"PostCode": "47500",
+			"City": "Subang Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03- 5633 0879",
+			"Latitude": "3.076145",
+			"Longitude": "101.586768",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "G.y. Auto Sdn Bhd",
+			"AddressLine1": "Lot 810 (Middle Section),",
+			"AddressLine2": "Jalan Subang Lima,",
+			"AddressLine3": "Taman Perindustrian Subang,",
+			"Email": "admin@gyauto.com.my, kim@gyauto.com.my",
+			"PostCode": "47510",
+			"City": "Subang Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "+603 5636 1028, +603 5632 2913",
+			"Latitude": "3.039120",
+			"Longitude": "101.595914",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Success Car Refurnishing Sdn Bhd",
+			"AddressLine1": "Lot 893 C & D, Jalan Subang 9,",
+			"AddressLine2": "Taman Industri Sg. Penaga,",
+			"AddressLine3": "",
+			"Email": "scr_sdnbhd@hotmail.com",
+			"PostCode": "47630",
+			"City": "Subang Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "+603 8081 7526",
+			"Latitude": "3.023475",
+			"Longitude": "101.591917",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Koon Lee Auto Glass Sdn Bhd",
+			"AddressLine1": "No 7-1, Jln Merpati, Tanamera,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "koonleeautoglass@hotmail.com",
+			"PostCode": "47650",
+			"City": "Subang Jaya",
+			"State": "Selangor",
+			"PhoneNumber": "03-5103 8849, 012-289 9947",
+			"Latitude": "3.038454",
+			"Longitude": "101.573144",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Shiun Motor Sdn Bhd",
+			"AddressLine1": "Lot 6 Jalan PBI 2,",
+			"AddressLine2": "Perindustrian Bukit Indah,",
+			"AddressLine3": "",
+			"Email": "shiunmotor@yahoo.com.my",
+			"PostCode": "47000",
+			"City": "Sungai Buloh",
+			"State": "Selangor",
+			"PhoneNumber": "+603 6143 1551, +603 6143 1771",
+			"Latitude": "3.231689",
+			"Longitude": "101.571813",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "Lot 3007, Jln Besar Sungai Buloh",
+			"AddressLine2": "Kg Paya Jaras Tengah,",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "47000",
+			"City": "Sungai Buloh",
+			"State": "Selangor",
+			"PhoneNumber": "016-201 2991",
+			"Latitude": "3.200915",
+			"Longitude": "101.548612",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "East Coast Spray & Repair Sdn Bhd",
+			"AddressLine1": "Lot 5820-7,",
+			"AddressLine2": "Kawasan Perindustrian Jakar 2",
+			"AddressLine3": "",
+			"Email": "estcoastsr@gmail.com",
+			"PostCode": "24000",
+			"City": "Cukai",
+			"State": "Terengganu",
+			"PhoneNumber": "+609 859 5228",
+			"Latitude": "4.217668",
+			"Longitude": "103.422959",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "No 2310, Jln Kubang Kurus,",
+			"AddressLine2": "Tmn Bersekutu",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "24000",
+			"City": "Cukai",
+			"State": "Terengganu",
+			"PhoneNumber": "016-920 6990",
+			"Latitude": "4.226456",
+			"Longitude": "103.420114",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Brigstone Auto Maju Workshop Sdn Bhd",
+			"AddressLine1": "Lot 1149, Kawasan Perindustrian Batu 7,",
+			"AddressLine2": "Jalan Paka,",
+			"AddressLine3": "",
+			"Email": "automaju88@gmail.com",
+			"PostCode": "23000",
+			"City": "Dungun",
+			"State": "Terengganu",
+			"PhoneNumber": "+609 845 3803",
+			"Latitude": "4.715479",
+			"Longitude": "103.399328",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Soon Hing Workshop Sdn Bhd",
+			"AddressLine1": "PT 2750, Jalan Padang Luas,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "soon_hing2750@yahoo.com.my",
+			"PostCode": "22000",
+			"City": "Jerteh",
+			"State": "Terengganu",
+			"PhoneNumber": "+609 697 1406",
+			"Latitude": "5.742485",
+			"Longitude": "102.465902",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "No 16, Jln Besar,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "22000",
+			"City": "Jerteh",
+			"State": "Terengganu",
+			"PhoneNumber": "016- 207 3997",
+			"Latitude": "5.739051",
+			"Longitude": "102.493873",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Keong Workshop (terengganu) Sdn Bhd",
+			"AddressLine1": "Lot PT 2989,",
+			"AddressLine2": "Kawasan Perindustrian Chendering,",
+			"AddressLine3": "",
+			"Email": "keongtrg@gmail.com",
+			"PostCode": "21080",
+			"City": "Kuala Terengganu",
+			"State": "Terengganu",
+			"PhoneNumber": "+609 617 1198, +609-617 2198",
+			"Latitude": "5.271013",
+			"Longitude": "103.161699",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Yoong Lee Car-tech Sdn Bhd",
+			"AddressLine1": "PT 2138 K,",
+			"AddressLine2": "Kawasan Perindustrian Chendering,",
+			"AddressLine3": "",
+			"Email": "yoonglee01@yahoo.com.my",
+			"PostCode": "21080",
+			"City": "Kuala Terengganu",
+			"State": "Terengganu",
+			"PhoneNumber": "+609 617 1407",
+			"Latitude": "5.269960",
+			"Longitude": "103.163899",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "No 743, Jln Chendering,",
+			"AddressLine2": "Kg Chendering,",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "21080",
+			"City": "Kuala Terengganu",
+			"State": "Terengganu",
+			"PhoneNumber": "010- 909 8575",
+			"Latitude": "5.272467",
+			"Longitude": "103.176617",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Bengkel Chin Ho Sdn Bhd",
+			"AddressLine1": "Lot 3687, Jalan Segambut",
+			"AddressLine2": "Batu 4 1\/2,",
+			"AddressLine3": "",
+			"Email": "bch3363@yahoo.com",
+			"PostCode": "51200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 6252 3363",
+			"Latitude": "3.187615",
+			"Longitude": "101.666769",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Wing Yee Motor Sdn Bhd",
+			"AddressLine1": "Lot 3689-A Jalan Segambut,",
+			"AddressLine2": "Batu 4 1\/2 Segambut,",
+			"AddressLine3": "",
+			"Email": "wingyeelhk@gmail.com",
+			"PostCode": "51200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 6257 5250, +603 6257 6260",
+			"Latitude": "3.188944",
+			"Longitude": "101.664458",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Joo Auto Works Sdn Bhd",
+			"AddressLine1": "No.1, Jalan Helang Hindik",
+			"AddressLine2": "Kawasan Industri Kepong Baru",
+			"AddressLine3": "",
+			"Email": "jooauto1217@gmail.com",
+			"PostCode": "52100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 6275 0889",
+			"Latitude": "3.196380",
+			"Longitude": "101.642044",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dmg Auto Glass Sdn Bhd",
+			"AddressLine1": "No 29, Jln Ambong 3",
+			"AddressLine2": "Kepong Baru,",
+			"AddressLine3": "",
+			"Email": "dmgautoglass@hotmail.com, dmgautoglass@gmail.com",
+			"PostCode": "52100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-6251 1900",
+			"Latitude": "3.211776",
+			"Longitude": "101.646245",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Soon Cit Auto Supplies Sdn Bhd",
+			"AddressLine1": "No 34 & 35 Jln Ambong 2,",
+			"AddressLine2": "Kepong Baru,",
+			"AddressLine3": "",
+			"Email": "scautosupplies@hotmail.com",
+			"PostCode": "52100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-6253 2801",
+			"Latitude": "3.211381",
+			"Longitude": "101.646698",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Kiam Yen Motors Sdn Bhd",
+			"AddressLine1": "Lot 1239, Jalan KIP 10,  Taman",
+			"AddressLine2": "Perindustrian KIP,",
+			"AddressLine3": "",
+			"Email": "kyenmsb@gmail.com",
+			"PostCode": "52200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 6277 5255",
+			"Latitude": "3.203100",
+			"Longitude": "101.602755",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd  (ulu Klang)",
+			"AddressLine1": "P1 Jln Besar,",
+			"AddressLine2": "Taman Melawati,",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "53100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "016-330 3982",
+			"Latitude": "3.212177",
+			"Longitude": "101.548061",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Kee Cheong Auto Sdn Bhd",
+			"AddressLine1": "Lot 9, Jalan Perusahaan Kiri,",
+			"AddressLine2": "Kawasan Perusahaan Ringan",
+			"AddressLine3": "",
+			"Email": "kcasb9@gmail.com",
+			"PostCode": "53200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 4022 2428",
+			"Latitude": "3.195648",
+			"Longitude": "101.715753",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bsm Motor Works Sdn Bhd",
+			"AddressLine1": "No. 33, Jln 7\/23A, Taman Danau Kota,",
+			"AddressLine2": "Off Jln Genting Klang,",
+			"AddressLine3": "",
+			"Email": "bsmmotorworks@gmail.com",
+			"PostCode": "53300",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 4142 8122",
+			"Latitude": "3.198423",
+			"Longitude": "101.719306",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "A One Windscreen Carcare",
+			"AddressLine1": "No 36, Jln 7\/23A,",
+			"AddressLine2": "Tmn Danau Kota,",
+			"AddressLine3": "Off Jln Genting Klang,",
+			"Email": "a1wcc36@yahoo.com.my",
+			"PostCode": "53300",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-4143 8979, 012-320 3979",
+			"Latitude": "3.198275",
+			"Longitude": "101.719501",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Cermin Sdn Bhd",
+			"AddressLine1": "No 23, Jln Pandan Prima 1,",
+			"AddressLine2": "Dataran Pandan Prima,",
+			"AddressLine3": "",
+			"Email": "drcermin@gmail.com",
+			"PostCode": "55100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "012- 297 8228",
+			"Latitude": "3.152546",
+			"Longitude": "101.738606",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Wtf Auto Services Sdn Bhd",
+			"AddressLine1": "23A, Jalan Empat, Off",
+			"AddressLine2": "Jalan Chan Sow Lin",
+			"AddressLine3": "",
+			"Email": "info@wtfauto.com.my, tkwong@wtfauto.com.my",
+			"PostCode": "55200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 9221 0997, +603 9221 0998",
+			"Latitude": "3.117034",
+			"Longitude": "101.713081",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		},
+		{
+			"Name": "Bengkel Kereta Reliance Sdn Bhd",
+			"AddressLine1": "No. 29, Lot 337, Seksyen 92,",
+			"AddressLine2": "Jalan 2, Chan Sow Lin,",
+			"AddressLine3": "",
+			"Email": "relianceautokl@gmail.com",
+			"PostCode": "55200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 9221 5488",
+			"Latitude": "3.120735",
+			"Longitude": "101.715324",
+			"Type": [
+				"WOR"
+			]
+		},
+		{
+			"Name": "Loke Yew Auto Windscreen Specialists",
+			"AddressLine1": "No 56, Jln Loke Yew,",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "lokeyew.auto@yahoo.com.my",
+			"PostCode": "55200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "012-397 9329, 016-322 9221",
+			"Latitude": "3.130131",
+			"Longitude": "101.710984",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Dr Windscreen Sdn Bhd",
+			"AddressLine1": "No 13-G-2, Jln Perdana 6\/6",
+			"AddressLine2": "",
+			"AddressLine3": "",
+			"Email": "drwindscreenthe1st@gmail.com",
+			"PostCode": "55300",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "012-238 7908, 012-331 3625, 03-9284 6133",
+			"Latitude": "3.112864",
+			"Longitude": "101.744559",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Mag Auto Glass Sdn Bhd",
+			"AddressLine1": "No K7G, Connaught Avenue 30,",
+			"AddressLine2": "Jln 9,  Tmn Bukit Cheras,",
+			"AddressLine3": "",
+			"Email": "mag@magautoglass.com,  mazura@mag-autoglass.com.my",
+			"PostCode": "56000",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "016- 632 6282",
+			"Latitude": "3.079475",
+			"Longitude": "101.742649",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Mr Windscreen Enterprise",
+			"AddressLine1": "No 32, Jln Midah 1,",
+			"AddressLine2": "Tmn Midah",
+			"AddressLine3": "",
+			"Email": "frankie@mr-windscreen.com.my",
+			"PostCode": "56000",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "012-622 0600",
+			"Latitude": "3.103987",
+			"Longitude": "101.732465",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Windshield Specialist",
+			"AddressLine1": "No 34 LG, Jln 2\/101C,",
+			"AddressLine2": "Cheras Business Centre,",
+			"AddressLine3": "",
+			"Email": "info@windshield-specialist.com",
+			"PostCode": "56100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03- 9130 6533",
+			"Latitude": "3.099771",
+			"Longitude": "101.739599",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Wind Autoglass Supplies",
+			"AddressLine1": "KS-6, G Flr, Tmn Evergreen,",
+			"AddressLine2": "Batu 4, Jln Klang Lama,",
+			"AddressLine3": "",
+			"Email": "lennexkoh@gmail.com",
+			"PostCode": "58100",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "03-7980 6888",
+			"Latitude": "3.098360",
+			"Longitude": "101.675632",
+			"Type": [
+				"WIN"
+			]
+		},
+		{
+			"Name": "Hong Heng Autorepairs Sdn Bhd",
+			"AddressLine1": "No. 1, Jalan 8\/155",
+			"AddressLine2": "Bukit Jalil Industrial (Bukit O.U.G),",
+			"AddressLine3": "",
+			"Email": "honghengautorepairs@gmail.com",
+			"PostCode": "58200",
+			"City": "Kuala Lumpur",
+			"State": "Wilayah Persekutuan",
+			"PhoneNumber": "+603 7782 5948",
+			"Latitude": "3.063927",
+			"Longitude": "101.664800",
+			"Type": [
+				"WIN",
+				"WOR"
+			]
+		}
+	]
+}

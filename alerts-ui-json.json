@@ -1,0 +1,315 @@
+{ 
+	"Views": [{
+		"id": "Issuance",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "PolicySOS",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Proposal Number\",\"map\":\"proposalNumber\",\"translateId\":\"alerts.proposalNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/proposalNumber.html\"},{\"label\":\"Premium Amount (excluding Service Tax)\",\"map\":\"premiumAmount\",\"translateId\":\"alerts.premiumExcludingTaxHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Application Date\",\"map\":\"ApplicationDate\",\"translateId\":\"alerts.applicationDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Issuance Date\",\"map\":\"IssuanceDate\",\"translateId\":\"alerts.issuanceDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "Surrender",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "Surrender",
+						"caption": "",					
+						"translate-id": "",
+						"headers":"[{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Policy Number\",\"map\":\"policyId\",\"translateId\":\"alerts.policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyNumber.html\"},{\"label\":\"Product Name\",\"map\":\"productName\",\"translateId\":\"alerts.productNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Policy Issue Date\",\"map\":\"policyIssueDate\",\"translateId\":\"alerts.policyIssueDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Date of Surrender Request\",\"map\":\"date\",\"translateId\":\"alerts.dateOfSurrenderHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+				"id": "LapseAlerts",
+		        "enableCache" : true,
+				"templateID": "SmartaTable",
+				"controls": [{
+								"control": "smartTable",
+								"name": "Lapse Alerts",
+								"caption": "",					
+								"translate-id": "",
+								"headers":"[{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Policy Number\",\"map\":\"policyNumber\",\"translateId\":\"alerts.policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyNumber.html\"},{\"label\":\"Product Name\",\"map\":\"productName\",\"translateId\":\"alerts.productNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Premium Amount\",\"map\":\"premiumAmount\",\"translateId\":\"alerts.premiumAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Premium Due Date\",\"map\":\"premiumDueDate\",\"translateId\":\"alerts.premiumDueDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Policy Status\",\"map\":\"policyStatus\",\"translateId\":\"alerts.policyStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"CTP Amount\",\"map\":\"ctpAmount\",\"translateId\":\"alerts.ctpAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"}]",
+								"ngrepeat": "item.alerts",
+								"sortable":true,
+								"pagination":true,
+								"itemsPerPage" :10,
+								"filterAlgorithm": "dateFilter"
+							}],
+							"title": "",
+							"translate-id": ""				
+					},
+			
+	 {
+		"id": "RenewalAlerts",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "EarningOpportunity",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Policy Number\",\"map\":\"policyNumber\",\"translateId\":\"alerts.policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyNumber.html\"},{\"label\":\"Product Name\",\"map\":\"productName\",\"translateId\":\"alerts.productNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Policy Status\",\"map\":\"policyStatus\",\"translateId\":\"alerts.policyStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Premium Due Date\",\"map\":\"date\",\"translateId\":\"alerts.premiumDueDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Premium Amount\",\"map\":\"premiumAmount\",\"translateId\":\"alerts.premiumAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"CTP Amount\",\"map\":\"ctpAmount\",\"translateId\":\"alerts.ctpAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			
+			{
+		"id": "UpsellOpportunities",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "EarningOpportunity",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead Name\",\"map\":\"clientName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Type\",\"map\":\"leadType\",\"translateId\":\"alerts.leadTypeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Reason To Call\",\"map\":\"reasonToCall\",\"translateId\":\"alerts.reasonToCallHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "IssuancePending",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "EarningOpportunity",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Proposal Number\",\"map\":\"proposalNumber\",\"translateId\":\"alerts.proposalNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/proposalNumber.html\"},{\"label\":\"Premium Amount (excluding Service Tax)\",\"map\":\"premiumAmount\",\"translateId\":\"alerts.premiumExcludingTaxHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Application Date\",\"map\":\"caseAppliedDate\",\"translateId\":\"alerts.applicationDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Current Status\",\"map\":\"currentStatus\",\"translateId\":\"alerts.currentStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "R&RAlerts",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "EarningOpportunity",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Scheme Name\",\"map\":\"schemeName\",\"translateId\":\"alerts.schemeNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Remarks\",\"map\":\"remarks\",\"translateId\":\"alerts.remarksHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "CompensationAlerts",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "EarningOpportunity",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Date of Disbursement\",\"map\":\"dateofDisbursement\",\"translateId\":\"alerts.dateofDisbursementHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Disbursed Amount\",\"map\":\"disbursedAmount\",\"translateId\":\"alerts.disbursedAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Disbursement Type\",\"map\":\"disbursementType\",\"translateId\":\"alerts.disbursementTypeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Remarks\",\"map\":\"remarks\",\"translateId\":\"alerts.remarksHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "ScheduledMeetingsAlerts",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "Lead Alert",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead Name\",\"map\":\"clientName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Meeting Date\",\"map\":\"date\",\"translateId\":\"alerts.meetingDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Time of Meeting\",\"map\":\"meetingTime\",\"translateId\":\"alerts.meetingTimeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.leadContactNumberHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\"},{\"label\":\"Comments\",\"map\":\"comments\",\"translateId\":\"alerts.commentsHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""
+		
+			},
+			{
+		"id": "LeadsForActionAlerts",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "Lead Alert",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.leadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Name\",\"map\":\"leadName\",\"translateId\":\"alerts.leadNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Lead Status\",\"map\":\"leadStatus\",\"translateId\":\"alerts.leadStatusHeader\",\"cellTemplateUrl\":\"modules/common/partials/statusDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Number of Days in Current Status\",\"map\":\"noOfDaysInCurrentState\",\"translateId\":\"alerts.statusDayCount\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\"},{\"label\":\"Comments\",\"map\":\"comments\",\"translateId\":\"alerts.commentsHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""	
+			},
+			{
+		"id": "MyTraining",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "importantcommunication",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Sr. No\",\"map\":\"$index\",\"isSortable:false,translateId\":\"alerts.srNoHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\"},{\"label\":\"Training Name\",\"map\":\"trainingName\",\"translateId\":\"alerts.trainingNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Date\",\"map\":\"date\",\"translateId\":\"alerts.dateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Test Score\",\"map\":\"testScrore\",\"translateId\":\"alerts.testScoreHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""	
+			},
+			{
+		"id": "FutureTraining",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "importantcommunication",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Date\",\"map\":\"date\",\"translateId\":\"alerts.dateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Training Subject\",\"map\":\"trainingSubject\",\"translateId\":\"alerts.trainingSubjectHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Venue Of Training\",\"map\":\"venueOfTraining\",\"translateId\":\"alerts.venueOfTrainingHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellMedium.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""	
+			},
+			{
+		"id": "Other Communications",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "importantcommunication",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Date\",\"map\":\"date\",\"translateId\":\"alerts.dateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Type\",\"map\":\"type\",\"translateId\":\"alerts.typeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Message\",\"map\":\"message\",\"translateId\":\"alerts.messageHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableMoreInfoCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_300\",\"headerClass\":\"smart_table_cell_300\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""	
+			},
+			{
+		"id": "Birthday",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "RelationshipManagement",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Date of Birth\",\"map\":\"date\",\"translateId\":\"alerts.dateOfBirthHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Client Type\",\"map\":\"clientType\",\"translateId\":\"alerts.clientTypeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Policy Number/ CRM Lead ID\",\"map\":\"crmId\",\"translateId\":\"alerts.policyNumberCRMHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyLeadId.html\"},{\"label\":\"E-mail\",\"map\":\"emailId\",\"translateId\":\"alerts.emailIdHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableHeadCellEmail.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact No.\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNo.\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart-table-email-cell\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "Anniversary",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "RelationshipManagement",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Date of Anniversary\",\"map\":\"date\",\"translateId\":\"alerts.dateOfAnniversaryHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Client Type\",\"map\":\"clientType\",\"translateId\":\"alerts.clientTypeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"E-mail\",\"map\":\"emailId\",\"translateId\":\"alerts.emailIdHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableHeadCellEmail.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart-table-email-cell smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Policy Number\",\"map\":\"policyId\",\"translateId\":\"alerts.policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyNumber.html\"},{\"label\":\"CRM Lead ID\",\"map\":\"leadId\",\"translateId\":\"alerts.crmLeadIdHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+			{
+		"id": "OpenServiceRequests",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "RelationshipManagement",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"alerts.clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Policy Number\",\"map\":\"policyId\",\"translateId\":\"alerts.policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/selfservice/myearnings/partials/policyNumber.html\"},{\"label\":\"Service Request Number\",\"map\":\"serviceRequestNumber\",\"translateId\":\"alerts.serviceRequestNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Request Create Date\",\"map\":\"date\",\"translateId\":\"alerts.requestCreateDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Remarks\",\"map\":\"requestDetails\",\"translateId\":\"alerts.remarksHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Request Status\",\"map\":\"currentStatus\",\"translateId\":\"alerts.requestStatusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/statusDataCell-osr.html\"},{\"label\":\"Resolved Date\",\"map\":\"resolvedDate\",\"translateId\":\"alerts.resolvedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"}]",
+						"ngrepeat": "item.alerts",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+		
+		
+		
+		
+	]
+
+}

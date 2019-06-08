@@ -1,0 +1,15 @@
+{
+	"Version": "1",
+	"generalFormDetails": [{
+		"fileName" : "e-Payment",
+		"downloadUrl" : "Agents Guide - Motor Insurance.pdf"
+	},
+	{
+		"fileName" : "Credit Card Authorization Form",
+		"downloadUrl" : "Agents Guide - Motor Insurance.pdf"
+	},
+	{
+		"fileName" : "Debit Card Authorization Form",
+		"downloadUrl" : "Agents Guide - Motor Insurance.pdf"
+	}]
+}

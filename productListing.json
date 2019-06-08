@@ -1,0 +1,47 @@
+{
+	"Version": "1",
+	"healthProducts": [
+		{
+			"code" : "MHS",
+			"name" : "Group Hospitalisation & Surgical"
+		},
+		{
+			"code" : "MSE",
+			"name" : "Medic SME"
+		},
+		{
+			"code" : "MMP",
+			"name" : "Multi Medical-Protector"
+		},
+		{
+			"code" : "MDP",
+			"name" : "Multi Medi-PLUS"
+		},
+		{
+			"code" : "MME",
+			"name" : "Medic 101"
+		}
+	],
+    "motorProducts":[
+		{
+			"code" : "VCT",
+			"name" : "Motor-Comm Trade Plate"
+		},
+		{
+			"code" : "VCV",
+			"name" : "Motor-Comm Vehicle"
+		},
+		{
+			"code" : "VCM",
+			"name" : "Motor-Comm Vehicle (Master)"
+		},
+		{
+			"code" : "VPC",
+			"name" : "Motor-Private Car MOT"
+		},
+		{
+			"code" : "VPM",
+			"name" : "Motor-Private Car (Master)"
+		}
+    ]
+}

@@ -1,0 +1,22 @@
+{ 
+	"Views": [{
+		"id": "claimLogged",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "PolicySOS",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Branch Agent\",\"map\":\"agentCode\",\"translateId\":\"claimLogged.branchAgent\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Claimant Name\",\"map\":\"policyholderName\",\"translateId\":\"claimLogged.claimantName\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableDataEllipsis.html\"},{\"label\":\"Claim Inc Date\",\"map\":\"claimIncurredDate\",\"translateId\":\"claimLogged.claimIncDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Status\",\"map\":\"claimStatus\",\"translateId\":\"claimLogged.status\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\"},{\"label\":\"\",\"map\":\"\",\"translateId\":\"\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellTemplateUrl\":\"modules/common/partials/tableMoreInfoIconCellClaimsLogged.html\"}]",
+						"ngrepeat": "claimsLoggedDetails",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+              ]
+}

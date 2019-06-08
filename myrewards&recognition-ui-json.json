@@ -1,0 +1,24 @@
+{ 
+	"Views": [{
+		"id": "policyDetails",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "policyDetails",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Policy No.\",\"map\":\"policyNo\",\"translateId\":\"policyNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Client Name\",\"map\":\"clientName\",\"translateId\":\"clientNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Product\",\"map\":\"product\",\"translateId\":\"productHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"MFYP Amount\",\"map\":\"mfypAmount\",\"translateId\":\"mfypAmountHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Applied Date\",\"map\":\"appliedDate\",\"translateId\":\"appliedDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Paid on Date\",\"map\":\"paidOnDate\",\"translateId\":\"paidOnDateHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Commission Earned\",\"map\":\"commissionEarned\",\"translateId\":\"commissionEarnedHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"}]",
+						"ngrepeat": "item.policy",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "test"
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+	]
+	
+
+}

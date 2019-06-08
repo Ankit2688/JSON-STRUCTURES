@@ -1,0 +1,918 @@
+{
+	"Version": "1",
+  	"ProductType" : ["Personal" , "Commercial"],
+  	"MajorClass" : ["PA" , "MEDICAL" , "FIRE" , "MISC" , "LIABILITY" , "MARINE" , "PACKAGE","MEDIC 101","MEDIC SME"],
+	"Personal": [{
+		"name":"Forms",
+		"formlabelname":"Forms",
+		"formheaderNames":["Documents","Download"],
+		"value": [{
+				"majorClass": "PA",
+				"productDesc": "DRIVER & PASSENGERS",
+				"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"http://www.mpigenerali.com/assets/pdf/Proposal-Forms/Driver-And-Passengers-Personal-Accident.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+			},{
+				"majorClass": "PA",
+				"productDesc": "THE GLADIATOR",
+				"documents": [{
+								"name":"Claim Form",
+								"Link":""
+							},
+							{
+								"name":"Customer Form",
+								"Link":"http://www.mpigenerali.com/assets/pdf/Proposal-Forms/Driver-And-Passengers-Personal-Accident.pdf"
+							}
+						]
+			},{
+				"majorClass": "PA",
+				"productDesc": "PERSONAL ACCIDENT",
+				"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"http://www.mpigenerali.com/assets/pdf/Proposal-Forms/Personal-Accident.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						]
+			},{
+				"majorClass": "PA",
+				"productDesc": "MULTI DRIVE PROTECTOR",
+				"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"http://www.mpigenerali.com/assets/pdf/Proposal-Forms/Multi-Drive-Protector.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						]
+			},{
+				"majorClass": "PA",
+				"productDesc": "MULTI LUCKY",
+				"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":""
+							},
+							{
+								"name":"Claim Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-Lucky-PA/Claim-Form.pdf"
+							}
+						]
+			},{
+				"majorClass": "MEDICAL",
+				"productDesc": "MEDIC 101",
+				"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Individual-Proposal-Form.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						]
+			}]
+			},{
+			"name":"productInformation",
+			"productlabelname":"Product Information",
+			"productheaderNames":["Documents","English","Malay"],
+			"value": [{
+				"majorClass": "PA",
+				"productDesc": "MULTI LUCKY",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/personal/multi-lucky-personal-accident.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Multi-Lucky-PA.pdf"
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-Lucky-PA/Table-of-Benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Multi-Lucky-PA.pdf"
+							}
+						]
+			}, {
+				"majorClass": "MEDICAL",
+				"productDesc": "MULTI MEDICAL-PROTECTOR",
+					"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/personal/multi-medical-protector.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-Medical-Protector/Table-of-Benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Multi-Medi-Protector-Insurance-Policy.pdf"
+							}
+						]
+			}, {
+				"majorClass": "PA",
+				"productDesc": "MULTI PA PROTECTOR",
+					"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/personal/multi-pa-protector.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-PA-Protector/Table-of-Benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Multi-PA-Protector.pdf"
+							}
+						]
+			}, {
+				"majorClass": "PA",
+				"productDesc": "MULTI DRIVE PROTECTOR",
+					"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/motor/personal/multi-drive-protector.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-Drive-Protector/Table-of-Benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Multi-Drive-Protector.pdf"
+							}
+						]
+			}, {
+				"majorClass": "PA",
+				"productDesc": "MULTI PA PREMIER",
+					"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/personal/multi-pa-premier.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-PA-Premier/Table-of-Benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Multi-PA-Premier.pdf"
+							}
+						]
+			}, {
+				"majorClass": "MEDICAL",
+				"productDesc": "MULTI  MEDI-PLUS",
+					"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/personal/multi-medi-plus.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Multi-Medi-PLUS/Table-of-Benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Multi-Medi-PLUS-Insurance-Policy.pdf"
+							}
+						]
+			}, {
+				"majorClass": "MEDICAL",
+				"productDesc": "MEDIC 101",
+					"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/personal/medic-101.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/Medic-101/Table-of-Benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Medic-101.pdf"
+							}
+						]
+			}, {
+				"majorClass": "PA",
+				"productDesc": "TRAVEL PERSONAL ACCIDENT",
+					"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/personal/travel-personal-accident-insurance.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Travel-PA.pdf"
+							}
+						]
+			}, {
+				"majorClass": "PA",
+				"productDesc": "THE GLADIATOR",
+					"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/personal/the-gladiator.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/personal/The-Gladiator/Table-of-Benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/The-Gladiator.pdf"
+							}
+						]
+				}]
+			}],
+			
+	"Commercial": [{
+	"name":"Forms",
+	"formlabelname":"Forms",
+	"formheaderNames":["Documents","Download"],
+	"value": [{
+			"majorClass": "MEDICAL",
+			"productDesc": "MEDIC SME",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/commercial/Medic-SME-Proposal-Form.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						]
+			
+		},{
+			"majorClass": "LIABILITY",
+			"productDesc": "COMPREHENSIVE GENERAL",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Comprehensive-General-Liability.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+			
+		},{
+			"majorClass": "LIABILITY",
+			"productDesc": "DIRECTORS' & OFFICERS'",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Directors-And-Officers-Liability.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+			
+		},{
+			"majorClass": "LIABILITY",
+			"productDesc": "MEDICAL MALPRACTICE'",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Medical-Malpractice.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+		},{
+			"majorClass": "LIABILITY",
+			"productDesc": "PRODUCTS LIABILITY",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Products-Liability.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+			
+		},{
+			"majorClass": "LIABILITY",
+			"productDesc": "PROFESSIONAL INDEMNITY",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Professional-Indemnity.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+			
+		},{
+			"majorClass": "LIABILITY",
+			"productDesc": "PUBLIC LIABILITY",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Public-Liability.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						
+						]
+			
+		},{
+			"majorClass": "ENGINEERING",
+			"productDesc": "CONTRACTOR'S ALL RISKS",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Contractor-All-Risks.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+			
+		},{
+			"majorClass": "ENGINEERING",
+			"productDesc": "ERECTION ALL RISKS",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Erection-All-Risks.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						
+						]
+			
+		},{
+			"majorClass": "ENGINEERING",
+			"productDesc": "WORKMEN'S COMPENSATION",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Workmen-Compensation.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						
+						]
+			
+		},{
+			"majorClass": "MARINE",
+			"productDesc": "GOODS IN TRANSIT",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Goods-In-Transit.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+			
+		},{
+			"majorClass": "MARINE",
+			"productDesc": "MARINE CARGO",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Marine-Cargo.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						
+						]
+		
+		},{
+			"majorClass": "MARINE",
+			"productDesc": "MARINE HULL - PLEASURE CRAFT",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Marine-Hull-Pleasure-Craft.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+							
+						]
+			
+		},{
+			"majorClass": "BOND",
+			"productDesc": "PERFORMANCE AND ADVANCE PAYMENT",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Performance-Bond-And-Advance-Payment-Bond.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							}
+						
+						]
+			
+		},{
+			"majorClass": "FIRE",
+			"productDesc": "FIRE AND FIRE CONSEQUENTIAL LOSS",
+			"documents": [
+							{
+								"name":"Proposal Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Performance-Bond-And-Advance-Payment-Bond.pdf"
+							},
+							{
+								"name":"Claim Form",
+								"Link":""
+							},{
+								"name":"demo Form",
+								"Link":"https://www.mpigenerali.com/assets/pdf/Proposal-Forms/Performance-Bond-And-Advance-Payment-Bond.pdf"
+							}
+						
+						]
+			
+		}]
+		},
+		{
+		"name":"productInformation",
+		"productlabelname":"Product Information",
+		"productheaderNames":["Documents","English","Malay"],
+		"value": [{
+			"majorClass": "FIRE",
+			"productDesc": "FIRE AND FIRE CONSEQUENTIAL LOSS",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/fire-risk-insurance-and-fire-consequential-loss-insurance.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MISC",
+			"productDesc": "BURGLARY",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/burglary-insurance.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "LIABILITY",
+			"productDesc": "EMPLOYER'S LIABILITY",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/employers-liability.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MISC",
+			"productDesc": "FIDELITY GUARANTEE",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/fidelity-guarantee.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "PA",
+			"productDesc": "GROUP PERSONAL ACCIDENT",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/group-personal-accident-insurance.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "LIABILITY",
+			"productDesc": "PUBLIC LIABILITY",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/public-liability-insurance.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MEDICAL",
+			"productDesc": "GROUP HOSPITALISATION AND SURGICAL",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/group-hospitalisation-and-surgical.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MARINE",
+			"productDesc": "GOODS IN TRANSIT",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/goods-in-transit.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MARINE",
+			"productDesc": "MARINE CARGO",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/marine-cargo.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MARINE",
+			"productDesc": "MARINE HULL",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/marine-hull.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "PACKAGE",
+			"productDesc": "MULTI BIZ PROTECTOR",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/multi-biz-protector.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/commercial/Multi-Biz-Proctector/Table-of-benefits.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Multi-Biz-Protector.pdf"
+							}
+						]
+			
+		}, {
+			"majorClass": "MEDICAL",
+			"productDesc": "MEDIC SME",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/medic-sme.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":"https://www.mpigenerali.com/assets/pdf/non-motor/commercial/Medic-SME/Table-of-benefit.pdf"
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/Medic-SME.pdf"
+							}
+						]
+			
+		}, {
+			"majorClass": "LIABILITY",
+			"productDesc": "SME PRODUCT LIABILITY",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/sme-product-liability.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":"https://www.mpigenerali.com/assets/pds/en/pds/SME-Products-Liability.pdf"
+							}
+						]
+		
+		}, {
+			"majorClass": "MISC",
+			"productDesc": "LARGE CORPORATIONS",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/large-corporations.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MISC",
+			"productDesc": "MACHINE & EQUIPMENT",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/other-insurances.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+		
+		}, {
+			"majorClass": "MISC",
+			"productDesc": "MACHINERY BREAKDOWN",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/other-insurances.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MISC",
+			"productDesc": "MONEY",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/other-insurances.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+		}, {
+			"majorClass": "MISC",
+			"productDesc": "PLATE GLASS",
+				"documents": [
+							{
+								"name":"Product Summary",
+								"Link":"https://www.mpigenerali.com/index.php/what-we-do/non-motor/commercial/other-insurances.html"
+							},
+							{
+								"name":"Brochure",
+								"Link":""
+							},
+							{
+								"name":"Table Of Benefits",
+								"Link":""
+							},
+							{
+								"name":"Disclosure Sheet",
+								"Link":""
+							}
+						]
+			
+			}]
+		}]
+}

@@ -1,0 +1,73 @@
+{ 
+	"Views": [{
+		"id": "majorClass",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+						"control": "smartTable",
+						"name": "PolicySOS",
+						"caption": "",						
+						"translate-id": "",
+						"headers":"[{\"label\":\"Major Class \",\"map\":\"majorClass\",\"translateId\":\"performance.majorClass\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Policy No\",\"map\":\"totalPremNewIndicator\",\"translateId\":\"performance.new\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Claim Inc Date\",\"map\":\"totalPremRenewalIndicator\",\"translateId\":\"performance.renewal\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Status\",\"map\":\"totalPrem\",\"translateId\":\"performance.total\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"}]",
+						"ngrepeat": "majorClassData",
+						"sortable":true,
+						"pagination":true,
+						"itemsPerPage" :10,
+						"filterAlgorithm": "dateFilter",
+                        "footer":"majorClassFooter"
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+            {
+            "id": "productType",
+            "enableCache" : true,
+            "templateID": "SmartaTable",
+            "controls": [{
+                            "control": "smartTable",
+                            "name": "PolicySOS",
+                            "caption": "",						
+                            "translate-id": "",
+                            "headers":"[{\"label\":\"Product Type\",\"map\":\"contractType\",\"translateId\":\"performance.productType\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Policy No\",\"map\":\"totalPremNewIndicator\",\"translateId\":\"performance.new\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Claim Inc Date\",\"map\":\"totalPremRenewalIndicator\",\"translateId\":\"performance.renewal\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Status\",\"map\":\"totalPrem\",\"translateId\":\"performance.total\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"}]",
+                            "ngrepeat": "productTypeData",
+                            "sortable":true,
+                            "pagination":true,
+                            "itemsPerPage" :10,
+                            "filterAlgorithm": "dateFilter",
+                            "footer":"productTypeFooter"
+                        }],
+                        "title": "",
+                        "translate-id": ""				
+			},
+              {
+		"id": "motorPerformanceOverview",
+		"enableCache" : true,
+		"templateID": "ChartTemplate",
+		"controls": [{ 
+						"control": "chart",
+						"id": "motor_chart",
+						"type": "pieChart",
+						"data": "newPerformanceOverviewData",
+						"xaxisLabel": "Major Class"
+						
+					}],
+					"title": "",
+					"translate-id": ""				
+			},
+            {
+		"id": "nonMotorPerformanceOverview",
+		"enableCache" : true,
+		"templateID": "ChartTemplate",
+		"controls": [{ 
+						"control": "chart",
+						"id": "nonMotor_chart",
+						"type": "pieChart",
+						"data": "renewalPerformanceOverviewData",
+						"xaxisLabel": "Major Class"
+						
+					}],
+					"title": "",
+					"translate-id": ""				
+			}  
+    ]
+}

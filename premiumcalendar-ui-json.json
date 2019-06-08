@@ -1,0 +1,62 @@
+{ 
+	"Views": [{
+		"id": "premiumCalendar",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+				"control": "smartTable",
+				"name": "premiumCalendar",
+				"caption": "",						
+				"translate-id": "",
+				"headers":"[{\"label\":\"Policy Number\",\"map\":\"policyNumber\",\"translateId\":\"premiumCalender.policyNumberHeader\",\"cellTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/policyNumber.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Policy Holder Name\",\"map\":\"policyHolderName\",\"translateId\":\"premiumCalender.policyHolderNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"cellClass\":\"smart-table-email-cell\"},{\"label\":\"CTP Amount\",\"map\":\"ctpAmount\",\"translateId\":\"alerts.ctpAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Gross Amount\",\"map\":\"grossAmount\",\"translateId\":\"premiumCalender.grossAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Status\",\"map\":\"status\",\"translateId\":\"statusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Plan Name\",\"map\":\"planName\",\"translateId\":\"planNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Payment Mode\",\"map\":\"paymentMode\",\"translateId\":\"paymentModeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Last Payment Date\",\"map\":\"lastPaymentDate\",\"translateId\":\"lastPaymentDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Last Payment Instrument Type\",\"map\":\"lastPaymentInstrument\",\"translateId\":\"lastPaymentInstrumentHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"}]",
+				"ngrepeat": "item",
+				"sortable":true,
+				"pagination":true,
+				"itemsPerPage" :10,
+				"filterAlgorithm": "test"
+			    }],
+			    "title": "",
+			    "translate-id": ""				
+			},
+			{
+		"id": "premiumCalendarLapsed",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+				"control": "smartTable",
+				"name": "premiumCalendarLapsed",
+				"caption": "",						
+				"translate-id": "",
+				"headers":"[{\"label\":\"Policy Number\",\"map\":\"policyNumber\",\"translateId\":\"premiumCalender.policyNumberHeader\",\"cellTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/policyNumber.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Policy Holder Name\",\"map\":\"policyHolderName\",\"translateId\":\"premiumCalender.policyHolderNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\"},{\"label\":\"Reinstatement Amount\",\"map\":\"reinstatementAmount\",\"translateId\":\"reinstatementHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Gross Amount\",\"map\":\"grossAmount\",\"translateId\":\"premiumCalender.grossAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Status\",\"map\":\"status\",\"translateId\":\"statusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Plan Name\",\"map\":\"planName\",\"translateId\":\"planNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Payment Mode\",\"map\":\"paymentMode\",\"translateId\":\"paymentModeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Last Payment Date\",\"map\":\"lastPaymentDate\",\"translateId\":\"lastPaymentDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Last Payment Instrument Type\",\"map\":\"lastPaymentInstrument\",\"translateId\":\"lastPaymentInstrumentHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"}]",
+				"ngrepeat": "item",
+				"sortable":true,
+				"pagination":true,
+				"itemsPerPage" :10,
+				"filterAlgorithm": "test"
+			    }],
+			    "title": "",
+			    "translate-id": ""				
+			},
+			{
+		"id": "premiumCalendarPremiumDue",
+		"enableCache" : true,
+		"templateID": "SmartaTable",
+		"controls": [{
+				"control": "smartTable",
+				"name": "premiumCalendarPremiumDue",
+				"caption": "",						
+				"translate-id": "",
+				"headers":"[{\"label\":\"Policy Number\",\"map\":\"policyNumber\",\"translateId\":\"premiumCalender.policyNumberHeader\",\"cellTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/policyNumber.html\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Status\",\"map\":\"status\",\"translateId\":\"statusHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\"},{\"label\":\"Policy Holder Name\",\"map\":\"policyHolderName\",\"translateId\":\"premiumCalender.policyHolderNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Contact Number\",\"map\":\"contactNumber\",\"translateId\":\"alerts.contactNumberHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataCell.html\",\"cellClass\":\"smart-table-email-cell\"},{\"label\":\"CTP Amount\",\"map\":\"ctpAmount\",\"translateId\":\"alerts.ctpAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Gross Amount\",\"map\":\"grossAmount\",\"translateId\":\"premiumCalender.grossAmountHeader\",\"headerTemplateUrl\":\"modules/customerservice/premiumCalendar/partials/rupee.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataAmountCell.html\"},{\"label\":\"Plan Name\",\"map\":\"planName\",\"translateId\":\"planNameHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Payment Mode\",\"map\":\"paymentMode\",\"translateId\":\"paymentModeHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCell.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"},{\"label\":\"Last Payment Date\",\"map\":\"lastPaymentDate\",\"translateId\":\"lastPaymentDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\"},{\"label\":\"Last Payment Instrument Type\",\"map\":\"lastPaymentInstrument\",\"translateId\":\"lastPaymentInstrumentHeader\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellLarge.html\",\"cellClass\":\"smart_table_cell_200\",\"headerClass\":\"smart_table_cell_200\"}]",
+				"ngrepeat": "item",
+				"sortable":true,
+				"pagination":true,
+				"itemsPerPage" :10,
+				"filterAlgorithm": "test"
+			    }],
+			    "title": "",
+			    "translate-id": ""				
+			}
+	]
+	
+
+}

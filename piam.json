@@ -1,0 +1,10 @@
+{
+	"Version": "1",	
+	"Piam": [{
+		"fileName" : "Authorised Partner Repairer",
+		"downloadUrl" : "https://www.mpigenerali.com/assets/pdf/MPI-Generali-Partner-Repairers.pdf"
+	}, {
+	  "fileName" : "Authorised Windscreen Repairer",
+	  "downloadUrl" : "https://www.mpigenerali.com/assets/pdf/Authorised-Windscreen-Repairer-27022018.pdf"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	"Version": "1",
+	"Underwriting": [{
+		"fileName" : "Agent's Guide - Motor Insurance",
+		"downloadUrl" : "Agents Guide - Motor Insurance.pdf"
+	},
+	{
+		"fileName" : "Agent Hand book",
+		"downloadUrl" : "Agents Guide - Motor Insurance.pdf"
+	}],
+	"Claims": [{
+		"fileName" : "Claim Turn Around Time and Guide",
+		"downloadUrl" : "http://www.mpigenerali.com/index.php/who-we-are/service-delivery-standard.html"
+	}],
+	"SocialMediaGuidelines": [{
+		"fileName" : "Agency Circular No. 4 of 2018",
+		"downloadUrl" : "https://omni.mpigenerali.com/impmsg/Circular/Agency Circular No. 4 of 2018.pdf"
+	}]
+}

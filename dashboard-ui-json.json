@@ -1,0 +1,42 @@
+{ 
+	"Views": [
+			{
+				"id": "PotentialtoEarn",
+				"enableCache" : true,
+				"templateID": "SmartaTable",
+				"controls": [{
+								"control": "smartTable",
+								"name": "PolicySOS",
+								"caption": "",						
+								"translate-id": "",
+								"headers":"[{\"label\":\"Policy Holder Name\",\"map\":\"policyholderName\",\"translateId\":\"policyHolderName\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellClass\":\"smart_table_cell_250\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Policy No\",\"map\":\"policyNumber\",\"translateId\":\"policyNoClaimNo\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Claim Incurred Date\",\"map\":\"claimIncurredDate\",\"translateId\":\"claimIncurredDate\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"cellTemplateUrl\":\"modules/common/partials/tableDataDateCell.html\",\"headerClass\":\"smart_table_cell_250\"},{\"label\":\"Claim Status\",\"map\":\"claimStatus\",\"translateId\":\"claimStatus\",\"headerTemplateUrl\":\"modules/common/partials/tableHeaderCellNoSort.html\",\"headerClass\":\"smart_table_cell_200\"}]",
+								"ngrepeat": "dashBoardData.ClaimsLoggedSearchResult",
+								"sortable":false,
+								"pagination":false,
+								"filterAlgorithm": "dateFilter"
+							}],
+							"title": "",
+							"translate-id": ""				
+					},
+			{
+		"id": "PerformanceOverview",
+		"enableCache" : true,
+		"templateID": "ChartTemplate",
+		"controls": [{ 
+						"control": "chart",
+						"id": "bar_chart",
+						"type": "barChart",
+						"data": "performanceOverview",
+						"xaxisLabel": "Major Class",
+						"ticks": "performanceXaxisTicks",
+						"xaxisdata": "policyYear1",
+						"yaxisdata": "guaranteed_Surr_Value"
+						
+					}],
+					"title": "",
+					"translate-id": ""				
+			}
+			
+			]
+
+}
